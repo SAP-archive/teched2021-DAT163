@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# DAT163 - Catalog, Discover, and Prepare: Data Governance with SAP Data Intelligence
 
 ## Description
 
