@@ -61,12 +61,19 @@ After completing these steps you will have uploaded and published datasets in SA
 <br>![](/exercises/ex1/images/Ex01_Part02_11.png)
 
 12. Click 'Open'
+<br>![](/exercises/ex1/images/Ex01_Part02_12.png)
 
 13. Click 'Upload'
+<br>![](/exercises/ex1/images/Ex01_Part02_13.png)
 
-15. After Upload is Complete, click 'Close'
+The file will upload on the data lake.
+<br>![](/exercises/ex1/images/Ex01_Part02_13_bis.png)
 
-16. 
+14. After Upload is Complete, click 'Close'
+<br>![](/exercises/ex1/images/Ex01_Part02_14.png)
+
+15. The file is now uploaded and available in the data lake.
+<br>![](/exercises/ex1/images/Ex01_Part02_15.png)
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
