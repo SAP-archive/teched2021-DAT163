@@ -37,10 +37,10 @@ The requirements to follow the exercises in this repository are to use a Chrome 
 
 *Note: For example if you are user 01, then rename your file DRUG_01.csv*
 
+## Disclaimer
+- Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.
+
 ## Exercises
-
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
 - [Exercise 1 - Profile The Data](exercises/ex1/)
     - [Exercise 1.1 - Log Into SAP Data Intelligence](exercises/ex1##log-into-sap-data-intelligence)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
@@ -52,10 +52,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 **OR** Link to the Tutorial Navigator for example...
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
