@@ -25,6 +25,43 @@ Click 'Sign In'
 
 ## Upload your Dataset
 
+After completing these steps you will have uploaded and published datasets in SAP Data Intellegence
+
+1. Click on 'Metadata Explorer'
+
+2. Click on 'Browse Connections'
+
+3. Click on the 'DI_DATA_LAKE' tile
+
+4. Click on the 'shared' tile
+
+5. Click on the New Folder icon (folder with a +)
+
+6. Enter 'TechEd_DAT163_#' for folder name
+Note: where # is the number assigned to you
+
+7. Click 'OK'
+
+8. Click on your newly added 'TechEd_DAT163_#' folder
+Note: where # is the number assigned to you
+
+9. Upload a file, click on the 'Upload Files' icon on the toolbar
+
+10. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
+
+11. Browse to Sample Data folder where you downloaded 'Customer_US.parquet' and 'Sales_data.csv' and select 'Customer_US_#.parquet'
+Note: where # is the number assigned to you
+
+12. Click 'Open'
+
+13. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
+
+14. Click 'Upload'
+
+16. After Upload is Complete, click 'Close'
+
+17. 
+
 ## Exercise 1.1 Sub Exercise 1 Description
 
 After completing these steps you will have created...
