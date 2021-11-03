@@ -6,6 +6,16 @@ As a Business Analyst or Data Steward, you need to understand and gain insight i
 
 In this exercise, you will discover and interact with various connected systems, upload a dataset, profile the data, rate dataset, create a relationship with data and a glossary term
 
+## Log Into SAP Data Intelligence
+
+After completing these steps, you will have logged into SAP Data Intelligence.
+
+1. Open Chrome and go to the SAP Data Intelligence url you were provided
+
+2. Enter 'Default' for Tenant Name and click 'Proceed'
+
+3.
+
 ## Exercise 1.1 Sub Exercise 1 Description
 
 After completing these steps you will have created...
