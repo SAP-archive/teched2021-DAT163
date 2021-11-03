@@ -16,7 +16,7 @@ After completing these steps, you will have logged into SAP Data Intelligence.
 2. Enter 'Default' for Tenant Name and click 'Proceed'
 <br>![](/exercises/ex1/images/Ex01_Part01_02.png)
 
-3.Enter the Username that was assigned to you (e.g. 'TA#'), for Tenant Name
+3. Enter the Username that was assigned to you (e.g. 'TA#'), for Tenant Name
 Note: where # is the number assigned to you
 Enter the Password that was assigned to you, for your Password
 Click 'Sign In'
