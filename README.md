@@ -14,6 +14,10 @@ This hands-on exercises also include how a data steward can define rules and bui
 
 The requirements to follow the exercises in this repository are to use a Chrome web browser.
 
+## Pre-Requisites
+
+Steps to retrieve the flat file.
+
 ## Exercises
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
