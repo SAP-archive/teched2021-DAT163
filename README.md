@@ -16,7 +16,18 @@ The requirements to follow the exercises in this repository are to use a Chrome 
 
 ## Pre-Requisites
 
-Steps to retrieve the flat file.
+1. Detail how to obtain the username and password
+
+2. Click on 'DRUG.zip' file (listed above)
+
+3. Click 'Download' 'Sales_data.zip' file
+
+Note: Suggestion put the files in a folder called 'TechEd_DAT163'
+
+4. Unzip 'DRUG.zip'
+
+5. Rename 'DRUG.csv' to 'DRUG_#.csv'
+Note: where # is the number assigned to you (for example if you are user 01, then rename your file DRUG_01.csv
 
 ## Exercises
 
