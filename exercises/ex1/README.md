@@ -42,30 +42,34 @@ After completing these steps you will have uploaded and published datasets in SA
 5. Click on the New Folder icon (folder with a +)
 <br>![](/exercises/ex1/images/Ex01_Part02_05.png)
 
-7. Enter 'TechEd_DAT163_#' for folder name (where # is the number assigned to you)
+6. Enter 'TechEd_DAT163_#' for folder name (where # is the number assigned to you)
 <br>![](/exercises/ex1/images/Ex01_Part02_06.png)
 
-8. Click 'OK'
+7. Click 'OK'
+<br>![](/exercises/ex1/images/Ex01_Part02_07.png)
 
-9. Search for 'TechEd_DAT163_#' to isolate your newly created folder, then click on your newly added 'TechEd_DAT163_#' folder
+8. Search for 'TechEd_DAT163_#' to isolate your newly created folder, then click on your newly added 'TechEd_DAT163_#' folder
+
+<br>![](/exercises/ex1/images/Ex01_Part02_08.png)
+
 Note: where # is the number assigned to you
 
-10. Upload a file, click on the 'Upload Files' icon on the toolbar
+9. Upload a file, click on the 'Upload Files' icon on the toolbar
 
-11. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
+10. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
 
-12. Browse to Sample Data folder where you downloaded 'Customer_US.parquet' and 'Sales_data.csv' and select 'Customer_US_#.parquet'
+11. Browse to Sample Data folder where you downloaded 'Customer_US.parquet' and 'Sales_data.csv' and select 'Customer_US_#.parquet'
 Note: where # is the number assigned to you
 
-13. Click 'Open'
+12. Click 'Open'
 
-14. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
+13. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
 
-15. Click 'Upload'
+14. Click 'Upload'
 
-16. After Upload is Complete, click 'Close'
+15. After Upload is Complete, click 'Close'
 
-17. 
+16. 
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
