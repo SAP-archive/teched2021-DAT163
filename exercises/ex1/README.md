@@ -49,16 +49,19 @@ After completing these steps you will have uploaded and published datasets in SA
 <br>![](/exercises/ex1/images/Ex01_Part02_07.png)
 
 8. Search for 'TechEd_DAT163_#' to isolate your newly created folder, then click on your newly added 'TechEd_DAT163_#' folder
-
 <br>![](/exercises/ex1/images/Ex01_Part02_08.png)
 
 *Note: where # is the number assigned to you*
 
 9. Upload a file, click on the 'Upload Files' icon on the toolbar
+<br>![](/exercises/ex1/images/Ex01_Part02_09.png)
 
 10. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
+<br>![](/exercises/ex1/images/Ex01_Part02_10.png)
 
 11. Browse to Sample Data folder where you downloaded 'Customer_US.parquet' and 'Sales_data.csv' and select 'Customer_US_#.parquet'
+<br>![](/exercises/ex1/images/Ex01_Part02_11.png)
+
 Note: where # is the number assigned to you
 
 12. Click 'Open'
