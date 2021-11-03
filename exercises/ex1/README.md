@@ -37,26 +37,26 @@ After completing these steps you will have uploaded and published datasets in SA
 
 5. Click on the New Folder icon (folder with a +)
 
-7. Search for 'TechEd_DAT163_#' to isolate your newly created folder, then Enter 'TechEd_DAT163_#' for folder name
+7. Enter 'TechEd_DAT163_#' for folder name
 Note: where # is the number assigned to you
 
-7. Click 'OK'
+8. Click 'OK'
 
-8. Click on your newly added 'TechEd_DAT163_#' folder
+9. Search for 'TechEd_DAT163_#' to isolate your newly created folder, then click on your newly added 'TechEd_DAT163_#' folder
 Note: where # is the number assigned to you
 
-9. Upload a file, click on the 'Upload Files' icon on the toolbar
+10. Upload a file, click on the 'Upload Files' icon on the toolbar
 
-10. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
+11. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
 
-11. Browse to Sample Data folder where you downloaded 'Customer_US.parquet' and 'Sales_data.csv' and select 'Customer_US_#.parquet'
+12. Browse to Sample Data folder where you downloaded 'Customer_US.parquet' and 'Sales_data.csv' and select 'Customer_US_#.parquet'
 Note: where # is the number assigned to you
 
-12. Click 'Open'
+13. Click 'Open'
 
-13. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
+14. Click on the '+' in the upper right hand corner of the Upload Files pop-up window
 
-14. Click 'Upload'
+15. Click 'Upload'
 
 16. After Upload is Complete, click 'Close'
 
