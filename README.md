@@ -21,7 +21,7 @@ The requirements to follow the exercises in this repository are to use a Chrome 
 2. Click on 'DRUG.zip' file (listed above)
 <br>![](/exercises/ex0/images/Ex00_Part01_01.png)
 
-3. Click 'Download' 'Sales_data.zip' file
+3. Click 'Download' 'DRUG.zip' file
 <br>![](/exercises/ex0/images/Ex00_Part01_02.png)
 
 4. Click the Browser back arrow (<-)
