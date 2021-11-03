@@ -12,7 +12,7 @@ This hands-on exercises also include how a data steward can define rules and bui
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are to use a Chrome web browser.
 
 ## Exercises
 
