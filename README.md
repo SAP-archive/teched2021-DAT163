@@ -26,14 +26,16 @@ The requirements to follow the exercises in this repository are to use a Chrome 
 
 4. Click the Browser back arrow (<-)
 <br>![](/exercises/ex0/images/Ex00_Part01_03.png)
-Note: Suggestion put the files in a folder called 'TechEd_DAT163'
+
+*Note: Suggestion put the files in a folder called 'TechEd_DAT163'*
 
 5. Unzip 'DRUG.zip'
 <br>![](/exercises/ex0/images/Ex00_Part01_04.png)
 
 6. Rename 'DRUG.csv' to 'DRUG_#.csv'
 <br>![](/exercises/ex0/images/Ex00_Part01_05.png)
-Note: where # is the number assigned to you (for example if you are user 01, then rename your file DRUG_01.csv
+
+*Note: where # is the number assigned to you (for example if you are user 01, then rename your file DRUG_01.csv*
 
 ## Exercises
 
