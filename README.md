@@ -19,6 +19,7 @@ The requirements to follow the exercises in this repository are to use a Chrome 
 1. Detail how to obtain the username and password
 
 2. Click on 'DRUG.zip' file (listed above)
+<br>![](/exercises/ex0/images/Ex00_Part01_01.png)
 
 3. Click 'Download' 'Sales_data.zip' file
 
