@@ -1,6 +1,10 @@
-# Exercise 1 - Exercise 1 Description
+# Objective
 
 In this exercise, we will create...
+
+As a Business Analyst or Data Steward, you need to understand and gain insight into your data. After accessing various data, profiling them and reviewing the profiling results you will be able to add a glossary term to a column in your dataset as well as provide a rating and comment on the dataset.
+
+In this exercise, you will discover and interact with various connected systems, upload a dataset, profile the data, rate dataset, create a relationship with data and a glossary term
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
