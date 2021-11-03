@@ -52,7 +52,7 @@ After completing these steps you will have uploaded and published datasets in SA
 
 <br>![](/exercises/ex1/images/Ex01_Part02_08.png)
 
-Note: where # is the number assigned to you
+*Note: where # is the number assigned to you*
 
 9. Upload a file, click on the 'Upload Files' icon on the toolbar
 
