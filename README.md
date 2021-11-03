@@ -32,10 +32,10 @@ The requirements to follow the exercises in this repository are to use a Chrome 
 5. Unzip 'DRUG.zip'
 <br>![](/exercises/ex0/images/Ex00_Part01_04.png)
 
-6. Rename 'DRUG.csv' to 'DRUG_#.csv'
+6. Rename 'DRUG.csv' to 'DRUG_#.csv' (where # is the number assigned to you)
 <br>![](/exercises/ex0/images/Ex00_Part01_05.png)
 
-*Note: where # is the number assigned to you (for example if you are user 01, then rename your file DRUG_01.csv*
+*Note: For example if you are user 01, then rename your file DRUG_01.csv*
 
 ## Exercises
 
