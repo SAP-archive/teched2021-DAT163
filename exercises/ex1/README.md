@@ -11,6 +11,7 @@ In this exercise, you will discover and interact with various connected systems,
 After completing these steps, you will have logged into SAP Data Intelligence.
 
 1. Open Chrome and go to the SAP Data Intelligence url you were provided
+<br>![](/exercises/ex1/images/Ex01_Part01_01.png)
 
 2. Enter 'Default' for Tenant Name and click 'Proceed'
 
