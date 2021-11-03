@@ -28,17 +28,22 @@ Click 'Sign In'
 After completing these steps you will have uploaded and published datasets in SAP Data Intellegence
 
 1. Click on 'Metadata Explorer'
+<br>![](/exercises/ex1/images/Ex01_Part02_01.png)
 
 2. Click on 'Browse Connections'
+<br>![](/exercises/ex1/images/Ex01_Part02_02.png)
 
 3. Click on the 'DI_DATA_LAKE' tile
+<br>![](/exercises/ex1/images/Ex01_Part02_03.png)
 
 4. Click on the 'shared' tile
+<br>![](/exercises/ex1/images/Ex01_Part02_04.png)
 
 5. Click on the New Folder icon (folder with a +)
+<br>![](/exercises/ex1/images/Ex01_Part02_05.png)
 
-7. Enter 'TechEd_DAT163_#' for folder name
-Note: where # is the number assigned to you
+7. Enter 'TechEd_DAT163_#' for folder name (where # is the number assigned to you)
+<br>![](/exercises/ex1/images/Ex01_Part02_06.png)
 
 8. Click 'OK'
 
