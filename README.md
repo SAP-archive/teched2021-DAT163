@@ -22,12 +22,16 @@ The requirements to follow the exercises in this repository are to use a Chrome 
 <br>![](/exercises/ex0/images/Ex00_Part01_01.png)
 
 3. Click 'Download' 'Sales_data.zip' file
+<br>![](/exercises/ex0/images/Ex00_Part01_02.png)
+
+4. Click the Browser back arrow (<-)
+<br>![](/exercises/ex0/images/Ex00_Part01_03.png)
 
 Note: Suggestion put the files in a folder called 'TechEd_DAT163'
 
-4. Unzip 'DRUG.zip'
+5. Unzip 'DRUG.zip'
 
-5. Rename 'DRUG.csv' to 'DRUG_#.csv'
+6. Rename 'DRUG.csv' to 'DRUG_#.csv'
 Note: where # is the number assigned to you (for example if you are user 01, then rename your file DRUG_01.csv
 
 ## Exercises
