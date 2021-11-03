@@ -37,7 +37,7 @@ After completing these steps you will have uploaded and published datasets in SA
 
 5. Click on the New Folder icon (folder with a +)
 
-6. Enter 'TechEd_DAT163_#' for folder name
+7. Search for 'TechEd_DAT163_#' to isolate your newly created folder, then Enter 'TechEd_DAT163_#' for folder name
 Note: where # is the number assigned to you
 
 7. Click 'OK'
