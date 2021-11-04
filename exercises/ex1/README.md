@@ -61,12 +61,16 @@ After completing these steps you will have discovered dataset stored in a databa
 <br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
 12. Click 'Notification'
+<br>![](/exercises/ex1/images/Ex01_Part03_11.png)
 
 13. Wait and Click 'Refresh'
+<br>![](/exercises/ex1/images/Ex01_Part03_12.png)
 
 14. Click 'Columns'
+<br>![](/exercises/ex1/images/Ex01_Part03_13.png)
 
 15. Select the Line for 'DRUG_NAME'
+<br>![](/exercises/ex1/images/Ex01_Part03_14.png)
 
 16. Click 'Data Intelligence Metadata Explorer'
 
