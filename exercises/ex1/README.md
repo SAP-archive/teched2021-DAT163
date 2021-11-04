@@ -48,26 +48,29 @@ After completing these steps you will have discovered dataset stored in a databa
 7. Click 'Grid View' to come back to tiles.
 <br>![](/exercises/ex1/images/Ex01_Part03_07.png)
 
-8. Select 'DEMO'
+8. Click on the 'HANA_DEMO' tile
+<br>![](/exercises/ex1/images/Ex01_Part03_03.png)
+
+9. Select 'DEMO'
 <br>![](/exercises/ex1/images/Ex01_Part03_08.png)
 
-9. Click 'View FactSheet'
+10. Click 'View FactSheet'
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
-10. Click 'Start Profiling'
+11. Click 'Start Profiling'
 <br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
-9. Click 'Notification'
+12. Click 'Notification'
 
-10. Wait and Click 'Refresh'
+13. Wait and Click 'Refresh'
 
-11. Click 'Columns'
+14. Click 'Columns'
 
-12. Select the Line for 'DRUG_NAME'
+15. Select the Line for 'DRUG_NAME'
 
-13. Click 'Data Intelligence Metadata Explorer'
+16. Click 'Data Intelligence Metadata Explorer'
 
-14. Click 'Home'
+17. Click 'Home'
 
 We have...
 
