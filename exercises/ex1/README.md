@@ -23,6 +23,8 @@ Click 'Sign In'
 4. You are now signed in the application.
 <br>![](/exercises/ex1/images/Ex01_Part01_04.png)
 
+You have now logged into SAP Data Intelligence.
+
 ## Browse data in a Connected System (Database)
 
 After completing these steps you will have discovered dataset stored in a database.
@@ -96,12 +98,11 @@ After completing these steps you will have discovered dataset stored in a databa
 23. Click 'Home'
 <br>![](/exercises/ex1/images/Ex01_Part03_23.png)
 
-We have...
-
+You have now discovered a table in a database, profiled the data and found some data quality issues.
 
 ## Upload your Dataset
 
-After completing these steps you will have uploaded and published datasets in SAP Data Intellegence
+After completing these steps you will have uploaded and published datasets in SAP Data Intellegence.
 
 1. Click on 'Metadata Explorer'
 <br>![](/exercises/ex1/images/Ex01_Part02_01.png)
@@ -150,6 +151,13 @@ The file will upload on the data lake.
 
 15. The file is now uploaded and available in the data lake.
 <br>![](/exercises/ex1/images/Ex01_Part02_15.png)
+
+## Enrich Dataset and Isolate Data Quality Issues
+
+After completing these steps you will have created a new dataset using self-service data preparation.
+This new dataset will help to easily isolate invalid claims.
+
+
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
