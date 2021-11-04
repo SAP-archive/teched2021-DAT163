@@ -36,24 +36,26 @@ After completing these steps you will have discovered dataset stored in a databa
 3. Click 'List View'
 <br>![](/exercises/ex1/images/Ex01_Part03_03.png)
 
-This allows to show the list of connections as a list.
+4. This allows to show the list of connections as a list.
 <br>![](/exercises/ex1/images/Ex01_Part03_04.png)
 
-4. Select 'View Capabilities'
+5. Select 'View Capabilities'
 <br>![](/exercises/ex1/images/Ex01_Part03_05.png)
 
-This lists all the features supported for a given connected system.
+6. This lists all the features supported for a given connected system.
 <br>![](/exercises/ex1/images/Ex01_Part03_06.png)
 
-5. Click 'Grid View' to come back to tiles.
+7. Click 'Grid View' to come back to tiles.
 <br>![](/exercises/ex1/images/Ex01_Part03_07.png)
 
-6. Select 'DEMO'
+8. Select 'DEMO'
 <br>![](/exercises/ex1/images/Ex01_Part03_08.png)
 
-7. Click 'View FactSheet'
+9. Click 'View FactSheet'
+<br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
-8. Click 'Start Profiling'
+10. Click 'Start Profiling'
+<br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
 9. Click 'Notification'
 
