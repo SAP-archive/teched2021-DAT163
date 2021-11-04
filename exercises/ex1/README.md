@@ -283,6 +283,86 @@ This new dataset will help to easily isolate invalid claims.
 42. Click 'Apply'
 <br>![](/exercises/ex1/images/Ex01_Part04_42.png)
 
+43. Click 'Data Intelligence Metadata Explorer'
+<br>![](/exercises/ex1/images/Ex01_Part04_43.png)
+
+44. Select 'Monitor' and click 'Monitor Tasks'
+<br>![](/exercises/ex1/images/Ex01_Part04_44.png)
+
+45. The 'Monitoring' application shows the current running tasks. Wait for your task to complete
+<br>![](/exercises/ex1/images/Ex01_Part04_45.png)
+
+46. The task is completed
+<br>![](/exercises/ex1/images/Ex01_Part04_46.png)
+
+47. Click 'Data Intelligence Metadata Explorer', and click 'HOME'
+<br>![](/exercises/ex1/images/Ex01_Part04_47.png)
+
+48. Click 'Browse Connections'
+<br>![](/exercises/ex1/images/Ex01_Part04_48.png)
+
+49. Click 'DI_DATA_LAKE'
+<br>![](/exercises/ex1/images/Ex01_Part04_49.png)
+
+50. Click 'shared'
+<br>![](/exercises/ex1/images/Ex01_Part04_50.png)
+
+51. Type 'TechEd_DAT163_#' (where # is your user number) in the Filter field
+<br>![](/exercises/ex1/images/Ex01_Part04_51.png)
+
+52. Click TechEd_DAT163_# (where # is your user number)
+<br>![](/exercises/ex1/images/Ex01_Part04_52.png)
+
+53. Click 'More Actions' on the newly created dataset named PHARMA_CLAIMS_ENRICH_# (Where # is your user number)
+<br>![](/exercises/ex1/images/Ex01_Part04_53.png)
+
+54. Select 'View Fact Sheet', Click 'Overview'
+<br>![](/exercises/ex1/images/Ex01_Part04_54.png)
+
+55. The factsheet for the dataset is not profiled and not published
+<br>![](/exercises/ex1/images/Ex01_Part04_55.png)
+
+56. Click the 'Profiling' icon
+<br>![](/exercises/ex1/images/Ex01_Part04_56.png)
+
+57. Click 'Yes'
+<br>![](/exercises/ex1/images/Ex01_Part04_57.png)
+
+58. Wait for the profiling to be executed (there will be two notifications which you can check by clicking on the notification icon). Then Click 'Refresh'
+<br>![](/exercises/ex1/images/Ex01_Part04_58.png)
+
+59. The dataset is now profiled
+<br>![](/exercises/ex1/images/Ex01_Part04_59.png)
+
+60. Click '<' to come back to the connection browser
+<br>![](/exercises/ex1/images/Ex01_Part04_60.png)
+
+61. Click 'More Actions'
+<br>![](/exercises/ex1/images/Ex01_Part04_61.png)
+
+62. Click 'New Publication'
+<br>![](/exercises/ex1/images/Ex01_Part04_62.png)
+
+63. Type 'Pharma Claims Publication #' (where # is your user number) for the 'Name' text field. Type 'Publication for enriched claimed data' for the 'Description' text field.
+<br>![](/exercises/ex1/images/Ex01_Part04_63.png)
+
+64. Click 'Publish'
+<br>![](/exercises/ex1/images/Ex01_Part04_64.png)
+
+65. The application sends a notification for the publication task trigger
+<br>![](/exercises/ex1/images/Ex01_Part04_65.png)
+
+66. The application sends another notification when the publication task is finished
+<br>![](/exercises/ex1/images/Ex01_Part04_66.png)
+
+67. Click 'Refresh'
+<br>![](/exercises/ex1/images/Ex01_Part04_67.png)
+
+68. The application now notifies that the dataset is both profiled and published in the application catalog
+<br>![](/exercises/ex1/images/Ex01_Part04_68.png)
+
+
+
 ## Exercise 1.1 Sub Exercise 1 Description
 
 After completing these steps you will have created...
