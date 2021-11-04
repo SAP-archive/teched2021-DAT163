@@ -229,10 +229,59 @@ This new dataset will help to easily isolate invalid claims.
 24. The application displays a preview of the merge data
 <br>![](/exercises/ex1/images/Ex01_Part04_24.png)
 
+25. The merged data now shows a null value for the column 'DRUG_NAME_0' when a record from the claim data is for a drug that is not listed in the list of supported drugs
+<br>![](/exercises/ex1/images/Ex01_Part04_25.png)
 
+26. Click 'Apply Enrichment'
+<br>![](/exercises/ex1/images/Ex01_Part04_26.png)
 
+27. The main self-service data preparation room now shows the enriched dataset
+<br>![](/exercises/ex1/images/Ex01_Part04_27.png)
 
+28. Click 'Actions'
+<br>![](/exercises/ex1/images/Ex01_Part04_28.png)
 
+29. Click 'Add Columns'
+<br>![](/exercises/ex1/images/Ex01_Part04_29.png)
+
+30. Type 'ValidClaim' for the 'Column Name'
+<br>![](/exercises/ex1/images/Ex01_Part04_25.png)
+
+31. Click 'Expression'
+<br>![](/exercises/ex1/images/Ex01_Part04_31.png)
+
+32. Type the following expression: 'CASE WHEN "DRUG_NAME" IS NULL THEN 'NO' ELSE 'YES' END'
+<br>![](/exercises/ex1/images/Ex01_Part04_32.png)
+
+33. Click 'OK'
+<br>![](/exercises/ex1/images/Ex01_Part04_33.png)
+
+34. Click 'Apply'
+<br>![](/exercises/ex1/images/Ex01_Part04_34.png)
+
+35. A new column is now created
+<br>![](/exercises/ex1/images/Ex01_Part04_35.png)
+
+36. Select the column 'DRUG_NAME_0'
+<br>![](/exercises/ex1/images/Ex01_Part04_36.png)
+
+37. Click 'Delete'
+<br>![](/exercises/ex1/images/Ex01_Part04_37.png)
+
+38. The column 'DRUG_NAME_0' is now deleted
+<br>![](/exercises/ex1/images/Ex01_Part04_38.png)
+
+39. Click '<' to navigate back to the 'Actions' menu
+<br>![](/exercises/ex1/images/Ex01_Part04_39.png)
+
+40. Click 'Run Preparation'
+<br>![](/exercises/ex1/images/Ex01_Part04_40.png)
+
+41. Type 'PHARMA_CLAIMS_ENRICHED_# (Where # is your user number) for the 'Dataset Name'
+<br>![](/exercises/ex1/images/Ex01_Part04_41.png)
+
+42. Click 'Apply'
+<br>![](/exercises/ex1/images/Ex01_Part04_42.png)
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
