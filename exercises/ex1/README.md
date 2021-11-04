@@ -28,16 +28,22 @@ Click 'Sign In'
 After completing these steps you will have discovered dataset stored in a database.
 
 1. Click on 'Metadata Explorer'
+<br>![](/exercises/ex1/images/Ex01_Part03_01.png)
 
 2. Click on 'Browse Connections'
+<br>![](/exercises/ex1/images/Ex01_Part03_02.png)
 
 3. Click 'List View'
+<br>![](/exercises/ex1/images/Ex01_Part03_03.png)
 
 4. Select 'View Capabilities'
+<br>![](/exercises/ex1/images/Ex01_Part03_04.png)
 
 5. Click 'Grid View'
+<br>![](/exercises/ex1/images/Ex01_Part03_05.png)
 
 6. Select 'DEMO'
+<br>![](/exercises/ex1/images/Ex01_Part03_06.png)
 
 7. Click 'View FactSheet'
 
