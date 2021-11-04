@@ -58,35 +58,44 @@ After completing these steps you will have discovered dataset stored in a databa
 <br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
 11. This shows the factsheet (DETAILS)
+<br>![](/exercises/ex1/images/Ex01_Part03_11.png)
 
 12. Click 'Start Profiling'
-<br>![](/exercises/ex1/images/Ex01_Part03_10.png)
-
-12. Click 'Notification'
 <br>![](/exercises/ex1/images/Ex01_Part03_12.png)
 
-13. Click 'Columns'
+13. Click 'Notification'
 <br>![](/exercises/ex1/images/Ex01_Part03_13.png)
 
-14. Wait and Click 'Refresh'
+14. This shows the details of the notifications. Click anywhere outside the notification window to continue interacting with the application
+
+15. Wait for the profiling task to finish, and Click 'Refresh'
 <br>![](/exercises/ex1/images/Ex01_Part03_11_bis.png)
 
-15. Select the Line for 'DRUG_NAME'
+16. The factsheet was updated with the profiling information once the task is done.
+ 
+
+17. Click 'Columns'
+<br>![](/exercises/ex1/images/Ex01_Part03_13.png)
+
+18. Wait and Click 'Refresh'
+<br>![](/exercises/ex1/images/Ex01_Part03_11_bis.png)
+
+19. Select the Line for 'DRUG_NAME'
 <br>![](/exercises/ex1/images/Ex01_Part03_14.png)
 
-16. Observe Data Preview and the 'Top 10 Distinct Values'
+20. Observe Data Preview and the 'Top 10 Distinct Values'
 <br>![](/exercises/ex1/images/Ex01_Part03_16.png)
 
-17. We can see there are data quality issues such as spelling mistakes on the drug names
+21. We can see there are data quality issues such as spelling mistakes on the drug names
 <br>![](/exercises/ex1/images/Ex01_Part03_17.png)
 
-18. We can also see there is an important number of null values
+22. We can also see there is an important number of null values
 <br>![](/exercises/ex1/images/Ex01_Part03_18.png)
 
-16. Click 'Data Intelligence Metadata Explorer'
+23. Click 'Data Intelligence Metadata Explorer'
 <br>![](/exercises/ex1/images/Ex01_Part03_19.png)
 
-19. Click 'Home'
+24. Click 'Home'
 <br>![](/exercises/ex1/images/Ex01_Part03_20.png)
 
 We have...
