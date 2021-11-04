@@ -54,7 +54,7 @@ After completing these steps you will have discovered dataset stored in a databa
 9. Select 'DEMO'
 <br>![](/exercises/ex1/images/Ex01_Part03_08.png)
 
-10. Click 'View FactSheet'
+10. Click 'View FactSheet' on the 'PHARMA_CLAIM' database table tile
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
 11. Click 'Start Profiling'
