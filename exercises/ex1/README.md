@@ -23,7 +23,7 @@ Click 'Sign In'
 4. You are now signed in the application.
 <br>![](/exercises/ex1/images/Ex01_Part01_04.png)
 
-## Browse a Database
+## Browse data in a Connected System (Database)
 
 After completing these steps you will have discovered dataset stored in a database.
 
@@ -31,7 +31,31 @@ After completing these steps you will have discovered dataset stored in a databa
 
 2. Click on 'Browse Connections'
 
+3. Click 'List View'
 
+4. Select 'View Capabilities'
+
+5. Click 'Grid View'
+
+6. Select 'DEMO'
+
+7. Click 'View FactSheet'
+
+8. Click 'Start Profiling'
+
+9. Click 'Notification'
+
+10. Wait and Click 'Refresh'
+
+11. Click 'Columns'
+
+12. Select the Line for 'DRUG_NAME'
+
+13. Click 'Data Intelligence Metadata Explorer'
+
+14. Click 'Home'
+
+We have...
 
 
 ## Upload your Dataset
