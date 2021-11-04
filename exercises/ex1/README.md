@@ -23,6 +23,17 @@ Click 'Sign In'
 4. You are now signed in the application.
 <br>![](/exercises/ex1/images/Ex01_Part01_04.png)
 
+## Browse a Database
+
+After completing these steps you will have discovered dataset stored in a database.
+
+1. Click on 'Metadata Explorer'
+
+2. Click on 'Browse Connections'
+
+
+
+
 ## Upload your Dataset
 
 After completing these steps you will have uploaded and published datasets in SAP Data Intellegence
