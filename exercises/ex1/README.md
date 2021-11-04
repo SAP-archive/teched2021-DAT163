@@ -60,11 +60,11 @@ After completing these steps you will have discovered dataset stored in a databa
 11. Click 'Start Profiling'
 <br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
-12. Click 'Notification'
-<br>![](/exercises/ex1/images/Ex01_Part03_12.png)
-
-13. Wait and Click 'Refresh'
+12. Wait and Click 'Refresh'
 <br>![](/exercises/ex1/images/Ex01_Part03_11_bis.png)
+
+13. Click 'Notification'
+<br>![](/exercises/ex1/images/Ex01_Part03_12.png)
 
 14. Click 'Columns'
 <br>![](/exercises/ex1/images/Ex01_Part03_13.png)
