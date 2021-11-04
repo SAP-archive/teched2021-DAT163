@@ -58,7 +58,7 @@ After completing these steps you will have discovered dataset stored in a databa
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
 11. Click 'Start Profiling'
-<br>![](/exercises/ex1/images/Ex01_Part03_11.png)
+<br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
 12. Click 'Notification'
 <br>![](/exercises/ex1/images/Ex01_Part03_12.png)
