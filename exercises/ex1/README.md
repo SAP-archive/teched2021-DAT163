@@ -36,14 +36,20 @@ After completing these steps you will have discovered dataset stored in a databa
 3. Click 'List View'
 <br>![](/exercises/ex1/images/Ex01_Part03_03.png)
 
-4. Select 'View Capabilities'
+This allows to show the list of connections as a list.
 <br>![](/exercises/ex1/images/Ex01_Part03_04.png)
 
-5. Click 'Grid View'
+4. Select 'View Capabilities'
 <br>![](/exercises/ex1/images/Ex01_Part03_05.png)
 
-6. Select 'DEMO'
+This lists all the features supported for a given connected system.
 <br>![](/exercises/ex1/images/Ex01_Part03_06.png)
+
+5. Click 'Grid View' to come back to tiles.
+<br>![](/exercises/ex1/images/Ex01_Part03_07.png)
+
+6. Select 'DEMO'
+<br>![](/exercises/ex1/images/Ex01_Part03_08.png)
 
 7. Click 'View FactSheet'
 
