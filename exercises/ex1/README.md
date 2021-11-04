@@ -72,9 +72,20 @@ After completing these steps you will have discovered dataset stored in a databa
 15. Select the Line for 'DRUG_NAME'
 <br>![](/exercises/ex1/images/Ex01_Part03_14.png)
 
-16. Click 'Data Intelligence Metadata Explorer'
+16. Observe Data Preview and the 'Top 10 Distinct Values'
+<br>![](/exercises/ex1/images/Ex01_Part03_16.png)
 
-17. Click 'Home'
+17. We can see there are data quality issues such as spelling mistakes on the drug names
+<br>![](/exercises/ex1/images/Ex01_Part03_17.png)
+
+18. We can also see there is an important number of null values
+<br>![](/exercises/ex1/images/Ex01_Part03_18.png)
+
+16. Click 'Data Intelligence Metadata Explorer'
+<br>![](/exercises/ex1/images/Ex01_Part03_19.png)
+
+19. Click 'Home'
+<br>![](/exercises/ex1/images/Ex01_Part03_20.png)
 
 We have...
 
