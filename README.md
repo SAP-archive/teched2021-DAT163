@@ -43,8 +43,9 @@ The requirements to follow the exercises in this repository are to use a Chrome 
 ## Exercises
 - [Exercise 1 - Profile The Data](exercises/ex1/)
     - [Exercise 1.1 - Log Into SAP Data Intelligence](exercises/ex1#log-into-sap-data-intelligence)
-    - [Exercise 1.2 - Upload Your Dataset](exercises/ex1#upload-your-dataset)
-    - [Exercise 1.3 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
+    - [Exercise 1.2 - Browse data in a Connected System (Database)](exercises/ex1#log-into-sap-data-intelligence)
+    - [Exercise 1.3 - Upload Your Dataset](exercises/ex1#upload-your-dataset)
+    - [Exercise 1.4 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
