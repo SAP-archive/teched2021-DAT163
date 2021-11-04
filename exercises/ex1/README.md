@@ -57,7 +57,9 @@ After completing these steps you will have discovered dataset stored in a databa
 10. Click 'View FactSheet' on the 'PHARMA_CLAIM' database table tile
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
-11. Click 'Start Profiling'
+11. This shows the factsheet (DETAILS)
+
+12. Click 'Start Profiling'
 <br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
 12. Click 'Notification'
