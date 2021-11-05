@@ -361,41 +361,32 @@ This new dataset will help to easily isolate invalid claims.
 68. The application now notifies that the dataset is both profiled and published in the application catalog
 <br>![](/exercises/ex1/images/Ex01_Part04_68.png)
 
+69. Click 'View Factsheet'
+<br>![](/exercises/ex1/images/Ex01_Part04_69.png)
 
+70. Click 'Reviews'
+<br>![](/exercises/ex1/images/Ex01_Part04_70.png)
 
-## Exercise 1.1 Sub Exercise 1 Description
+71. Click the pencil icon to post a rating
+<br>![](/exercises/ex1/images/Ex01_Part04_71.png)
 
-After completing these steps you will have created...
+72. Click and define a rating (for example 4 stars rating is done by clicking the 4th star)
+<br>![](/exercises/ex1/images/Ex01_Part04_72.png)
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+73. Add a comment: 'This dataset helps to easily identify claims for drugs that are not compliant'
+<br>![](/exercises/ex1/images/Ex01_Part04_73.png)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+74. Click 'OK'
+<br>![](/exercises/ex1/images/Ex01_Part04_74.png)
 
+75. The dataset has been enriched with a rating and a comment
+<br>![](/exercises/ex1/images/Ex01_Part04_75.png)
 
+76. Click 'Data Intelligence Metadata Explorer' and Click 'Home'
+<br>![](/exercises/ex1/images/Ex01_Part04_76.png)
 
-## Exercise 1.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
-
+77. You returned to the Metadata Explorer home page.
+<br>![](/exercises/ex1/images/Ex01_Part04_77.png)
 
 ## Summary
 
