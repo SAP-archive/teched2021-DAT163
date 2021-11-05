@@ -48,8 +48,11 @@ The requirements to follow the exercises in this repository are to use a Chrome 
     - [Exercise 1.4 - Enrich a Dataset](exercises/ex1#enrich-dataset-and-isolate-data-quality-issues)
     - [Exercise 1.5 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 2 - Catalog, Terms](exercises/ex2/)
-    - [Exercise 2.1 - Modify Preparation](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Exercise 2.1 - Modify Preparation](exercises/ex2#modify-preparation)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Exercise 3 - Title](exercises/ex3/)
+    - [Exercise 3.1 - Sub Exercise](exercises/ex3#modify-preparation)
+    - [Exercise 3.2 - Sub Exercise](exercises/ex3#exercise-22-sub-exercise-2-description)
 
 ## How to obtain support
 
