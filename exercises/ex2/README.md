@@ -2,6 +2,13 @@
 
 In this exercise, we will create...
 
+## Modify Preparation
+
+After completing these steps you will have created...
+
+1. Click 'View Preparation'
+<br>![](/exercises/ex2/images/Ex02_Part01_01.png)
+
 ## Exercise 2.1 Sub Exercise 1 Description
 
 After completing these steps you will have created...
