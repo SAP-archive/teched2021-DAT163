@@ -250,7 +250,7 @@ This new dataset will help to easily isolate invalid claims.
 31. Click 'Expression'
 <br>![](/exercises/ex1/images/Ex01_Part04_31.png)
 
-32. Type the following expression: 'CASE WHEN "DRUG_NAME" IS NULL THEN 'NO' ELSE 'YES' END'
+32. Type the following expression: 'CASE WHEN "DRUG_NAME_0" IS NULL THEN 'NO' ELSE 'YES' END'
 <br>![](/exercises/ex1/images/Ex01_Part04_32.png)
 
 33. Click 'OK'
