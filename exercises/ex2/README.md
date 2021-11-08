@@ -257,6 +257,139 @@ After completing these steps you will have created...
 1. Click 'glossaries' to access or create a new glossary
 <br>![](/exercises/ex2/images/Ex02_Part02_01.png)
 
+2. You can access or create glossaries
+<br>![](/exercises/ex2/images/Ex02_Part02_02.png)
+
+3. Click '+'
+<br>![](/exercises/ex2/images/Ex02_Part02_03.png)
+
+4. Type 'DRUGS_GLOSSARY_01' in the 'Name' text field.
+<br>![](/exercises/ex2/images/Ex02_Part02_04.png)
+
+5. Select the 'GLOSSARY' Template.
+<br>![](/exercises/ex2/images/Ex02_Part02_05.png)
+
+6. Type the following description: 'Glossary for pharmaceutical drugs'.
+<br>![](/exercises/ex2/images/Ex02_Part02_07.png)
+
+7. Your can create your glossary
+<br>![](/exercises/ex2/images/Ex02_Part02_07.png)
+
+8. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part02_08.png)
+
+9. You created a glossary, and now can start enriching it with new terms.
+<br>![](/exercises/ex2/images/Ex02_Part02_09.png)
+
+10. Click '+' to create a new term.
+<br>![](/exercises/ex2/images/Ex02_Part02_10.png)
+
+11. The term creation windows shows up.
+<br>![](/exercises/ex2/images/Ex02_Part02_11.png)
+
+12. Type 'Potency' in the 'Name' text field.
+<br>![](/exercises/ex2/images/Ex02_Part02_12.png)
+
+13. Type the following definition for the term: 'Measure of drug activity expressed in terms of the amount required to produce an effect of given intensity.
+<br>![](/exercises/ex2/images/Ex02_Part02_13.png)
+
+14. Click 'Save'
+<br>![](/exercises/ex2/images/Ex02_Part02_14.png)
+
+15. Click '<' to come back to the list of terms.
+<br>![](/exercises/ex2/images/Ex02_Part02_15.png)
+
+16. The term is created and part of the glossary definitions. Click 'Potency'.
+<br>![](/exercises/ex2/images/Ex02_Part02_16.png)
+
+17. the term window shows up.
+<br>![](/exercises/ex2/images/Ex02_Part02_17.png)
+
+18. Click 'Edit'
+<br>![](/exercises/ex2/images/Ex02_Part02_18.png)
+
+19. Click 'Relationships'
+<br>![](/exercises/ex2/images/Ex02_Part02_19.png)
+
+20. Click 'Edit Related Objects'.
+<br>![](/exercises/ex2/images/Ex02_Part02_20.png)
+
+21. Click 'Datasets/Columns'.
+<br>![](/exercises/ex2/images/Ex02_Part02_21.png)
+
+22. Click 'DI_DATA_LAKE'
+<br>![](/exercises/ex2/images/Ex02_Part02_22.png)
+
+23. Search 'CLAIMS_*_##' *(where # is your user number)
+<br>![](/exercises/ex2/images/Ex02_Part02_23.png)
+
+24. Check your dataset (for example PHARMA_CLAIMS_ENRICHED_01 if your user number is 01).
+<br>![](/exercises/ex2/images/Ex02_Part02_24.png)
+
+25.  Click 'View Columns'.
+<br>![](/exercises/ex2/images/Ex02_Part02_25.png)
+
+26. Check 'Potency'. Click 'Save Related Objects'.
+<br>![](/exercises/ex2/images/Ex02_Part02_26.png)
+
+27. The term is now associated to a dataset and a column in this dataset.
+<br>![](/exercises/ex2/images/Ex02_Part02_27.png)
+
+28. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+<br>![](/exercises/ex2/images/Ex02_Part02_28.png)
+
+29. Type 'CLAIMS' in the search bar.
+<br>![](/exercises/ex2/images/Ex02_Part02_29.png)
+
+30. Type enter key.
+<br>![](/exercises/ex2/images/Ex02_Part02_30.png)
+
+31. The Catalog shows the results of the dataset that matches the search pattern.
+<br>![](/exercises/ex2/images/Ex02_Part02_31.png)
+
+32. Click the 'Filter' icon.
+<br>![](/exercises/ex2/images/Ex02_Part02_32.png)
+
+33. Change the Search string to 'CLAIMS_*_##' *(where ## is your user number)
+<br>![](/exercises/ex2/images/Ex02_Part02_33.png)
+
+34. Click 'Apply'.
+<br>![](/exercises/ex2/images/Ex02_Part02_34.png)
+
+35. Click 'More Actions'.
+<br>![](/exercises/ex2/images/Ex02_Part02_35.png)
+
+36. Click 'View Factsheet'.
+<br>![](/exercises/ex2/images/Ex02_Part02_36.png)
+
+37. Click 'Overview'.
+<br>![](/exercises/ex2/images/Ex02_Part02_37.png)
+ 
+38. Click 'Relationships'.
+<br>![](/exercises/ex2/images/Ex02_Part02_38.png)
+
+39. Click 'Terms and Tags'.
+<br>![](/exercises/ex2/images/Ex02_Part02_39.png)
+
+40. The glossary term 'Potency' is associated to the dataset. Click 'Columns'.
+<br>![](/exercises/ex2/images/Ex02_Part02_40.png)
+
+41. Click 'POTENCY'.
+<br>![](/exercises/ex2/images/Ex02_Part02_41.png)
+
+42. The glossary term 'Potency' is associated to the 'POTENCY' column of the dataset.
+<br>![](/exercises/ex2/images/Ex02_Part02_42.png)
+
+43. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+<br>![](/exercises/ex2/images/Ex02_Part02_43.png)
+
+44. You are back to the Data Intellience Metadata Explorer Home page.
+<br>![](/exercises/ex2/images/Ex02_Part02_44.png)
+
+## Rules
+
+1. Click 'rules' to access existing or create new rules.
+<br>![](/exercises/ex2/images/Ex02_Part03_01.png)
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
