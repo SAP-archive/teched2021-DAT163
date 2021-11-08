@@ -252,6 +252,10 @@ After completing these steps you will have created...
 82. You are back to the solution home page.
 <br>![](/exercises/ex2/images/Ex02_Part01_82.png)
 
+## Data Catalog
+
+
+
 ## Exercise 2.1 Sub Exercise 1 Description
 
 After completing these steps you will have created...
