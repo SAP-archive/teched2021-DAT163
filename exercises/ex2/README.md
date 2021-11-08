@@ -391,6 +391,240 @@ After completing these steps you will have created...
 1. Click 'rules' to access existing or create new rules.
 <br>![](/exercises/ex2/images/Ex02_Part03_01.png)
 
+2. Click '+' to create a new 'Completeness' rule.
+<br>![](/exercises/ex2/images/Ex02_Part03_02.png)
+
+3. Type 'DRUG_NAME_EXISTS_#' for both the 'Rule ID' and the 'Name' (where # is your user id).
+<br>![](/exercises/ex2/images/Ex02_Part03_03.png)
+ 
+4. Type the following 'Description': Drug Name must not be null.
+<br>![](/exercises/ex2/images/Ex02_Part03_04.png)
+
+5. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part03_05.png)
+
+6. The main rule editor window shows up.
+<br>![](/exercises/ex2/images/Ex02_Part03_06.png)
+
+7. Click '+'.
+<br>![](/exercises/ex2/images/Ex02_Part03_07.png)
+
+8. Type 'DRUG_NAME' for the 'Name' of the parameter for the rule.
+<br>![](/exercises/ex2/images/Ex02_Part03_08.png)
+
+9. Select the 'Type'.
+<br>![](/exercises/ex2/images/Ex02_Part03_09.png)
+
+10. Select 'String'.
+<br>![](/exercises/ex2/images/Ex02_Part03_10.png)
+
+11. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part03_11.png)
+
+12. The parameter is created.
+<br>![](/exercises/ex2/images/Ex02_Part03_12.png)
+
+13. Click '+' to define the condition.
+<br>![](/exercises/ex2/images/Ex02_Part03_13.png)
+
+14. Type 'DRUG_NAME_NOT_NULL' for the 'Condition Name'.
+<br>![](/exercises/ex2/images/Ex02_Part03_14.png)
+
+15. Select 'DRUG_NAME' for the parameter.
+<br>![](/exercises/ex2/images/Ex02_Part03_15.png)
+
+16. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part03_16.png)
+
+17. Click '<' to go back to the list of categories.
+<br>![](/exercises/ex2/images/Ex02_Part03_17.png)
+
+18. Click 'More Actions'.
+<br>![](/exercises/ex2/images/Ex02_Part03_18.png)
+
+19. Click 'Create Rules'.
+<br>![](/exercises/ex2/images/Ex02_Part03_19.png)
+
+20. Type 'DRUG_NAME_VALID_#' for both the 'Rule ID' and the 'Name' (where # is your user id).
+<br>![](/exercises/ex2/images/Ex02_Part03_20.png)
+ 
+21. Type the following 'Description': The drug name is valid.
+<br>![](/exercises/ex2/images/Ex02_Part03_21.png)
+
+22. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part03_22.png)
+
+23. Click '+'
+<br>![](/exercises/ex2/images/Ex02_Part03_23.png)
+
+24. Type 'DRUG_NAME_VALID' for the parameter 'Name'.
+<br>![](/exercises/ex2/images/Ex02_Part03_24.png)
+
+25. Click the 'Save' icon.
+<br>![](/exercises/ex2/images/Ex02_Part03_25.png)
+
+26. Click '+'.
+<br>![](/exercises/ex2/images/Ex02_Part03_26.png)
+
+27. Type 'DRUG_NAME_VALID' for the 'Condition Name', select 'DRUG_NAME_VALID' for the 'Parameter Name', select 'equals' for the 'Operator', and Type 'YES' for the 'Value or Format'.
+<br>![](/exercises/ex2/images/Ex02_Part03_27.png)
+
+28. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part03_28.png)
+
+29. Click '<' to navigate back to the list of rules categories.
+<br>![](/exercises/ex2/images/Ex02_Part03_29.png)
+
+30. You have created two different rules, now you can create a rulebook and associate these rules with a dataset.
+<br>![](/exercises/ex2/images/Ex02_Part03_30.png)
+
+31. Click 'Data Intelligence Metadata Explorer'.
+<br>![](/exercises/ex2/images/Ex02_Part03_31.png)
+
+32. Click 'Rules'. Click 'View Rulebooks'.
+<br>![](/exercises/ex2/images/Ex02_Part03_32.png)
+
+33. The rulebooks overview window shows up.
+<br>![](/exercises/ex2/images/Ex02_Part03_33.png)
+
+34. Click '+' to create a new rulebook.
+<br>![](/exercises/ex2/images/Ex02_Part03_34.png)
+
+35. Type 'PHARMA_CLAIMS_#' for the rulebook 'Name' (where # is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part03_35.png)
+
+36. Type the following 'Description': 'Set of rules to evaluate the quality of dataset used to track pharma claims'.
+<br>![](/exercises/ex2/images/Ex02_Part03_36.png)
+
+37. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part03_37.png)
+
+38. The empty rule book is created.
+<br>![](/exercises/ex2/images/Ex02_Part03_38.png)
+
+39. Click the 'Import' icon.
+<br>![](/exercises/ex2/images/Ex02_Part03_39.png)
+
+40. Expand 'Accuracy'.
+<br>![](/exercises/ex2/images/Ex02_Part03_40.png)
+
+41. Check your rule named 'DRUG_NAME_VALID_#' (For example if your user number is 01, check the rule named 'DRUG_NAME_VALID_01).
+<br>![](/exercises/ex2/images/Ex02_Part03_41.png)
+
+42. Collaps 'Accuracy'
+<br>![](/exercises/ex2/images/Ex02_Part03_42.png)
+
+43. Expand 'Completeness'.
+<br>![](/exercises/ex2/images/Ex02_Part03_43.png)
+
+44. Check your rule named 'DRUG_NAME_EXISTS_#' (For example if your user number is 01, check the rule named 'DRUG_NAME_EXISTS_01).
+<br>![](/exercises/ex2/images/Ex02_Part03_44.png)
+
+45. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part03_45.png)
+
+46. The rules are now imported, you need to associated them with a dataset to be run against.
+<br>![](/exercises/ex2/images/Ex02_Part03_46.png)
+ 
+47. Click '>' to bind the rule with a dataset.
+<br>![](/exercises/ex2/images/Ex02_Part03_47.png)
+
+48. Click '+' to create a new binding.
+<br>![](/exercises/ex2/images/Ex02_Part03_48.png)
+
+49. the dataset bindings window shows up.
+<br>![](/exercises/ex2/images/Ex02_Part03_49.png)
+
+50. Click 'Select a Dataset'.
+<br>![](/exercises/ex2/images/Ex02_Part03_50.png)
+
+51. Select 'DI_DATA_LAKE' for the 'Connections'.
+<br>![](/exercises/ex2/images/Ex02_Part03_51.png)
+ 
+52. Click 'shared'.
+<br>![](/exercises/ex2/images/Ex02_Part03_52.png)
+
+53. Search 'TechEd_DAT163_#' (where # is your user number). Click your folder.
+<br>![](/exercises/ex2/images/Ex02_Part03_53.png)
+
+54. Select 'PHARMA_CLAIMS_ENRICHED_#' (where # is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part03_54.png)
+
+55. The dataset is selected.
+<br>![](/exercises/ex2/images/Ex02_Part03_55.png)
+
+56. Click 'OK'.
+<br>![](/exercises/ex2/images/Ex02_Part03_56.png)
+
+57. Select a new associated mapping.
+<br>![](/exercises/ex2/images/Ex02_Part03_57.png)
+
+58. Select 'VALID_DRUG'.
+<br>![](/exercises/ex2/images/Ex02_Part03_58.png)
+
+59. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part03_59.png)
+
+60. The first rule is now mapped to a dataset.
+<br>![](/exercises/ex2/images/Ex02_Part03_60.png)
+
+61. Click '>' to create a binding for the second rule.
+<br>![](/exercises/ex2/images/Ex02_Part03_61.png)
+
+62. The binding window shows up.
+<br>![](/exercises/ex2/images/Ex02_Part03_62.png)
+
+63. Click '+' to create a new binding.
+<br>![](/exercises/ex2/images/Ex02_Part03_63.png)
+
+64. Click 'Select a dataset'.
+<br>![](/exercises/ex2/images/Ex02_Part03_64.png)
+
+65. Select 'DI_DATA_LAKE'.
+<br>![](/exercises/ex2/images/Ex02_Part03_65.png)
+
+66. Click 'OK'.
+<br>![](/exercises/ex2/images/Ex02_Part03_66.png)
+
+67. Select a new associated mapping.
+<br>![](/exercises/ex2/images/Ex02_Part03_67.png)
+
+68. Select 'DRUG_NAME'.
+<br>![](/exercises/ex2/images/Ex02_Part03_68.png)
+
+69. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part03_69.png)
+
+70. Both rules are now bound to a dataset. Click 'Run All'.
+<br>![](/exercises/ex2/images/Ex02_Part03_70.png)
+
+71. Click 'Run'
+<br>![](/exercises/ex2/images/Ex02_Part03_71.png)
+
+72. The rules are being evaluated. Wait until the disabled 'View Results' is enabled.
+<br>![](/exercises/ex2/images/Ex02_Part03_72.png)
+
+73. Click 'View Results'.
+<br>![](/exercises/ex2/images/Ex02_Part03_73.png)
+
+74. The rules execution debriefing window shows up. Expand the results
+<br>![](/exercises/ex2/images/Ex02_Part03_74.png)
+
+75. Click 'Details'.
+<br>![](/exercises/ex2/images/Ex02_Part03_75.png)
+
+76. You can see the details of the failing records which are not valid drug names.
+
+77. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+<br>![](/exercises/ex2/images/Ex02_Part03_77.png)
+
+78. You are back to the Data Intelligence Metadata Explorer home page.
+<br>![](/exercises/ex2/images/Ex02_Part03_78.png)
+
+
+
+
+
 ## Exercise 2.1 Sub Exercise 1 Description
 
 After completing these steps you will have created...
