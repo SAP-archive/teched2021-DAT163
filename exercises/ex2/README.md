@@ -252,8 +252,10 @@ After completing these steps you will have created...
 82. You are back to the solution home page.
 <br>![](/exercises/ex2/images/Ex02_Part01_82.png)
 
-## Data Catalog
+## Business Glossary
 
+1. Click 'glossaries' to access or create a new glossary
+<br>![](/exercises/ex2/images/Ex02_Part02_01.png)
 
 
 ## Exercise 2.1 Sub Exercise 1 Description
