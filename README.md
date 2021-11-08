@@ -50,6 +50,7 @@ The requirements to follow the exercises in this repository are to use a Chrome 
 - [Exercise 2 - Catalog, Terms](exercises/ex2/)
     - [Exercise 2.1 - Modify Preparation](exercises/ex2#modify-preparation)
     - [Exercise 2.2 - Business Glossary](exercises/ex2#business-glossary)
+    - [Exercise 2.3 - Rules](exercises/ex2#rules)
 - [Exercise 3 - Title](exercises/ex3/)
     - [Exercise 3.1 - Sub Exercise](exercises/ex3#modify-preparation)
     - [Exercise 3.2 - Sub Exercise](exercises/ex3#exercise-22-sub-exercise-2-description)
