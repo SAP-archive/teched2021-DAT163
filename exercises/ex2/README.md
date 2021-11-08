@@ -210,6 +210,48 @@ After completing these steps you will have created...
 68. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part01_68.png)
 
+69. Click 'scheduled tasks' to create a new scheduled task.
+<br>![](/exercises/ex2/images/Ex02_Part01_69.png)
+
+70. Click 'Add' to add a new task.
+<br>![](/exercises/ex2/images/Ex02_Part01_70.png)
+
+71. Click the 'Name' field to select the publication name to schedule.
+<br>![](/exercises/ex2/images/Ex02_Part01_71.png)
+
+72. Type 'Pharma Claims Publication #' in the 'Filter Publications' text field. (Where # is your user number)
+<br>![](/exercises/ex2/images/Ex02_Part01_72.png)
+
+73. Select your publication (for example if you are user 01, select Pharma Claims Publication 01).
+<br>![](/exercises/ex2/images/Ex02_Part01_73.png)
+
+74. Click 'OK'
+<br>![](/exercises/ex2/images/Ex02_Part01_74.png)
+
+75. Open the 'Picker' icon to give you few more minutes for the first schedule of the selected publication.
+<br>![](/exercises/ex2/images/Ex02_Part01_75.png)
+
+76. add 5 more minutes to the original value. For example, if the value was 06:45, set it to 06:50. Click 'OK'
+<br>![](/exercises/ex2/images/Ex02_Part01_76.png)
+
+77. Click 'Save'
+<br>![](/exercises/ex2/images/Ex02_Part01_77.png)
+
+78. Wait until the scheduled publication task is executed.
+<br>![](/exercises/ex2/images/Ex02_Part01_78.png)
+
+79. Once done, the status will change to 'completed'
+<br>![](/exercises/ex2/images/Ex02_Part01_79.png)
+
+80. Click on the scheduled task to see the details.
+<br>![](/exercises/ex2/images/Ex02_Part01_80.png)
+
+81. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+<br>![](/exercises/ex2/images/Ex02_Part01_81.png)
+
+82. You are back to the solution home page.
+<br>![](/exercises/ex2/images/Ex02_Part01_82.png)
+
 ## Exercise 2.1 Sub Exercise 1 Description
 
 After completing these steps you will have created...
