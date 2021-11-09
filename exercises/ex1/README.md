@@ -297,7 +297,7 @@ This new dataset will help to easily isolate invalid claims.
 40. Click 'Run Preparation'
 <br>![](/exercises/ex1/images/Ex01_Part04_40.png)
 
-41. Type 'PHARMA_CLAIMS_ENRICHED_# (Where # is your user number) for the 'Dataset Name'
+41. Type 'PHARMA_CLAIMS_ENRICHED_#' (Where # is your user number) for the 'Dataset Name'
 <br>![](/exercises/ex1/images/Ex01_Part04_41.png)
 
 42. Click 'Apply'
