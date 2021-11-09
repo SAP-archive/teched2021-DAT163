@@ -285,7 +285,7 @@ This new dataset will help to easily isolate invalid claims.
 36. Select the column 'DRUG_NAME_0'
 <br>![](/exercises/ex1/images/Ex01_Part04_36.png)
 
-37. Click 'Delete'
+37. Click 'Remove'
 <br>![](/exercises/ex1/images/Ex01_Part04_37.png)
 
 38. The column 'DRUG_NAME_0' is now deleted
