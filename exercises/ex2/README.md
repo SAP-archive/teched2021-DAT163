@@ -323,6 +323,9 @@ After completing these steps you will have created...
 22. Click 'DI_DATA_LAKE'
 <br>![](/exercises/ex2/images/Ex02_Part02_22.png)
 
+22. Click 'shared'.
+<br>![](/exercises/ex2/images/Ex02_Part02_22_bis.png)
+
 23. Search 'CLAIMS_*_##' *(where # is your user number)
 <br>![](/exercises/ex2/images/Ex02_Part02_23.png)
 
