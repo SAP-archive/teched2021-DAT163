@@ -52,7 +52,7 @@ After completing these steps you will have discovered dataset stored in a databa
 4. This allows to show the list of connections as a list.
 <br>![](/exercises/ex1/images/Ex01_Part03_04.png)
 
-5. Select 'View Capabilities'
+5. Select 'View Capabilities' for the 'HANA_DEMO' connection.
 <br>![](/exercises/ex1/images/Ex01_Part03_05.png)
 
 6. This lists all the features supported for a given connected system.
@@ -64,7 +64,7 @@ After completing these steps you will have discovered dataset stored in a databa
 8. Click on the 'HANA_DEMO' tile
 <br>![](/exercises/ex1/images/Ex01_Part03_08.png)
 
-9. Select 'DEMO'
+9. Select 'TECHED_DAT163'
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
 10. Click 'View FactSheet' on the 'PHARMA_CLAIM' database table tile
