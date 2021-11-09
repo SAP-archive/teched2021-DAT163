@@ -604,8 +604,17 @@ After completing these steps you will have created...
 70. Both rules are now bound to a dataset. Click 'Run All'.
 <br>![](/exercises/ex2/images/Ex02_Part03_70.png)
 
-71. Click 'Run'
+71. Enable 'Save All'
 <br>![](/exercises/ex2/images/Ex02_Part03_71.png)
+
+72. Select 'Replace'
+<br>![](/exercises/ex2/images/Ex02_Part03_71_02.png)
+
+73. Enable 'Create Linked Preparation'.
+<br>![](/exercises/ex2/images/Ex02_Part03_71_03.png)
+
+74. Click 'Run'.
+<br>![](/exercises/ex2/images/Ex02_Part03_71_04.png)
 
 72. The rules are being evaluated. Wait until the disabled 'View Results' is enabled.
 <br>![](/exercises/ex2/images/Ex02_Part03_72.png)
