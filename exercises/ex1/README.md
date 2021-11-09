@@ -91,7 +91,7 @@ After completing these steps you will have discovered dataset stored in a databa
 17. This shows the details of the notifications. Click anywhere outside the notification window to continue interacting with the application
 <br>![](/exercises/ex1/images/Ex01_Part03_14.png)
 
-18. Wait for the profiling task to finish, and Click 'Refresh'
+18. Wait for the profiling task to finish, and Click 'Refresh' (Note: this action can take some time).
 <br>![](/exercises/ex1/images/Ex01_Part03_15.png)
 
 19. The factsheet was updated with the profiling information once the task is done.
