@@ -219,8 +219,11 @@ This new dataset will help to easily isolate invalid claims.
 15. Click 'DEMO'
 <br>![](/exercises/ex1/images/Ex01_Part04_15.png)
 
-16. Select 'PHARMA_CLAIMS'
-<br>![](/exercises/ex1/images/Ex01_Part04_16.png)
+16. Type 'CLAIMS_#' in the 'Filter items' text field (where # is your user number).
+<br>![](/exercises/ex1/images/Ex01_Part04_16_01.png)
+
+17. Select 'PHARMA_CLAIMS_#' (wher # is your user number)
+<br>![](/exercises/ex1/images/Ex01_Part04_16_02.png)
 
 17. Click 'OK'
 <br>![](/exercises/ex1/images/Ex01_Part04_17.png)
