@@ -122,7 +122,7 @@ You have now discovered a table in a database, profiled the data and found some 
 
 ## Upload your Dataset
 
-After completing these steps you will have uploaded and published datasets in SAP Data Intellegence.
+After completing these steps you will have uploaded and published datasets in SAP Data Intelligence.
 
 1. Click on 'Metadata Explorer'
 <br>![](/exercises/ex1/images/Ex01_Part02_01.png)
