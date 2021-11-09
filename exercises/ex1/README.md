@@ -11,13 +11,16 @@ After completing these steps, you will have logged into SAP Data Intelligence.
 1. Open Chrome and go to the SAP Data Intelligence url you were provided
 <br>![](/exercises/ex1/images/Ex01_Part01_01.png)
 
-2. Enter 'Default' for Tenant Name and click 'Proceed'
+2. Enter 'dat163-1' or 'dat163-2' for Tenant Name depending on your session and click 'Proceed'
+  Note: 
+    the first session, November 17 2021 05:30 AM UTC is using 'dat163-1'
+    the second session, November 17 2021 10:00 PM UTC is using 'dat163-2'
 <br>![](/exercises/ex1/images/Ex01_Part01_02.png)
 
-3. Enter the Username that was assigned to you (e.g. 'TA#'), for Tenant Name
-Note: where # is the number assigned to you
-Enter the Password that was assigned to you, for your Password
-Click 'Sign In'
+3. Enter the Username that was assigned to you (e.g. 'teched-dat163-#'), for Tenant Name
+  Note: where # is the number assigned to you (e.g. if your user number is 01 then your login is teched-dat163-01)
+  Enter the Password that was assigned to you, for your Password
+  Click 'Sign In'
 <br>![](/exercises/ex1/images/Ex01_Part01_03.png)
 
 4. You are now signed in the application.
