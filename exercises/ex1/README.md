@@ -124,46 +124,43 @@ You have now discovered a table in a database, profiled the data and found some 
 
 After completing these steps you will have uploaded and published datasets in SAP Data Intelligence.
 
-1. Click on 'Metadata Explorer'
-<br>![](/exercises/ex1/images/Ex01_Part02_01.png)
-
-2. Click on 'Browse Connections'
+1. Click on 'Browse Connections'
 <br>![](/exercises/ex1/images/Ex01_Part02_02.png)
 
-3. Click on the 'DI_DATA_LAKE' tile
+2. Click on the 'DI_DATA_LAKE' tile
 <br>![](/exercises/ex1/images/Ex01_Part02_03.png)
 
-4. Click on the 'shared' tile
+3. Click on the 'shared' tile
 <br>![](/exercises/ex1/images/Ex01_Part02_04.png)
 
-5. Click on the New Folder icon (folder with a +)
+4. Click on the New Folder icon (folder with a +)
 <br>![](/exercises/ex1/images/Ex01_Part02_05.png)
 
-6. Enter 'TechEd_DAT163_#' for folder name (where # is the number assigned to you)
+5. Enter 'TechEd_DAT163_#' for folder name (where # is the number assigned to you)
 <br>![](/exercises/ex1/images/Ex01_Part02_06.png)
 
-7. Click 'OK'
+6. Click 'OK'
 <br>![](/exercises/ex1/images/Ex01_Part02_07.png)
 
-8. Search for 'TechEd_DAT163_#' to isolate your newly created folder, then click on your newly added 'TechEd_DAT163_#' folder (where # is the number assigned to you)
+7. Search for 'TechEd_DAT163_#' to isolate your newly created folder, then click on your newly added 'TechEd_DAT163_#' folder (where # is the number assigned to you)
 <br>![](/exercises/ex1/images/Ex01_Part02_08.png)
 
-9. Upload a file, click on the 'Upload Files' icon on the toolbar
+8. Upload a file, click on the 'Upload Files' icon on the toolbar
 <br>![](/exercises/ex1/images/Ex01_Part02_09.png)
 
-10. Click on 'Upload' in the upper right hand corner of the Upload Files pop-up window
+9. Click on 'Upload' in the upper right hand corner of the Upload Files pop-up window
 <br>![](/exercises/ex1/images/Ex01_Part02_10.png)
 
-11. Browse to Sample Data folder where you downloaded and extracted 'DRUG_#.csv' (where # is the number assigned to you) and select it
+10. Browse to Sample Data folder where you downloaded and extracted 'DRUG_#.csv' (where # is the number assigned to you) and select it
 <br>![](/exercises/ex1/images/Ex01_Part02_11.png)
 
-12. Click 'Open'
+11. Click 'Open'
 <br>![](/exercises/ex1/images/Ex01_Part02_12.png)
 
-13. Click 'Upload'
+12. Click 'Upload'
 <br>![](/exercises/ex1/images/Ex01_Part02_13.png)
 
-The file will upload on the data lake.
+13. The file will upload on the data lake.
 <br>![](/exercises/ex1/images/Ex01_Part02_13_bis.png)
 
 14. After Upload is Complete, click 'Close'
