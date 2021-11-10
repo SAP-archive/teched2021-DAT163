@@ -445,7 +445,7 @@ After completing these steps you will have created...
 17. Click '<' to go back to the list of categories.
 <br>![](/exercises/ex2/images/Ex02_Part03_17.png)
 
-18. Click 'More Actions'.
+18. Click 'More Actions' to create a new 'Accuracy' rule.
 <br>![](/exercises/ex2/images/Ex02_Part03_18.png)
 
 19. Click 'Create Rules'.
