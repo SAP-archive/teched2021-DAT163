@@ -517,7 +517,7 @@ After completing these steps you will have created...
 41. Check your rule named 'DRUG_NAME_VALID_#' (For example if your user number is 01, check the rule named 'DRUG_NAME_VALID_01).
 <br>![](/exercises/ex2/images/Ex02_Part03_41.png)
 
-42. Collaps 'Accuracy'.
+42. Collapse 'Accuracy'.
 <br>![](/exercises/ex2/images/Ex02_Part03_42.png)
 
 43. Expand 'Completeness'.
