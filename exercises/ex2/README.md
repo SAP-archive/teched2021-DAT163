@@ -234,7 +234,7 @@ After completing these steps you will have created...
 76. Open the 'Picker' icon to give you few more minutes for the first schedule of the selected publication.
 <br>![](/exercises/ex2/images/Ex02_Part01_75.png)
 
-77. add 5 more minutes to the original value. For example, if the value was 06:45, set it to 06:50. Click 'OK'.
+77. Add 5 more minutes to the original value. For example, if the value was 06:45, set it to 06:50. Click 'OK'.
 <br>![](/exercises/ex2/images/Ex02_Part01_76.png)
 
 78. Click 'Save'.
