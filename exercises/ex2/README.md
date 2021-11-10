@@ -765,7 +765,7 @@ After completing these steps you will have created...
 39. Type 'POTENCY' for the 'New Column Name'.
 <br>![](/exercises/ex2/images/Ex02_Part04_44.png)
 
-40. Click 'Apply'
+40. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part04_45.png)
 
 41. Click '<' to come back to the list of actions related to recipe.
@@ -816,7 +816,7 @@ After completing these steps you will have created...
 55. Select 'DI_DATA_LAKE' for the connection.
 <br>![](/exercises/ex2/images/Ex02_Part04_61.png)
 
-56. Click 'shared'
+56. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part04_62.png)
 
 57. Type 'TechEd_DAT163_#' in the 'Filter items', then click your folder (where # is your user number).
