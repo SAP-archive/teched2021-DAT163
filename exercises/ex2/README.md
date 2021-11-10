@@ -651,7 +651,7 @@ After completing these steps you will have created...
 1. Click 'View Preparations'.
 <br>![](/exercises/ex2/images/Ex02_Part04_01.png)
 
-2. Click 'Preparation for PHARMA_CLAIMS_ENRICHED_01.csv'.
+2. Click 'Preparation for PHARMA_CLAIMS_ENRICHED_##.csv' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_02.png)
 
 3. Click the header for the column named 'DRUG_NAME'.
