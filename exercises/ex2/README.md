@@ -9,7 +9,7 @@ After completing these steps you will have created...
 1. Click 'View Preparation'
 <br>![](/exercises/ex2/images/Ex02_Part01_01.png)
 
-2. Click 'DRUG_01'
+2. Click 'DRUG_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_02.png)
 
 3. This opens your preparation
