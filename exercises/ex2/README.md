@@ -646,6 +646,11 @@ After completing these steps you will have created...
 84. You are back to the Data Intelligence Metadata Explorer home page.
 <br>![](/exercises/ex2/images/Ex02_Part03_78.png)
 
+## Data Remediation
+
+1. Click 'View Preparations'
+<br>![](/exercises/ex2/images/Ex02_Part04_01.png)
+
 ## Exercise 2.1 Sub Exercise 1 Description
 
 After completing these steps you will have created...
