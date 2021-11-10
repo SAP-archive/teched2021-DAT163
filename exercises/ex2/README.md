@@ -27,7 +27,7 @@ After completing these steps you will have created...
 7. Click the 'Join' icon
 <br>![](/exercises/ex2/images/Ex02_Part01_07.png)
 
-8. the join definition window opens. Scroll down
+8. The join definition window opens. Scroll down
 <br>![](/exercises/ex2/images/Ex02_Part01_08.png)
 
 9. Check 'POTENCY'
