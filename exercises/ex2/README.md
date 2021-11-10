@@ -756,7 +756,10 @@ After completing these steps you will have created...
 36. Click 'Apply Enrichment'.
 <br>![](/exercises/ex2/images/Ex02_Part04_40.png)
 
-37. 
+37. Click 'Actions'.
+<br>![](/exercises/ex2/images/Ex02_Part04_42.png)
+
+
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
