@@ -744,7 +744,7 @@ After completing these steps you will have created...
 32. Select 'Left Join'.
 <br>![](/exercises/ex2/images/Ex02_Part04_35.png)
 
-33. Scroll down and uncheck 'VALID_DRUG' and 'POTENCY' from the left source list of columns.
+33. Scroll down and uncheck 'VALID_DRUG' and 'POTENCY' under the 'left source' list of columns.
 <br>![](/exercises/ex2/images/Ex02_Part04_37.png)
 
 34. Scroll down and uncheck 'ORIG_PRODUCT', 'DOSAGE', 'ROUTE_ADMINISTERED', and 'NOTES' from the right source list of columns.
