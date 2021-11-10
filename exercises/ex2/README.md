@@ -651,6 +651,50 @@ After completing these steps you will have created...
 1. Click 'View Preparations'
 <br>![](/exercises/ex2/images/Ex02_Part04_01.png)
 
+2. Click 'Preparation for PHARMA_CLAIMS_ENRICHED_01.csv'
+<br>![](/exercises/ex2/images/Ex02_Part04_02.png)
+
+3. Click the header for the column named 'DRUG_NAME'.
+<br>![](/exercises/ex2/images/Ex02_Part04_03.png)
+
+4. Click 'Replace'.
+<br>![](/exercises/ex2/images/Ex02_Part04_04.png)
+
+5. Type 'Nystatine' for the search string and type 'Nystatin' for the 'Replace by'.
+<br>![](/exercises/ex2/images/Ex02_Part04_05.png)
+
+6. Click 'Apply'.
+<br>![](/exercises/ex2/images/Ex02_Part04_06.png)
+
+7. The value 'Nystatine' was replaced by 'Nystatin'.
+<br>![](/exercises/ex2/images/Ex02_Part04_08.png)
+
+8. Click 'Replace'
+<br>![](/exercises/ex2/images/Ex02_Part04_09.png)
+
+9. Type 'Acetaminofen' for the search string and type 'Acetaminophen' for the 'Replace by'.
+<br>![](/exercises/ex2/images/Ex02_Part04_11.png)
+
+10. Click 'Apply'.
+<br>![](/exercises/ex2/images/Ex02_Part04_12.png)
+
+11. The value 'Acetaminofen' was replaced by 'Acetaminophen'.
+<br>![](/exercises/ex2/images/Ex02_Part04_13.png)
+
+12. Click '<' to go back to the main actions associated to the recipe.
+<br>![](/exercises/ex2/images/Ex02_Part04_14.png)
+
+13. Click 'Run Preparation'.
+<br>![](/exercises/ex2/images/Ex02_Part04_15.png)
+
+14. Type 'REMEDIATED_DATA_#' for the 'Dataset Name' (where # is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part04_17.png)
+
+15. Click 'Apply'.
+<br>![](/exercises/ex2/images/Ex02_Part04_18.png)
+
+16. 
+
 ## Exercise 2.1 Sub Exercise 1 Description
 
 After completing these steps you will have created...
