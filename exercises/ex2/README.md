@@ -693,7 +693,70 @@ After completing these steps you will have created...
 15. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part04_18.png)
 
-16. 
+16. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+<br>![](/exercises/ex2/images/Ex02_Part04_19.png)
+
+17. Click 'View Preparations'.
+<br>![](/exercises/ex2/images/Ex02_Part04_20.png)
+
+18. Click 'DRUG_#' (where # is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part04_21.png)
+
+19. Click 'Recipe'.
+<br>![](/exercises/ex2/images/Ex02_Part04_22.png)
+
+20. Edit the 'Enrich' action.
+<br>![](/exercises/ex2/images/Ex02_Part04_23.png)
+
+21. Click '+' to add a new source.
+<br>![](/exercises/ex2/images/Ex02_Part04_24.png)
+
+22. Click 'Browse'.
+<br>![](/exercises/ex2/images/Ex02_Part04_25.png)
+
+23. Select the connection 'DI_DATA_LAKE'.
+<br>![](/exercises/ex2/images/Ex02_Part04_26.png)
+
+24. Click 'shared'.
+<br>![](/exercises/ex2/images/Ex02_Part04_27.png)
+
+25. Type 'TechEd_DAT163_#' in the 'Filter items' to search for your folder (where # is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part04_28_01.png)
+
+26. Click 'TechEd_DAT163_#' (where # is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part04_28_02.png)
+
+27. Click 'REMEDIATED_DATA_#' (where # is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part04_29.png)
+
+28. Click 'OK'.
+<br>![](/exercises/ex2/images/Ex02_Part04_30.png)
+
+29. The remediated dataset was added to the source.
+<br>![](/exercises/ex2/images/Ex02_Part04_31.png)
+
+30. Click 'X' to delete the join with the dataset 'D1'.
+<br>![](/exercises/ex2/images/Ex02_Part04_32.png)
+
+31. Drag and drop the 'REMEDIATED_DATA_#' datasource to the left side of 'P1' (where 3 is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part04_34.png)
+
+32. Select 'Left Join'.
+<br>![](/exercises/ex2/images/Ex02_Part04_35.png)
+
+33. Scroll down and uncheck 'VALID_DRUG' and 'POTENCY' from the left source list of columns.
+<br>![](/exercises/ex2/images/Ex02_Part04_37.png)
+
+34. Scroll down and uncheck 'ORIG_PRODUCT', 'DOSAGE', 'ROUTE_ADMINISTERED', and 'NOTES' from the right source list of columns.
+<br>![](/exercises/ex2/images/Ex02_Part04_38.png)
+
+35. Click 'Apply'.
+<br>![](/exercises/ex2/images/Ex02_Part04_39.png)
+
+36. Click 'Apply Enrichment'.
+<br>![](/exercises/ex2/images/Ex02_Part04_40.png)
+
+37. 
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
