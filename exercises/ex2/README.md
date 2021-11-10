@@ -774,7 +774,7 @@ After completing these steps you will have created...
 42. Click 'Run Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part04_47.png)
 
-43. Type 'PHARMA_CLAIMS_CURATED' for the 'Dataset Name'.
+43. Type 'PHARMA_CLAIMS_CURATED_##' for the 'Dataset Name' (Where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_48.png)
 
 44. Click 'Apply'.
