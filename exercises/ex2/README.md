@@ -189,7 +189,7 @@ After completing these steps you will have created...
 61. Click 'Column'.
 <br>![](/exercises/ex2/images/Ex02_Part01_60.png)
 
-62. Thte columns are not profiled anymore. This is because the structure of the data changed when we modified the definition in the recipe associated to the preparation task (added the column POTENCY, changed one column name).
+62. The columns are not profiled anymore. This is because the structure of the data changed when we modified the definition in the recipe associated to the preparation task (added the column POTENCY, changed one column name).
 <br>![](/exercises/ex2/images/Ex02_Part01_61.png)
 
 63. Click 'Profile Data'.
