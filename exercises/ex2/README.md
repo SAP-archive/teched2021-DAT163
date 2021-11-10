@@ -616,29 +616,35 @@ After completing these steps you will have created...
 74. Click 'Run'.
 <br>![](/exercises/ex2/images/Ex02_Part03_71_04.png)
 
-72. The rules are being evaluated. Wait until the disabled 'View Results' is enabled.
+75. The rules are being evaluated. Wait until the disabled 'View Results' is enabled.
 <br>![](/exercises/ex2/images/Ex02_Part03_72.png)
 
-73. Click 'View Results'.
+76. Click 'View Results'.
 <br>![](/exercises/ex2/images/Ex02_Part03_73.png)
 
-74. The rules execution debriefing window shows up. Expand the results
+77. The rules execution debriefing window shows up. Expand the results
 <br>![](/exercises/ex2/images/Ex02_Part03_74.png)
 
-75. Click 'Details'.
+78. Click 'Details'.
 <br>![](/exercises/ex2/images/Ex02_Part03_75.png)
 
-76. You can see the details of the failing records which are not valid drug names.
+79. You can see the failing records which are not valid drug names.
+<br>![](/exercises/ex2/images/Ex02_Part03_79.png)
 
-77. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+80. Expand the failed records window.
+<br>![](/exercises/ex2/images/Ex02_Part03_80.png)
+
+81. Click 'Failed Rows'.
+<br>![](/exercises/ex2/images/Ex02_Part03_81.png)
+
+82. You can see the details of the failed records for the selected rule.
+<br>![](/exercises/ex2/images/Ex02_Part03_82.png)
+
+83. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part03_77.png)
 
-78. You are back to the Data Intelligence Metadata Explorer home page.
+84. You are back to the Data Intelligence Metadata Explorer home page.
 <br>![](/exercises/ex2/images/Ex02_Part03_78.png)
-
-
-
-
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
