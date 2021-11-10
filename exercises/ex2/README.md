@@ -275,7 +275,7 @@ After completing these steps you will have created...
 6. Type the following description: 'Glossary for pharmaceutical drugs'.
 <br>![](/exercises/ex2/images/Ex02_Part02_07.png)
 
-7. Your can create your glossary.
+7. You can create your glossary.
 <br>![](/exercises/ex2/images/Ex02_Part02_07.png)
 
 8. Click 'Save'.
