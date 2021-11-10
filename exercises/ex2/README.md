@@ -93,7 +93,7 @@ After completing these steps you will have created...
 29. This shows only the claims with unknown drugs which are not null.
 <br>![](/exercises/ex2/images/Ex02_Part01_29.png)
 
-30. CLick '<' to come back to the list of available actions.
+30. Click '<' to come back to the list of available actions.
 <br>![](/exercises/ex2/images/Ex02_Part01_30.png)
 
 31. Click 'Aggregate Preparation'.
@@ -347,7 +347,7 @@ After completing these steps you will have created...
 29. Type 'CLAIMS' in the search bar.
 <br>![](/exercises/ex2/images/Ex02_Part02_29.png)
 
-30. Type enter key.
+30. Press Enter key.
 <br>![](/exercises/ex2/images/Ex02_Part02_30.png)
 
 31. The Catalog shows the results of the dataset that matches the search pattern.
@@ -648,10 +648,10 @@ After completing these steps you will have created...
 
 ## Data Remediation
 
-1. Click 'View Preparations'
+1. Click 'View Preparations'.
 <br>![](/exercises/ex2/images/Ex02_Part04_01.png)
 
-2. Click 'Preparation for PHARMA_CLAIMS_ENRICHED_01.csv'
+2. Click 'Preparation for PHARMA_CLAIMS_ENRICHED_01.csv'.
 <br>![](/exercises/ex2/images/Ex02_Part04_02.png)
 
 3. Click the header for the column named 'DRUG_NAME'.
@@ -669,7 +669,7 @@ After completing these steps you will have created...
 7. The value 'Nystatine' was replaced by 'Nystatin'.
 <br>![](/exercises/ex2/images/Ex02_Part04_08.png)
 
-8. Click 'Replace'
+8. Click 'Replace'.
 <br>![](/exercises/ex2/images/Ex02_Part04_09.png)
 
 9. Type 'Acetaminofen' for the search string and type 'Acetaminophen' for the 'Replace by'.
