@@ -147,7 +147,7 @@ After completing these steps you will have created...
 47. Click the 'Container' icon.
 <br>![](/exercises/ex2/images/Ex02_Part01_46.png)
 
-48. Select 'PHARMA-CLAIMS_ENRICHED_#' (where # is your user number).
+48. Select 'PHARMA-CLAIMS_ENRICHED_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_47.png)
 
 49. Click 'Apply'.
@@ -174,13 +174,13 @@ After completing these steps you will have created...
 56. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part01_55.png)
 
-57. Filter the data with 'TechEd_DAT163_#' (where # is your user number).
+57. Filter the data with 'TechEd_DAT163_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_56.png)
 
-58. Click 'TechEd_DAT163_#' (where # is your user number).
+58. Click 'TechEd_DAT163_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_57.png)
 
-59. Click 'View Factsheet' for the file 'PHARMA_CLAIMS_ENRICH_#' (where # is your user number).
+59. Click 'View Factsheet' for the file 'PHARMA_CLAIMS_ENRICH_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_58.png)
 
 60. The application shows the factsheet associated to the selected dataset.
@@ -222,7 +222,7 @@ After completing these steps you will have created...
 72. Click the 'Name' field to select the publication name to schedule.
 <br>![](/exercises/ex2/images/Ex02_Part01_71.png)
 
-73. Type 'Pharma Claims Publication #' in the 'Filter Publications' text field. (Where # is your user number).
+73. Type 'Pharma Claims Publication ##' in the 'Filter Publications' text field. (Where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_72.png)
 
 74. Select your publication (for example if you are user 01, select Pharma Claims Publication 01).
@@ -326,7 +326,7 @@ After completing these steps you will have created...
 22. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part02_22_bis.png)
 
-23. Search 'CLAIMS_*_##' *(where # is your user number).
+23. Search 'CLAIMS_*_##' *(where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part02_23.png)
 
 24. Check your dataset (for example PHARMA_CLAIMS_ENRICHED_01 if your user number is 01).
@@ -400,7 +400,7 @@ After completing these steps you will have created...
 2. Click '+' to create a new 'Completeness' rule.
 <br>![](/exercises/ex2/images/Ex02_Part03_02.png)
 
-3. Type 'DRUG_NAME_EXISTS_#' for both the 'Rule ID' and the 'Name' (where # is your user id).
+3. Type 'DRUG_NAME_EXISTS_##' for both the 'Rule ID' and the 'Name' (where ## is your user id).
 <br>![](/exercises/ex2/images/Ex02_Part03_03.png)
  
 4. Type the following 'Description': Drug Name must not be null.
@@ -451,7 +451,7 @@ After completing these steps you will have created...
 19. Click 'Create Rules'.
 <br>![](/exercises/ex2/images/Ex02_Part03_19.png)
 
-20. Type 'DRUG_NAME_VALID_#' for both the 'Rule ID' and the 'Name' (where # is your user id).
+20. Type 'DRUG_NAME_VALID_##' for both the 'Rule ID' and the 'Name' (where ## is your user id).
 <br>![](/exercises/ex2/images/Ex02_Part03_20.png)
  
 21. Type the following 'Description': The drug name is valid.
@@ -496,7 +496,7 @@ After completing these steps you will have created...
 34. Click '+' to create a new rulebook.
 <br>![](/exercises/ex2/images/Ex02_Part03_34.png)
 
-35. Type 'PHARMA_CLAIMS_#' for the rulebook 'Name' (where # is your user number).
+35. Type 'PHARMA_CLAIMS_##' for the rulebook 'Name' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part03_35.png)
 
 36. Type the following 'Description': 'Set of rules to evaluate the quality of dataset used to track pharma claims'.
@@ -514,7 +514,7 @@ After completing these steps you will have created...
 40. Expand 'Accuracy'.
 <br>![](/exercises/ex2/images/Ex02_Part03_40.png)
 
-41. Check your rule named 'DRUG_NAME_VALID_#' (For example if your user number is 01, check the rule named 'DRUG_NAME_VALID_01).
+41. Check your rule named 'DRUG_NAME_VALID_##' (For example if your user number is 01, check the rule named 'DRUG_NAME_VALID_01).
 <br>![](/exercises/ex2/images/Ex02_Part03_41.png)
 
 42. Collapse 'Accuracy'.
@@ -523,7 +523,7 @@ After completing these steps you will have created...
 43. Expand 'Completeness'.
 <br>![](/exercises/ex2/images/Ex02_Part03_43.png)
 
-44. Check your rule named 'DRUG_NAME_EXISTS_#' (For example if your user number is 01, check the rule named 'DRUG_NAME_EXISTS_01).
+44. Check your rule named 'DRUG_NAME_EXISTS_##' (For example if your user number is 01, check the rule named 'DRUG_NAME_EXISTS_01).
 <br>![](/exercises/ex2/images/Ex02_Part03_44.png)
 
 45. Click 'Save'.
@@ -550,10 +550,10 @@ After completing these steps you will have created...
 52. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part03_52.png)
 
-53. Search 'TechEd_DAT163_#' (where # is your user number). Click your folder.
+53. Search 'TechEd_DAT163_##' (where ## is your user number). Click your folder.
 <br>![](/exercises/ex2/images/Ex02_Part03_53.png)
 
-54. Select 'PHARMA_CLAIMS_ENRICHED_#' (where # is your user number).
+54. Select 'PHARMA_CLAIMS_ENRICHED_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part03_54.png)
 
 55. The dataset is selected.
@@ -687,7 +687,7 @@ After completing these steps you will have created...
 13. Click 'Run Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part04_15.png)
 
-14. Type 'REMEDIATED_DATA_#' for the 'Dataset Name' (where # is your user number).
+14. Type 'REMEDIATED_DATA_##' for the 'Dataset Name' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_17.png)
 
 15. Click 'Apply'.
@@ -699,7 +699,7 @@ After completing these steps you will have created...
 17. Click 'View Preparations'.
 <br>![](/exercises/ex2/images/Ex02_Part04_20.png)
 
-18. Click 'DRUG_#' (where # is your user number).
+18. Click 'DRUG_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_21.png)
 
 19. Click 'Recipe'.
@@ -720,13 +720,13 @@ After completing these steps you will have created...
 24. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part04_27.png)
 
-25. Type 'TechEd_DAT163_#' in the 'Filter items' to search for your folder (where # is your user number).
+25. Type 'TechEd_DAT163_##' in the 'Filter items' to search for your folder (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_28_01.png)
 
-26. Click 'TechEd_DAT163_#' (where # is your user number).
+26. Click 'TechEd_DAT163_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_28_02.png)
 
-27. Click 'REMEDIATED_DATA_#' (where # is your user number).
+27. Click 'REMEDIATED_DATA_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_29.png)
 
 28. Click 'OK'.
@@ -738,7 +738,7 @@ After completing these steps you will have created...
 30. Click 'X' to delete the join with the dataset 'D1'.
 <br>![](/exercises/ex2/images/Ex02_Part04_32.png)
 
-31. Drag and drop the 'REMEDIATED_DATA_#' datasource to the left side of 'P1' (where 3 is your user number).
+31. Drag and drop the 'REMEDIATED_DATA_##' datasource to the left side of 'P1' (where 3 is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_34.png)
 
 32. Select 'Left Join'.
@@ -786,16 +786,16 @@ After completing these steps you will have created...
 45. Click 'rulebooks'.
 <br>![](/exercises/ex2/images/Ex02_Part04_51.png)
 
-46. Type 'PHARMA_CLAIMS_#' in the 'Filter rulebook names' text field (where # is your user number).
+46. Type 'PHARMA_CLAIMS_##' in the 'Filter rulebook names' text field (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_52.png)
 
-47. Click 'PHARMA_CLAIMS_#' (where # is your user number).
+47. Click 'PHARMA_CLAIMS_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_53.png)
 
 48. Expand both 'Accuracy' and 'Completeness' set of rules.
 <br>![](/exercises/ex2/images/Ex02_Part04_54.png)
 
-49. Click '>' to expand the rules binding associated to the first rule: 'DRUG_NAME_VALID_#' (where # is your user number).
+49. Click '>' to expand the rules binding associated to the first rule: 'DRUG_NAME_VALID_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_55.png)
 
 50. Delete the rule binding.
@@ -819,10 +819,10 @@ After completing these steps you will have created...
 56. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part04_62.png)
 
-57. Type 'TechEd_DAT163_#' in the 'Filter items', then click your folder (where # is your user number).
+57. Type 'TechEd_DAT163_##' in the 'Filter items', then click your folder (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_63.png)
 
-58. Click 'PHARMA_CLAIMS_CURATED_#' (where # is your user number).
+58. Click 'PHARMA_CLAIMS_CURATED_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_64.png)
 
 59. Click 'OK'.
@@ -849,7 +849,7 @@ After completing these steps you will have created...
 66. Click 'Select a dataset'.
 <br>![](/exercises/ex2/images/Ex02_Part04_72.png)
 
-67. Select the 'PHARMA_CLAIMS_CURATED_#' existing binding (where # is your user number).
+67. Select the 'PHARMA_CLAIMS_CURATED_##' existing binding (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_73.png)
 
 68. Click 'Ok'.
