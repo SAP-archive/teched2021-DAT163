@@ -21,6 +21,14 @@ The requirements to follow the exercises in this repository are:
 
 1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/dat163) to obtain your username and password
 
+2. Select the workshop entry for the session.
+<br>![](/exercises/ex0/images/Ex00_Registration_01.png)
+
+3. Type your name.
+<br>![](/exercises/ex0/images/Ex00_Registration_02.png)
+
+4. Click 'Submit'.
+
 ## Pre-Requisites
 
 1. Click on 'DRUG.zip' file (listed above)
