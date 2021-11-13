@@ -26,13 +26,13 @@ Note:
 * If your user number is 01 then your login is 'teched-dat163-01'.
   
 4. Enter the Password that was assigned to you, for your Password.
-<br>![](/exercises/ex1/images/Ex01_Part01_03_bis.png)
+<br>![](/exercises/ex1/images/Ex01_Part01_04.png)
   
 5. Click 'Sign In'.
-<br>![](/exercises/ex1/images/Ex01_Part01_03_ter.png)
+<br>![](/exercises/ex1/images/Ex01_Part01_05.png)
 
 4. You are now signed in the application.
-<br>![](/exercises/ex1/images/Ex01_Part01_04.png)
+<br>![](/exercises/ex1/images/Ex01_Part01_06.png)
 
 You have now logged into SAP Data Intelligence.
 
