@@ -45,10 +45,10 @@ The requirements to follow the exercises in this repository are:
 4. Unzip 'DRUG.zip'
 <br>![](/exercises/ex0/images/Ex00_Part01_04.png)
 
-5. Rename 'DRUG.csv' to 'DRUG_#.csv' (where # is the number assigned to you)
+5. Rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is your user number)
 <br>![](/exercises/ex0/images/Ex00_Part01_05.png)
 
-*Note: For example if you are user 01, then rename your file DRUG_01.csv*
+*Note: For example if you are user teched-dat163-**01**, then rename your file DRUG_**01**.csv*
 
 ## Disclaimer
 - Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.
