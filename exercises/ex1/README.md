@@ -225,31 +225,31 @@ This new dataset will help to easily isolate invalid claims.
 17. Select 'PHARMA_CLAIMS_##' (where ## is your user number)
 <br>![](/exercises/ex1/images/Ex01_Part04_16_02.png)
 
-17. Click 'OK'
+17. Click 'OK'.
 <br>![](/exercises/ex1/images/Ex01_Part04_17.png)
 
-18. The application is acquiring a sample of the new selected dataset
+18. The application is acquiring a sample of the new selected dataset.
 <br>![](/exercises/ex1/images/Ex01_Part04_18.png)
 
-19. The new selected dataset can now be used to merge data
+19. The new selected dataset can now be used to merge data.
 <br>![](/exercises/ex1/images/Ex01_Part04_19.png)
 
-20. Drag and drop 'PHARMA_CLAIMS' on the cell on the left hand-side of the main dataset
+20. Drag and drop 'PHARMA_CLAIMS' on the cell on the left hand-side of the main dataset.
 <br>![](/exercises/ex1/images/Ex01_Part04_20.png)
 
-21. Select 'Left Join'
+21. Select 'Left Join'.
 <br>![](/exercises/ex1/images/Ex01_Part04_21.png)
 
-22. Scroll down the list of output columns and uncheck 'ORIG_PRODUCT', 'POTENCY', 'DOSAGE', 'ROUTE_ADMINISTERED', NOTES
+22. Scroll down the list of output columns and uncheck 'ORIG_PRODUCT', 'POTENCY', 'DOSAGE', 'ROUTE_ADMINISTERED', NOTES.
 <br>![](/exercises/ex1/images/Ex01_Part04_22.png)
 
-23. Click Apply
+23. Click Apply.
 <br>![](/exercises/ex1/images/Ex01_Part04_23.png)
 
-24. The application displays a preview of the merge data
+24. The application displays a preview of the merge data.
 <br>![](/exercises/ex1/images/Ex01_Part04_24.png)
 
-25. The merged data now shows a null value for the column 'DRUG_NAME_0' when a record from the claim data is for a drug that is not listed in the list of supported drugs
+25. The merged data now shows a null value for the column 'DRUG_NAME_0' when a record from the claim data is for a drug that is not listed in the list of supported drugs.
 <br>![](/exercises/ex1/images/Ex01_Part04_25.png)
 
 26. Click 'Apply Enrichment'.
@@ -265,7 +265,7 @@ This new dataset will help to easily isolate invalid claims.
 <br>![](/exercises/ex1/images/Ex01_Part04_29.png)
 
 30. Type 'ValidClaim' for the 'Column Name'
-<br>![](/exercises/ex1/images/Ex01_Part04_25.png)
+<br>![](/exercises/ex1/images/Ex01_Part04_30.png)
 
 31. Click 'Expression'.
 <br>![](/exercises/ex1/images/Ex01_Part04_31.png)
