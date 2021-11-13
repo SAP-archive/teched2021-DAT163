@@ -608,25 +608,25 @@ After completing these steps you will have created...
 <br>![](/exercises/ex2/images/Ex02_Part03_71.png)
 
 72. Select 'Replace'.
-<br>![](/exercises/ex2/images/Ex02_Part03_71_02.png)
-
-73. Enable 'Create Linked Preparation'.
-<br>![](/exercises/ex2/images/Ex02_Part03_71_03.png)
-
-74. Click 'Run'.
-<br>![](/exercises/ex2/images/Ex02_Part03_71_04.png)
-
-75. The rules are being evaluated. Wait until the disabled 'View Results' is enabled.
 <br>![](/exercises/ex2/images/Ex02_Part03_72.png)
 
-76. Click 'View Results'.
+73. Enable 'Create Linked Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part03_73.png)
 
-77. The rules execution debriefing window shows up. Expand the results.
+74. Click 'Run'.
 <br>![](/exercises/ex2/images/Ex02_Part03_74.png)
 
-78. Click 'Details'.
+75. The rules are being evaluated. Wait until the disabled 'View Results' is enabled.
 <br>![](/exercises/ex2/images/Ex02_Part03_75.png)
+
+76. Click 'View Results'.
+<br>![](/exercises/ex2/images/Ex02_Part03_76.png)
+
+77. The rules execution debriefing window shows up. Expand the results.
+<br>![](/exercises/ex2/images/Ex02_Part03_77.png)
+
+78. Click 'Details'.
+<br>![](/exercises/ex2/images/Ex02_Part03_78.png)
 
 79. You can see the failing records which are not valid drug names.
 <br>![](/exercises/ex2/images/Ex02_Part03_79.png)
@@ -641,10 +641,10 @@ After completing these steps you will have created...
 <br>![](/exercises/ex2/images/Ex02_Part03_82.png)
 
 83. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
-<br>![](/exercises/ex2/images/Ex02_Part03_77.png)
+<br>![](/exercises/ex2/images/Ex02_Part03_83.png)
 
 84. You are back to the Data Intelligence Metadata Explorer home page.
-<br>![](/exercises/ex2/images/Ex02_Part03_78.png)
+<br>![](/exercises/ex2/images/Ex02_Part03_84.png)
 
 ## Data Remediation
 
