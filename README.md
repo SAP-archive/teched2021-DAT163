@@ -12,7 +12,10 @@ This hands-on exercises also include how a data steward can define rules and bui
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are to use a Chrome web browser.
+The requirements to follow the exercises in this repository are:
+* to use a Chrome web browser,
+* to register and get your user,
+* retrieve a zipped folder with data.
 
 ## User Registration
 
