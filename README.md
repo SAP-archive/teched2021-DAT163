@@ -14,25 +14,27 @@ This hands-on exercises also include how a data steward can define rules and bui
 
 The requirements to follow the exercises in this repository are to use a Chrome web browser.
 
+## User Registration
+
+1. Register to obtain your username and password
+
 ## Pre-Requisites
 
-1. Detail how to obtain the username and password
-
-2. Click on 'DRUG.zip' file (listed above)
+1. Click on 'DRUG.zip' file (listed above)
 <br>![](/exercises/ex0/images/Ex00_Part01_01.png)
 
-3. Click 'Download' 'DRUG.zip' file
+2. Click 'Download' 'DRUG.zip' file
 <br>![](/exercises/ex0/images/Ex00_Part01_02.png)
 
-4. Click the Browser back arrow (<-)
+3. Click the Browser back arrow (<-)
 <br>![](/exercises/ex0/images/Ex00_Part01_03.png)
 
 *Note: Suggestion put the files in a folder called 'TechEd_DAT163'*
 
-5. Unzip 'DRUG.zip'
+4. Unzip 'DRUG.zip'
 <br>![](/exercises/ex0/images/Ex00_Part01_04.png)
 
-6. Rename 'DRUG.csv' to 'DRUG_#.csv' (where # is the number assigned to you)
+5. Rename 'DRUG.csv' to 'DRUG_#.csv' (where # is the number assigned to you)
 <br>![](/exercises/ex0/images/Ex00_Part01_05.png)
 
 *Note: For example if you are user 01, then rename your file DRUG_01.csv*
