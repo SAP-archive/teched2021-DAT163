@@ -667,229 +667,229 @@ After completing these steps you will have created...
 <br>![](/exercises/ex2/images/Ex02_Part04_06.png)
 
 7. The value 'Nystatine' was replaced by 'Nystatin'.
-<br>![](/exercises/ex2/images/Ex02_Part04_08.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_07.png)
 
 8. Click 'Replace'.
-<br>![](/exercises/ex2/images/Ex02_Part04_09.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_08.png)
 
 9. Type 'Acetaminofen' for the search string and type 'Acetaminophen' for the 'Replace by'.
-<br>![](/exercises/ex2/images/Ex02_Part04_11.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_09.png)
 
 10. Click 'Apply'.
-<br>![](/exercises/ex2/images/Ex02_Part04_12.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_10.png)
 
 11. The value 'Acetaminofen' was replaced by 'Acetaminophen'.
-<br>![](/exercises/ex2/images/Ex02_Part04_13.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_11.png)
 
 12. Click '<' to go back to the main actions associated to the recipe.
-<br>![](/exercises/ex2/images/Ex02_Part04_14.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_12.png)
 
 13. Click 'Run Preparation'.
-<br>![](/exercises/ex2/images/Ex02_Part04_15.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_13.png)
 
 14. Type 'REMEDIATED_DATA_##' for the 'Dataset Name' (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_17.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_14.png)
 
 15. Click 'Apply'.
-<br>![](/exercises/ex2/images/Ex02_Part04_18.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_15.png)
 
 16. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
-<br>![](/exercises/ex2/images/Ex02_Part04_19.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_16.png)
 
 17. Click 'View Preparations'.
-<br>![](/exercises/ex2/images/Ex02_Part04_20.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_17.png)
 
 18. Click 'DRUG_##' (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_21.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_18.png)
 
 19. Click 'Recipe'.
-<br>![](/exercises/ex2/images/Ex02_Part04_22.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_19.png)
 
 20. Edit the 'Enrich' action.
-<br>![](/exercises/ex2/images/Ex02_Part04_23.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_20.png)
 
 21. Click '+' to add a new source.
-<br>![](/exercises/ex2/images/Ex02_Part04_24.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_21.png)
 
 22. Click 'Browse'.
-<br>![](/exercises/ex2/images/Ex02_Part04_25.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_22.png)
 
 23. Select the connection 'DI_DATA_LAKE'.
-<br>![](/exercises/ex2/images/Ex02_Part04_26.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_23.png)
 
 24. Click 'shared'.
-<br>![](/exercises/ex2/images/Ex02_Part04_27.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_24.png)
 
 25. Type 'TechEd_DAT163_##' in the 'Filter items' to search for your folder (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_28_01.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_25.png)
 
 26. Click 'TechEd_DAT163_##' (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_28_02.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_26.png)
 
 27. Click 'REMEDIATED_DATA_##' (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_29.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_27.png)
 
 28. Click 'OK'.
-<br>![](/exercises/ex2/images/Ex02_Part04_30.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_28.png)
 
 29. The remediated dataset was added to the source.
-<br>![](/exercises/ex2/images/Ex02_Part04_31.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_29.png)
 
 30. Click 'X' to delete the join with the dataset 'D1'.
-<br>![](/exercises/ex2/images/Ex02_Part04_32.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_30.png)
 
 31. Drag and drop the 'REMEDIATED_DATA_##' datasource to the left side of 'P1' (where 3 is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_34.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_31.png)
 
 32. Select 'Left Join'.
-<br>![](/exercises/ex2/images/Ex02_Part04_35.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_32.png)
 
 33. Scroll down and uncheck 'VALID_DRUG' and 'POTENCY' under the 'left source' list of columns.
-<br>![](/exercises/ex2/images/Ex02_Part04_37.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_33.png)
 
 34. Scroll down and uncheck 'ORIG_PRODUCT', 'DOSAGE', 'ROUTE_ADMINISTERED', and 'NOTES' from the right source list of columns.
-<br>![](/exercises/ex2/images/Ex02_Part04_38.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_34.png)
 
 35. Click 'Apply'.
-<br>![](/exercises/ex2/images/Ex02_Part04_39.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_35.png)
 
 36. Click 'Apply Enrichment'.
-<br>![](/exercises/ex2/images/Ex02_Part04_40.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_36.png)
 
 37. Click 'POTENCY_0'.
-<br>![](/exercises/ex2/images/Ex02_Part04_42.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_37.png)
 
 38. Click 'Rename'.
-<br>![](/exercises/ex2/images/Ex02_Part04_43.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_38.png)
 
 39. Type 'POTENCY' for the 'New Column Name'.
-<br>![](/exercises/ex2/images/Ex02_Part04_44.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_39.png)
 
 40. Click 'Apply'.
-<br>![](/exercises/ex2/images/Ex02_Part04_45.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_40.png)
 
 41. Click '<' to come back to the list of actions related to recipe.
-<br>![](/exercises/ex2/images/Ex02_Part04_46.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_41.png)
 
 42. Click 'Run Preparation'.
-<br>![](/exercises/ex2/images/Ex02_Part04_47.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_42.png)
 
 43. Type 'PHARMA_CLAIMS_CURATED_##' for the 'Dataset Name' (Where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_48.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_43.png)
 
 44. Click 'Apply'.
-<br>![](/exercises/ex2/images/Ex02_Part04_49.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_44.png)
 
 45. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
-<br>![](/exercises/ex2/images/Ex02_Part04_50.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_45.png)
 
 46. Click 'rulebooks'.
-<br>![](/exercises/ex2/images/Ex02_Part04_51.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_46.png)
 
 47. Type 'PHARMA_CLAIMS_##' in the 'Filter rulebook names' text field (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_52.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_47.png)
 
 48. Click 'PHARMA_CLAIMS_##' (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_53.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_48.png)
 
 49. Expand both 'Accuracy' and 'Completeness' set of rules.
-<br>![](/exercises/ex2/images/Ex02_Part04_54.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_49.png)
 
 50. Click '>' to expand the rules binding associated to the first rule: 'DRUG_NAME_VALID_##' (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_55.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_50.png)
 
 51. Delete the rule binding.
-<br>![](/exercises/ex2/images/Ex02_Part04_56.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_51.png)
 
 52. Click 'Yes'.
-<br>![](/exercises/ex2/images/Ex02_Part04_57.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_52.png)
 
 53. Click '+' to create a new rule binding.
-<br>![](/exercises/ex2/images/Ex02_Part04_58.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_53.png)
 
 54. Click 'Select a dataset'.
-<br>![](/exercises/ex2/images/Ex02_Part04_59.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_54.png)
 
 55. Click 'Browse'.
-<br>![](/exercises/ex2/images/Ex02_Part04_60.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_55.png)
 
 56. Select 'DI_DATA_LAKE' for the connection.
-<br>![](/exercises/ex2/images/Ex02_Part04_61.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_56.png)
 
 57. Click 'shared'.
-<br>![](/exercises/ex2/images/Ex02_Part04_62.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_57.png)
 
 58. Type 'TechEd_DAT163_##' in the 'Filter items', then click your folder (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_63.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_58.png)
 
 59. Click 'PHARMA_CLAIMS_CURATED_##' (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_64.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_59.png)
 
 60. Click 'OK'.
-<br>![](/exercises/ex2/images/Ex02_Part04_65.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_60.png)
 
 61. Select a new mapping.
-<br>![](/exercises/ex2/images/Ex02_Part04_66.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_61.png)
 
 62. Select 'VALID_DRUG_NAME'.
-<br>![](/exercises/ex2/images/Ex02_Part04_67.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_62.png)
 
 63. Click 'Save'.
-<br>![](/exercises/ex2/images/Ex02_Part04_68.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_63.png)
 
 64. Select the second rule binding, then delete it.
-<br>![](/exercises/ex2/images/Ex02_Part04_69.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_64.png)
 
 65. Click 'Yes'.
-<br>![](/exercises/ex2/images/Ex02_Part04_70.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_65.png)
 
 66. Click '+' to add a new rule binding.
-<br>![](/exercises/ex2/images/Ex02_Part04_71.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_66.png)
 
 67. Click 'Select a dataset'.
-<br>![](/exercises/ex2/images/Ex02_Part04_72.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_67.png)
 
 68. Select the 'PHARMA_CLAIMS_CURATED_##' existing binding (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_73.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_68.png)
 
 69. Click 'Ok'.
-<br>![](/exercises/ex2/images/Ex02_Part04_74.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_69.png)
 
 70. Click 'Save'.
-<br>![](/exercises/ex2/images/Ex02_Part04_75.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_70.png)
 
 71. Click 'Run All'.
-<br>![](/exercises/ex2/images/Ex02_Part04_76.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_71.png)
 
 72. Select 'Replace' for the 'Output Results Mode'.
-<br>![](/exercises/ex2/images/Ex02_Part04_77.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_72.png)
 
 73. Click 'Run'.
-<br>![](/exercises/ex2/images/Ex02_Part04_78.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_73.png)
 
 74. Wait for the rulebook execution to finish.
-<br>![](/exercises/ex2/images/Ex02_Part04_79.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_74.png)
 
 75. You can check the execution completion status with the notification.
-<br>![](/exercises/ex2/images/Ex02_Part04_80.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_75.png)
 
 76. Click 'View Results'.
-<br>![](/exercises/ex2/images/Ex02_Part04_81.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_76.png)
 
 77. Click 'Yes'.
-<br>![](/exercises/ex2/images/Ex02_Part04_82.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_77.png)
 
 78. Expand the dataset.
-<br>![](/exercises/ex2/images/Ex02_Part04_83.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_78.png)
 
 79. The quality of the data improved.
-<br>![](/exercises/ex2/images/Ex02_Part04_84.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_79.png)
 
 80. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
-<br>![](/exercises/ex2/images/Ex02_Part04_85.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_80.png)
 
 81. You are back to the home page of the Metadata Explorer.
-<br>![](/exercises/ex2/images/Ex02_Part04_86.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_81.png)
 
 ## Summary
 
