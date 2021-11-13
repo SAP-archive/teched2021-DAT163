@@ -18,7 +18,7 @@ Note:
 * the first session, November 17 2021 05:30 AM UTC is using 'dat163-1'
 * the second session, November 17 2021 10:00 PM UTC is using 'dat163-2'
 
-3. Enter the Username that was assigned to you (e.g. 'teched-dat163-#'), for Tenant Name
+3. Enter the Username that was assigned to you (e.g. 'teched-dat163-##'), for Tenant Name
 <br>![](/exercises/ex1/images/Ex01_Part01_03.png)
 
 Note: 
@@ -70,10 +70,10 @@ After completing these steps you will have discovered dataset stored in a databa
 10. The list of all available tables within the schema shows up.
 <br>![](/exercises/ex1/images/Ex01_Part03_10_01.png)
 
-11. Type 'PHARMA_CLAIMS_#' in the 'Filter items' text field (where # is your user number, for example if your user number is 01, then type 'PHARMA_CLAIMS_01').
+11. Type 'PHARMA_CLAIMS_##' in the 'Filter items' text field (where ## is your user number, for example if your user number is 01, then type 'PHARMA_CLAIMS_01').
 <br>![](/exercises/ex1/images/Ex01_Part03_10_02.png)
 
-12. Click 'View FactSheet' on the 'PHARMA_CLAIM_#' database table tile (where # is your user number).
+12. Click 'View FactSheet' on the 'PHARMA_CLAIM_##' database table tile (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
 13. This shows the factsheet (DETAILS)
@@ -136,13 +136,13 @@ After completing these steps you will have uploaded and published datasets in SA
 4. Click on the New Folder icon (folder with a +)
 <br>![](/exercises/ex1/images/Ex01_Part02_05.png)
 
-5. Enter 'TechEd_DAT163_#' for folder name (where # is the number assigned to you)
+5. Enter 'TechEd_DAT163_##' for folder name (where ## is the number assigned to you)
 <br>![](/exercises/ex1/images/Ex01_Part02_06.png)
 
 6. Click 'OK'
 <br>![](/exercises/ex1/images/Ex01_Part02_07.png)
 
-7. Search for 'TechEd_DAT163_#' to isolate your newly created folder, then click on your newly added 'TechEd_DAT163_#' folder (where # is the number assigned to you)
+7. Search for 'TechEd_DAT163_##' to isolate your newly created folder, then click on your newly added 'TechEd_DAT163_##' folder (where ## is the number assigned to you)
 <br>![](/exercises/ex1/images/Ex01_Part02_08.png)
 
 8. Upload a file, click on the 'Upload Files' icon on the toolbar
@@ -151,7 +151,7 @@ After completing these steps you will have uploaded and published datasets in SA
 9. Click on 'Upload' in the upper right hand corner of the Upload Files pop-up window
 <br>![](/exercises/ex1/images/Ex01_Part02_10.png)
 
-10. Browse to Sample Data folder where you downloaded and extracted 'DRUG_#.csv' (where # is the number assigned to you) and select it
+10. Browse to Sample Data folder where you downloaded and extracted 'DRUG_##.csv' (where ## is the number assigned to you) and select it
 <br>![](/exercises/ex1/images/Ex01_Part02_11.png)
 
 11. Click 'Open'
@@ -219,10 +219,10 @@ This new dataset will help to easily isolate invalid claims.
 15. Click 'TECHED_DAT163'
 <br>![](/exercises/ex1/images/Ex01_Part04_15.png)
 
-16. Type 'CLAIMS_#' in the 'Filter items' text field (where # is your user number).
+16. Type 'CLAIMS_##' in the 'Filter items' text field (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_16_01.png)
 
-17. Select 'PHARMA_CLAIMS_#' (where # is your user number)
+17. Select 'PHARMA_CLAIMS_##' (where ## is your user number)
 <br>![](/exercises/ex1/images/Ex01_Part04_16_02.png)
 
 17. Click 'OK'
@@ -297,7 +297,7 @@ This new dataset will help to easily isolate invalid claims.
 40. Click 'Run Preparation'
 <br>![](/exercises/ex1/images/Ex01_Part04_40.png)
 
-41. Type 'PHARMA_CLAIMS_ENRICHED_#' (Where # is your user number) for the 'Dataset Name'
+41. Type 'PHARMA_CLAIMS_ENRICHED_##' (Where ## is your user number) for the 'Dataset Name'
 <br>![](/exercises/ex1/images/Ex01_Part04_41.png)
 
 42. Click 'Apply'
@@ -327,13 +327,13 @@ This new dataset will help to easily isolate invalid claims.
 50. Click 'shared'
 <br>![](/exercises/ex1/images/Ex01_Part04_50.png)
 
-51. Type 'TechEd_DAT163_#' (where # is your user number) in the Filter field
+51. Type 'TechEd_DAT163_##' (where ## is your user number) in the Filter field
 <br>![](/exercises/ex1/images/Ex01_Part04_51.png)
 
-52. Click TechEd_DAT163_# (where # is your user number)
+52. Click TechEd_DAT163_## (where ## is your user number)
 <br>![](/exercises/ex1/images/Ex01_Part04_52.png)
 
-53. Click 'More Actions' on the newly created dataset named PHARMA_CLAIMS_ENRICH_# (Where # is your user number)
+53. Click 'More Actions' on the newly created dataset named PHARMA_CLAIMS_ENRICH_## (Where ## is your user number)
 <br>![](/exercises/ex1/images/Ex01_Part04_53.png)
 
 54. Select 'View Fact Sheet', Click 'Overview'
@@ -363,7 +363,7 @@ This new dataset will help to easily isolate invalid claims.
 62. Click 'New Publication'
 <br>![](/exercises/ex1/images/Ex01_Part04_62.png)
 
-63. Type 'Pharma Claims Publication #' (where # is your user number) for the 'Name' text field. Type 'Publication for enriched claimed data' for the 'Description' text field.
+63. Type 'Pharma Claims Publication ##' (where ## is your user number) for the 'Name' text field. Type 'Publication for enriched claimed data' for the 'Description' text field.
 <br>![](/exercises/ex1/images/Ex01_Part04_63.png)
 
 64. Click 'Publish'
@@ -413,4 +413,3 @@ This new dataset will help to easily isolate invalid claims.
 You've now ...
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
-
