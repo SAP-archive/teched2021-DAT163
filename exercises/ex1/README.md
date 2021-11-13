@@ -174,55 +174,55 @@ After completing these steps you will have uploaded and published datasets in SA
 After completing these steps you will have created a new dataset using self-service data preparation.
 This new dataset will help to easily isolate invalid claims.
 
-1. Click 'More Actions'
+1. Click 'More Actions'.
 <br>![](/exercises/ex1/images/Ex01_Part04_01.png)
 
-2. Select 'Prepare Data'
+2. Select 'Prepare Data'.
 <br>![](/exercises/ex1/images/Ex01_Part04_02.png)
 
-3. The self-service data preparation room shows up
+3. The self-service data preparation room shows up.
 <br>![](/exercises/ex1/images/Ex01_Part04_03.png)
 
-4. The first record of the data is actually the column header
+4. The first record of the data is actually the column header.
 <br>![](/exercises/ex1/images/Ex01_Part04_04.png)
 
-5. Check 'Use first row as header'
+5. Check 'Use first row as header'.
 <br>![](/exercises/ex1/images/Ex01_Part04_05.png)
 
-6. Click 'Continue'
+6. Click 'Continue'.
 <br>![](/exercises/ex1/images/Ex01_Part04_06.png)
 
-7. The application will automatically recreate a new sample with the updated metadata structure
+7. The application will automatically recreate a new sample with the updated metadata structure.
 <br>![](/exercises/ex1/images/Ex01_Part04_07.png)
 
-8. The dataset now has the proper header
+8. The dataset now has the proper header.
 <br>![](/exercises/ex1/images/Ex01_Part04_08.png)
 
-9. Click 'Actions'
+9. Click 'Actions'.
 <br>![](/exercises/ex1/images/Ex01_Part04_09.png)
 
-10. Click 'Enrich Preparation'
+10. Click 'Enrich Preparation'.
 <br>![](/exercises/ex1/images/Ex01_Part04_10.png)
 
-11. the enrich preparation main user interface shows up
+11. the enrich preparation main user interface shows up.
 <br>![](/exercises/ex1/images/Ex01_Part04_11.png)
 
-12. Click '+' to add a new source of data to merge with
+12. Click '+' to add a new source of data to merge with.
 <br>![](/exercises/ex1/images/Ex01_Part04_12.png)
 
-13. Click 'Browse'
+13. Click 'Browse'.
 <br>![](/exercises/ex1/images/Ex01_Part04_13.png)
 
-14. Select 'HANA_DEMO as a 'Connection'
+14. Select 'HANA_DEMO as a 'Connection'.
 <br>![](/exercises/ex1/images/Ex01_Part04_14.png)
 
-15. Click 'TECHED_DAT163'
+15. Click 'TECHED_DAT163'.
 <br>![](/exercises/ex1/images/Ex01_Part04_15.png)
 
 16. Type 'CLAIMS_##' in the 'Filter items' text field (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_16.png)
 
-17. Select 'PHARMA_CLAIMS_##' (where ## is your user number)
+17. Select 'PHARMA_CLAIMS_##' (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_17.png)
 
 18. Click 'OK'.
@@ -264,7 +264,7 @@ This new dataset will help to easily isolate invalid claims.
 30. Click 'Add Columns'.
 <br>![](/exercises/ex1/images/Ex01_Part04_30.png)
 
-31. Type 'ValidClaim' for the 'Column Name'
+31. Type 'ValidClaim' for the 'Column Name'.
 <br>![](/exercises/ex1/images/Ex01_Part04_31.png)
 
 32. Click 'Expression'.
