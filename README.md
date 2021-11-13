@@ -52,6 +52,7 @@ The requirements to follow the exercises in this repository are:
 
 ## Disclaimer
 - Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.
+- Some user interface elements may differ from the screenshot used in the exercise.
 
 ## Exercises
 - [Exercise 1 - Profile The Data](exercises/ex1/)
