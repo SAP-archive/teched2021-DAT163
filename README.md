@@ -28,6 +28,7 @@ The requirements to follow the exercises in this repository are:
 <br>![](/exercises/ex0/images/Ex00_Registration_02.png)
 
 4. Click 'Submit'.
+<br>![](/exercises/ex0/images/Ex00_Registration_03.png)
 
 ## Pre-Requisites
 
