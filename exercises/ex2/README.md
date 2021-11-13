@@ -783,112 +783,112 @@ After completing these steps you will have created...
 45. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part04_50.png)
 
-45. Click 'rulebooks'.
+46. Click 'rulebooks'.
 <br>![](/exercises/ex2/images/Ex02_Part04_51.png)
 
-46. Type 'PHARMA_CLAIMS_##' in the 'Filter rulebook names' text field (where ## is your user number).
+47. Type 'PHARMA_CLAIMS_##' in the 'Filter rulebook names' text field (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_52.png)
 
-47. Click 'PHARMA_CLAIMS_##' (where ## is your user number).
+48. Click 'PHARMA_CLAIMS_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_53.png)
 
-48. Expand both 'Accuracy' and 'Completeness' set of rules.
+49. Expand both 'Accuracy' and 'Completeness' set of rules.
 <br>![](/exercises/ex2/images/Ex02_Part04_54.png)
 
-49. Click '>' to expand the rules binding associated to the first rule: 'DRUG_NAME_VALID_##' (where ## is your user number).
+50. Click '>' to expand the rules binding associated to the first rule: 'DRUG_NAME_VALID_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_55.png)
 
-50. Delete the rule binding.
+51. Delete the rule binding.
 <br>![](/exercises/ex2/images/Ex02_Part04_56.png)
 
-51. Click 'Yes'.
+52. Click 'Yes'.
 <br>![](/exercises/ex2/images/Ex02_Part04_57.png)
 
-52. Click '+' to create a new rule binding.
+53. Click '+' to create a new rule binding.
 <br>![](/exercises/ex2/images/Ex02_Part04_58.png)
 
-53. Click 'Select a dataset'.
+54. Click 'Select a dataset'.
 <br>![](/exercises/ex2/images/Ex02_Part04_59.png)
 
-54. Click 'Browse'.
+55. Click 'Browse'.
 <br>![](/exercises/ex2/images/Ex02_Part04_60.png)
 
-55. Select 'DI_DATA_LAKE' for the connection.
+56. Select 'DI_DATA_LAKE' for the connection.
 <br>![](/exercises/ex2/images/Ex02_Part04_61.png)
 
-56. Click 'shared'.
+57. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part04_62.png)
 
-57. Type 'TechEd_DAT163_##' in the 'Filter items', then click your folder (where ## is your user number).
+58. Type 'TechEd_DAT163_##' in the 'Filter items', then click your folder (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_63.png)
 
-58. Click 'PHARMA_CLAIMS_CURATED_##' (where ## is your user number).
+59. Click 'PHARMA_CLAIMS_CURATED_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_64.png)
 
-59. Click 'OK'.
+60. Click 'OK'.
 <br>![](/exercises/ex2/images/Ex02_Part04_65.png)
 
-60. Select a new mapping.
+61. Select a new mapping.
 <br>![](/exercises/ex2/images/Ex02_Part04_66.png)
 
-61. Select 'VALID_DRUG_NAME'.
+62. Select 'VALID_DRUG_NAME'.
 <br>![](/exercises/ex2/images/Ex02_Part04_67.png)
 
-62. Click 'Save'.
+63. Click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part04_68.png)
 
-63. Select the second rule binding, then delete it.
+64. Select the second rule binding, then delete it.
 <br>![](/exercises/ex2/images/Ex02_Part04_69.png)
 
-64. Click 'Yes'.
+65. Click 'Yes'.
 <br>![](/exercises/ex2/images/Ex02_Part04_70.png)
 
-65. Click '+' to add a new rule binding.
+66. Click '+' to add a new rule binding.
 <br>![](/exercises/ex2/images/Ex02_Part04_71.png)
 
-66. Click 'Select a dataset'.
+67. Click 'Select a dataset'.
 <br>![](/exercises/ex2/images/Ex02_Part04_72.png)
 
-67. Select the 'PHARMA_CLAIMS_CURATED_##' existing binding (where ## is your user number).
+68. Select the 'PHARMA_CLAIMS_CURATED_##' existing binding (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_73.png)
 
-68. Click 'Ok'.
+69. Click 'Ok'.
 <br>![](/exercises/ex2/images/Ex02_Part04_74.png)
 
-69. Click 'Save'.
+70. Click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part04_75.png)
 
-70. Click 'Run All'.
+71. Click 'Run All'.
 <br>![](/exercises/ex2/images/Ex02_Part04_76.png)
 
-71. Select 'Replace' for the 'Output Results Mode'.
+72. Select 'Replace' for the 'Output Results Mode'.
 <br>![](/exercises/ex2/images/Ex02_Part04_77.png)
 
-72. Click 'Run'.
+73. Click 'Run'.
 <br>![](/exercises/ex2/images/Ex02_Part04_78.png)
 
-73. Wait for the rulebook execution to finish.
+74. Wait for the rulebook execution to finish.
 <br>![](/exercises/ex2/images/Ex02_Part04_79.png)
 
-74. You can check the execution completion status with the notification.
+75. You can check the execution completion status with the notification.
 <br>![](/exercises/ex2/images/Ex02_Part04_80.png)
 
-75. Click 'View Results'.
+76. Click 'View Results'.
 <br>![](/exercises/ex2/images/Ex02_Part04_81.png)
 
-76. Click 'Yes'.
+77. Click 'Yes'.
 <br>![](/exercises/ex2/images/Ex02_Part04_82.png)
 
-77. Expand the dataset.
+78. Expand the dataset.
 <br>![](/exercises/ex2/images/Ex02_Part04_83.png)
 
-78. The quality of the data improved.
+79. The quality of the data improved.
 <br>![](/exercises/ex2/images/Ex02_Part04_84.png)
 
-79. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+80. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part04_85.png)
 
-80. You are back to the home page of the Metadata Explorer.
+81. You are back to the home page of the Metadata Explorer.
 <br>![](/exercises/ex2/images/Ex02_Part04_86.png)
 
 ## Summary
