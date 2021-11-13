@@ -220,193 +220,193 @@ This new dataset will help to easily isolate invalid claims.
 <br>![](/exercises/ex1/images/Ex01_Part04_15.png)
 
 16. Type 'CLAIMS_##' in the 'Filter items' text field (where ## is your user number).
-<br>![](/exercises/ex1/images/Ex01_Part04_16_01.png)
+<br>![](/exercises/ex1/images/Ex01_Part04_16.png)
 
 17. Select 'PHARMA_CLAIMS_##' (where ## is your user number)
-<br>![](/exercises/ex1/images/Ex01_Part04_16_02.png)
-
-18. Click 'OK'.
 <br>![](/exercises/ex1/images/Ex01_Part04_17.png)
 
-19. The application is acquiring a sample of the new selected dataset.
+18. Click 'OK'.
 <br>![](/exercises/ex1/images/Ex01_Part04_18.png)
 
-20. The new selected dataset can now be used to merge data.
+19. The application is acquiring a sample of the new selected dataset.
 <br>![](/exercises/ex1/images/Ex01_Part04_19.png)
 
-21. Drag and drop 'PHARMA_CLAIMS' on the cell on the left hand-side of the main dataset.
+20. The new selected dataset can now be used to merge data.
 <br>![](/exercises/ex1/images/Ex01_Part04_20.png)
 
-22. Select 'Left Join'.
+21. Drag and drop 'PHARMA_CLAIMS' on the cell on the left hand-side of the main dataset.
 <br>![](/exercises/ex1/images/Ex01_Part04_21.png)
 
-23. Scroll down the list of output columns and uncheck 'ORIG_PRODUCT', 'POTENCY', 'DOSAGE', 'ROUTE_ADMINISTERED', NOTES.
+22. Select 'Left Join'.
 <br>![](/exercises/ex1/images/Ex01_Part04_22.png)
 
-24. Click Apply.
+23. Scroll down the list of output columns and uncheck 'ORIG_PRODUCT', 'POTENCY', 'DOSAGE', 'ROUTE_ADMINISTERED', NOTES.
 <br>![](/exercises/ex1/images/Ex01_Part04_23.png)
 
-25. The application displays a preview of the merge data.
+24. Click Apply.
 <br>![](/exercises/ex1/images/Ex01_Part04_24.png)
 
-26. The merged data now shows a null value for the column 'DRUG_NAME_0' when a record from the claim data is for a drug that is not listed in the list of supported drugs.
+25. The application displays a preview of the merge data.
 <br>![](/exercises/ex1/images/Ex01_Part04_25.png)
 
-27. Click 'Apply Enrichment'.
+26. The merged data now shows a null value for the column 'DRUG_NAME_0' when a record from the claim data is for a drug that is not listed in the list of supported drugs.
 <br>![](/exercises/ex1/images/Ex01_Part04_26.png)
 
-28. The main self-service data preparation room now shows the enriched dataset.
+27. Click 'Apply Enrichment'.
 <br>![](/exercises/ex1/images/Ex01_Part04_27.png)
 
-29. Click 'Actions'.
+28. The main self-service data preparation room now shows the enriched dataset.
 <br>![](/exercises/ex1/images/Ex01_Part04_28.png)
 
-30. Click 'Add Columns'.
+29. Click 'Actions'.
 <br>![](/exercises/ex1/images/Ex01_Part04_29.png)
 
-31. Type 'ValidClaim' for the 'Column Name'
+30. Click 'Add Columns'.
 <br>![](/exercises/ex1/images/Ex01_Part04_30.png)
 
-32. Click 'Expression'.
+31. Type 'ValidClaim' for the 'Column Name'
 <br>![](/exercises/ex1/images/Ex01_Part04_31.png)
 
-33. Type the following expression: 'CASE WHEN "DRUG_NAME_0" IS NULL THEN 'NO' ELSE 'YES' END'.
+32. Click 'Expression'.
 <br>![](/exercises/ex1/images/Ex01_Part04_32.png)
 
-34. Click 'OK'.
+33. Type the following expression: 'CASE WHEN "DRUG_NAME_0" IS NULL THEN 'NO' ELSE 'YES' END'.
 <br>![](/exercises/ex1/images/Ex01_Part04_33.png)
 
-35. Click 'Apply'.
+34. Click 'OK'.
 <br>![](/exercises/ex1/images/Ex01_Part04_34.png)
 
-36. A new column is now created.
+35. Click 'Apply'.
 <br>![](/exercises/ex1/images/Ex01_Part04_35.png)
 
-37. Select the column 'DRUG_NAME_0'.
+36. A new column is now created.
 <br>![](/exercises/ex1/images/Ex01_Part04_36.png)
 
-38. Click 'Remove'.
+37. Select the column 'DRUG_NAME_0'.
 <br>![](/exercises/ex1/images/Ex01_Part04_37.png)
 
-39. The column 'DRUG_NAME_0' is now deleted.
+38. Click 'Remove'.
 <br>![](/exercises/ex1/images/Ex01_Part04_38.png)
 
-40. Click '<' to navigate back to the 'Actions' menu.
+39. The column 'DRUG_NAME_0' is now deleted.
 <br>![](/exercises/ex1/images/Ex01_Part04_39.png)
 
-41. Click 'Run Preparation'.
+40. Click '<' to navigate back to the 'Actions' menu.
 <br>![](/exercises/ex1/images/Ex01_Part04_40.png)
 
-42. Type 'PHARMA_CLAIMS_ENRICHED_##' (Where ## is your user number) for the 'Dataset Name'.
+41. Click 'Run Preparation'.
 <br>![](/exercises/ex1/images/Ex01_Part04_41.png)
 
-43. Click 'Apply'.
+42. Type 'PHARMA_CLAIMS_ENRICHED_##' (Where ## is your user number) for the 'Dataset Name'.
 <br>![](/exercises/ex1/images/Ex01_Part04_42.png)
 
-44. Click 'Data Intelligence Metadata Explorer'.
+43. Click 'Apply'.
 <br>![](/exercises/ex1/images/Ex01_Part04_43.png)
 
-45. Select 'Monitor' and click 'Monitor Tasks'.
+44. Click 'Data Intelligence Metadata Explorer'.
 <br>![](/exercises/ex1/images/Ex01_Part04_44.png)
 
-46. The 'Monitoring' application shows the current running tasks. Wait for your task to complete.
+45. Select 'Monitor' and click 'Monitor Tasks'.
 <br>![](/exercises/ex1/images/Ex01_Part04_45.png)
 
-47. The task is completed.
+46. The 'Monitoring' application shows the current running tasks. Wait for your task to complete.
 <br>![](/exercises/ex1/images/Ex01_Part04_46.png)
 
-48. Click 'Data Intelligence Metadata Explorer', and click 'HOME'.
+47. The task is completed.
 <br>![](/exercises/ex1/images/Ex01_Part04_47.png)
 
-49. Click 'Browse Connections'.
+48. Click 'Data Intelligence Metadata Explorer', and click 'HOME'.
 <br>![](/exercises/ex1/images/Ex01_Part04_48.png)
 
-50. Click 'DI_DATA_LAKE'.
+49. Click 'Browse Connections'.
 <br>![](/exercises/ex1/images/Ex01_Part04_49.png)
 
-51. Click 'shared'.
+50. Click 'DI_DATA_LAKE'.
 <br>![](/exercises/ex1/images/Ex01_Part04_50.png)
 
-52. Type 'TechEd_DAT163_##' (where ## is your user number) in the Filter field.
+51. Click 'shared'.
 <br>![](/exercises/ex1/images/Ex01_Part04_51.png)
 
-53. Click TechEd_DAT163_## (where ## is your user number).
+52. Type 'TechEd_DAT163_##' (where ## is your user number) in the Filter field.
 <br>![](/exercises/ex1/images/Ex01_Part04_52.png)
 
-54. Click 'More Actions' on the newly created dataset named PHARMA_CLAIMS_ENRICH_## (Where ## is your user number).
+53. Click TechEd_DAT163_## (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_53.png)
 
-55. Select 'View Fact Sheet', Click 'Overview'.
+54. Click 'More Actions' on the newly created dataset named PHARMA_CLAIMS_ENRICH_## (Where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_54.png)
 
-56. The factsheet for the dataset is not profiled and not published.
+55. Select 'View Fact Sheet', Click 'Overview'.
 <br>![](/exercises/ex1/images/Ex01_Part04_55.png)
 
-57. Click the 'Profiling' icon.
+56. The factsheet for the dataset is not profiled and not published.
 <br>![](/exercises/ex1/images/Ex01_Part04_56.png)
 
-58. Click 'Yes'.
+57. Click the 'Profiling' icon.
 <br>![](/exercises/ex1/images/Ex01_Part04_57.png)
 
-59. Wait for the profiling to be executed (there will be two notifications which you can check by clicking on the notification icon). Then Click 'Refresh'.
+58. Click 'Yes'.
 <br>![](/exercises/ex1/images/Ex01_Part04_58.png)
 
-60. The dataset is now profiled.
+59. Wait for the profiling to be executed (there will be two notifications which you can check by clicking on the notification icon). Then Click 'Refresh'.
 <br>![](/exercises/ex1/images/Ex01_Part04_59.png)
 
-61. Click '<' to come back to the connection browser.
+60. The dataset is now profiled.
 <br>![](/exercises/ex1/images/Ex01_Part04_60.png)
 
-62. Click 'More Actions'.
+61. Click '<' to come back to the connection browser.
 <br>![](/exercises/ex1/images/Ex01_Part04_61.png)
 
-63. Click 'New Publication'.
+62. Click 'More Actions'.
 <br>![](/exercises/ex1/images/Ex01_Part04_62.png)
 
-64. Type 'Pharma Claims Publication ##' (where ## is your user number) for the 'Name' text field. Type 'Publication for enriched claimed data' for the 'Description' text field.
+63. Click 'New Publication'.
 <br>![](/exercises/ex1/images/Ex01_Part04_63.png)
 
-65. Click 'Publish'.
+64. Type 'Pharma Claims Publication ##' (where ## is your user number) for the 'Name' text field. Type 'Publication for enriched claimed data' for the 'Description' text field.
 <br>![](/exercises/ex1/images/Ex01_Part04_64.png)
 
-66. The application sends a notification for the publication task trigger.
+65. Click 'Publish'.
 <br>![](/exercises/ex1/images/Ex01_Part04_65.png)
 
-67. The application sends another notification when the publication task is finished.
+66. The application sends a notification for the publication task trigger.
 <br>![](/exercises/ex1/images/Ex01_Part04_66.png)
 
-68. Click 'Refresh'.
+67. The application sends another notification when the publication task is finished.
 <br>![](/exercises/ex1/images/Ex01_Part04_67.png)
 
-69. The application now notifies that the dataset is both profiled and published in the application catalog.
+68. Click 'Refresh'.
 <br>![](/exercises/ex1/images/Ex01_Part04_68.png)
 
-70. Click 'View Factsheet'.
+69. The application now notifies that the dataset is both profiled and published in the application catalog.
 <br>![](/exercises/ex1/images/Ex01_Part04_69.png)
 
-71. Click 'Reviews'.
+70. Click 'View Factsheet'.
 <br>![](/exercises/ex1/images/Ex01_Part04_70.png)
 
-72. Click the pencil icon to post a rating.
+71. Click 'Reviews'.
 <br>![](/exercises/ex1/images/Ex01_Part04_71.png)
 
-73. Click and define a rating (for example 4 stars rating is done by clicking the 4th star).
+72. Click the pencil icon to post a rating.
 <br>![](/exercises/ex1/images/Ex01_Part04_72.png)
 
-74. Add a comment: 'This dataset helps to easily identify claims for drugs that are not compliant'.
+73. Click and define a rating (for example 4 stars rating is done by clicking the 4th star).
 <br>![](/exercises/ex1/images/Ex01_Part04_73.png)
 
-75. Click 'OK'.
+74. Add a comment: 'This dataset helps to easily identify claims for drugs that are not compliant'.
 <br>![](/exercises/ex1/images/Ex01_Part04_74.png)
 
-76. The dataset has been enriched with a rating and a comment.
+75. Click 'OK'.
 <br>![](/exercises/ex1/images/Ex01_Part04_75.png)
 
-77. Click 'Data Intelligence Metadata Explorer' and Click 'Home'.
+76. The dataset has been enriched with a rating and a comment.
 <br>![](/exercises/ex1/images/Ex01_Part04_76.png)
 
-78. You returned to the Metadata Explorer home page.
+77. Click 'Data Intelligence Metadata Explorer' and Click 'Home'.
 <br>![](/exercises/ex1/images/Ex01_Part04_77.png)
+
+78. You returned to the Metadata Explorer home page.
+<br>![](/exercises/ex1/images/Ex01_Part04_78.png)
 
 ## Summary
 
