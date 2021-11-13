@@ -8,27 +8,27 @@ In this exercise, you will discover and interact with various connected systems,
 
 After completing these steps, you will have logged into SAP Data Intelligence.
 
-1. Open Chrome and go to the SAP Data Intelligence url you were provided
+1. Open Chrome and go to the SAP Data Intelligence url you were provided.
 <br>![](/exercises/ex1/images/Ex01_Part01_01.png)
 
-2. Enter 'dat163-1' or 'dat163-2' for Tenant Name depending on your session and click 'Proceed'
+2. Enter 'dat163-1' or 'dat163-2' for Tenant Name depending on your session and click 'Proceed'.
 <br>![](/exercises/ex1/images/Ex01_Part01_02.png)
 
 Note: 
-* the first session, November 17 2021 05:30 AM UTC is using 'dat163-1'
-* the second session, November 17 2021 10:00 PM UTC is using 'dat163-2'
+* the first session, November 17 2021 05:30 AM UTC is using 'dat163-1'.
+* the second session, November 17 2021 10:00 PM UTC is using 'dat163-2'.
 
-3. Enter the Username that was assigned to you (e.g. 'teched-dat163-##'), for Tenant Name
+3. Enter the Username that was assigned to you (e.g. 'teched-dat163-##'), for Tenant Name.
 <br>![](/exercises/ex1/images/Ex01_Part01_03.png)
 
 Note: 
 * where # is the number assigned to you.
 * If your user number is 01 then your login is 'teched-dat163-01'.
   
-4. Enter the Password that was assigned to you, for your Password
+4. Enter the Password that was assigned to you, for your Password.
 <br>![](/exercises/ex1/images/Ex01_Part01_03_bis.png)
   
-5. Click 'Sign In'
+5. Click 'Sign In'.
 <br>![](/exercises/ex1/images/Ex01_Part01_03_ter.png)
 
 4. You are now signed in the application.
@@ -40,13 +40,13 @@ You have now logged into SAP Data Intelligence.
 
 After completing these steps you will have discovered dataset stored in a database.
 
-1. Click on 'Metadata Explorer'
+1. Click on 'Metadata Explorer'.
 <br>![](/exercises/ex1/images/Ex01_Part03_01.png)
 
-2. Click on 'Browse Connections'
+2. Click on 'Browse Connections'.
 <br>![](/exercises/ex1/images/Ex01_Part03_02.png)
 
-3. Click 'List View'
+3. Click 'List View'.
 <br>![](/exercises/ex1/images/Ex01_Part03_03.png)
 
 4. This allows to show the list of connections as a list.
@@ -61,10 +61,10 @@ After completing these steps you will have discovered dataset stored in a databa
 7. Click 'Grid View' to come back to tiles.
 <br>![](/exercises/ex1/images/Ex01_Part03_07.png)
 
-8. Click on the 'HANA_DEMO' tile
+8. Click on the 'HANA_DEMO' tile.
 <br>![](/exercises/ex1/images/Ex01_Part03_08.png)
 
-9. Select 'TECHED_DAT163'
+9. Select 'TECHED_DAT163'.
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
 10. The list of all available tables within the schema shows up.
@@ -74,21 +74,21 @@ After completing these steps you will have discovered dataset stored in a databa
 <br>![](/exercises/ex1/images/Ex01_Part03_10_02.png)
 
 12. Click 'View FactSheet' on the 'PHARMA_CLAIM_##' database table tile (where ## is your user number).
-<br>![](/exercises/ex1/images/Ex01_Part03_10.png)
+<br>![](/exercises/ex1/images/Ex01_Part03_10.png).
 
-13. This shows the factsheet (DETAILS)
+13. This shows the factsheet (DETAILS).
 <br>![](/exercises/ex1/images/Ex01_Part03_11.png)
 
-14. Click 'Start Profiling'
+14. Click 'Start Profiling'.
 <br>![](/exercises/ex1/images/Ex01_Part03_12.png)
 
 15. Click 'Yes'.
 <br>![](/exercises/ex1/images/Ex01_Part03_12_bis.png)
 
-16. Click 'Notification'
+16. Click 'Notification'.
 <br>![](/exercises/ex1/images/Ex01_Part03_13.png)
 
-17. This shows the details of the notifications. Click anywhere outside the notification window to continue interacting with the application
+17. This shows the details of the notifications. Click anywhere outside the notification window to continue interacting with the application.
 <br>![](/exercises/ex1/images/Ex01_Part03_14.png)
 
 18. Wait for the profiling task to finish, and Click 'Refresh' (Note: this action can take some time).
@@ -97,25 +97,25 @@ After completing these steps you will have discovered dataset stored in a databa
 19. The factsheet was updated with the profiling information once the task is done.
 <br>![](/exercises/ex1/images/Ex01_Part03_16.png)
 
-20. Click 'Columns'
+20. Click 'Columns'.
 <br>![](/exercises/ex1/images/Ex01_Part03_17.png)
 
-21. Select the Line for 'DRUG_NAME'
+21. Select the Line for 'DRUG_NAME'.
 <br>![](/exercises/ex1/images/Ex01_Part03_18.png)
 
-22. Observe Data Preview and the 'Top 10 Distinct Values'
+22. Observe Data Preview and the 'Top 10 Distinct Values'.
 <br>![](/exercises/ex1/images/Ex01_Part03_19.png)
 
-23. We can see there are data quality issues such as spelling mistakes on the drug names
+23. We can see there are data quality issues such as spelling mistakes on the drug names.
 <br>![](/exercises/ex1/images/Ex01_Part03_20.png)
 
-24. We can also see there is an important number of null values
+24. We can also see there is an important number of null values.
 <br>![](/exercises/ex1/images/Ex01_Part03_21.png)
 
-25. Click 'Data Intelligence Metadata Explorer'
+25. Click 'Data Intelligence Metadata Explorer'.
 <br>![](/exercises/ex1/images/Ex01_Part03_22.png)
 
-26. Click 'Home'
+26. Click 'Home'.
 <br>![](/exercises/ex1/images/Ex01_Part03_23.png)
 
 You have now discovered a table in a database, profiled the data and found some data quality issues.
