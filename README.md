@@ -19,7 +19,7 @@ The requirements to follow the exercises in this repository are:
 
 ## User Registration
 
-1. Register to obtain your username and password
+1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/dat163) to obtain your username and password
 
 ## Pre-Requisites
 
