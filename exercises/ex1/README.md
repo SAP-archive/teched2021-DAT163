@@ -68,55 +68,55 @@ After completing these steps you will have discovered dataset stored in a databa
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
 10. The list of all available tables within the schema shows up.
-<br>![](/exercises/ex1/images/Ex01_Part03_10_01.png)
+<br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
 11. Type 'PHARMA_CLAIMS_##' in the 'Filter items' text field (where ## is your user number, for example if your user number is 01, then type 'PHARMA_CLAIMS_01').
-<br>![](/exercises/ex1/images/Ex01_Part03_10_02.png)
-
-12. Click 'View FactSheet' on the 'PHARMA_CLAIM_##' database table tile (where ## is your user number).
-<br>![](/exercises/ex1/images/Ex01_Part03_10.png).
-
-13. This shows the factsheet (DETAILS).
 <br>![](/exercises/ex1/images/Ex01_Part03_11.png)
 
-14. Click 'Start Profiling'.
-<br>![](/exercises/ex1/images/Ex01_Part03_12.png)
+12. Click 'View FactSheet' on the 'PHARMA_CLAIM_##' database table tile (where ## is your user number).
+<br>![](/exercises/ex1/images/Ex01_Part03_12.png).
 
-15. Click 'Yes'.
-<br>![](/exercises/ex1/images/Ex01_Part03_12_bis.png)
-
-16. Click 'Notification'.
+13. This shows the factsheet (DETAILS).
 <br>![](/exercises/ex1/images/Ex01_Part03_13.png)
 
-17. This shows the details of the notifications. Click anywhere outside the notification window to continue interacting with the application.
+14. Click 'Start Profiling'.
 <br>![](/exercises/ex1/images/Ex01_Part03_14.png)
 
-18. Wait for the profiling task to finish, and Click 'Refresh' (Note: this action can take some time).
+15. Click 'Yes'.
 <br>![](/exercises/ex1/images/Ex01_Part03_15.png)
 
-19. The factsheet was updated with the profiling information once the task is done.
+16. Click 'Notification'.
 <br>![](/exercises/ex1/images/Ex01_Part03_16.png)
 
-20. Click 'Columns'.
+17. This shows the details of the notifications. Click anywhere outside the notification window to continue interacting with the application.
 <br>![](/exercises/ex1/images/Ex01_Part03_17.png)
 
-21. Select the Line for 'DRUG_NAME'.
+18. Wait for the profiling task to finish, and Click 'Refresh' (Note: this action can take some time).
 <br>![](/exercises/ex1/images/Ex01_Part03_18.png)
 
-22. Observe Data Preview and the 'Top 10 Distinct Values'.
+19. The factsheet was updated with the profiling information once the task is done.
 <br>![](/exercises/ex1/images/Ex01_Part03_19.png)
 
-23. We can see there are data quality issues such as spelling mistakes on the drug names.
+20. Click 'Columns'.
 <br>![](/exercises/ex1/images/Ex01_Part03_20.png)
 
-24. We can also see there is an important number of null values.
+21. Select the Line for 'DRUG_NAME'.
 <br>![](/exercises/ex1/images/Ex01_Part03_21.png)
 
-25. Click 'Data Intelligence Metadata Explorer'.
+22. Observe Data Preview and the 'Top 10 Distinct Values'.
 <br>![](/exercises/ex1/images/Ex01_Part03_22.png)
 
-26. Click 'Home'.
+23. We can see there are data quality issues such as spelling mistakes on the drug names.
 <br>![](/exercises/ex1/images/Ex01_Part03_23.png)
+
+24. We can also see there is an important number of null values.
+<br>![](/exercises/ex1/images/Ex01_Part03_24.png)
+
+25. Click 'Data Intelligence Metadata Explorer'.
+<br>![](/exercises/ex1/images/Ex01_Part03_25.png)
+
+26. Click 'Home'.
+<br>![](/exercises/ex1/images/Ex01_Part03_26.png)
 
 You have now discovered a table in a database, profiled the data and found some data quality issues.
 
