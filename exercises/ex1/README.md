@@ -12,12 +12,11 @@ After completing these steps, you will have logged into SAP Data Intelligence.
 <br>![](/exercises/ex1/images/Ex01_Part01_01.png)
 
 2. Enter 'dat163-1' or 'dat163-2' for Tenant Name depending on your session and click 'Proceed'
+<br>![](/exercises/ex1/images/Ex01_Part01_02.png)
 
 Note: 
 * the first session, November 17 2021 05:30 AM UTC is using 'dat163-1'
 * the second session, November 17 2021 10:00 PM UTC is using 'dat163-2'
-
-<br>![](/exercises/ex1/images/Ex01_Part01_02.png)
 
 3. Enter the Username that was assigned to you (e.g. 'teched-dat163-#'), for Tenant Name
 <br>![](/exercises/ex1/images/Ex01_Part01_03.png)
