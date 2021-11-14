@@ -13,6 +13,10 @@ It's core capabilities are:
 
 <br>![](/exercises/ex0/images/Ex00_DataIntelligence_01.png)
 
+### Data Integration
+
+
+
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
 
