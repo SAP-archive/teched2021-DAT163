@@ -109,13 +109,9 @@ After completing these steps you will have discovered dataset stored in a databa
 13. This shows the 'Fact Sheet'.
 <br>![](/exercises/ex1/images/Ex01_Part03_13.png)
 
-```
 The 'Fact Sheet' is the central place in SAP Data Intelligence Metatadata Explorer to find information about your data.
-You can easily profile the data and get access to metadata information.
-It also contains links and information about business terms and tags associated to the dataset or the columns.
-Users can describe, rate, and comment the data collaboratively.
-You can preparare the data for other downstream usage.
-```
+
+You can easily profile the data and get access to metadata information. It also contains links and information about business terms and tags associated to the dataset or the columns. Users can describe, rate, and comment the data collaboratively. You can preparare the data for other downstream usage.
 
 14. Click 'Start Profiling'.
 <br>![](/exercises/ex1/images/Ex01_Part03_14.png)
@@ -299,11 +295,11 @@ Additionally you will profile this dataset, add a rating and description and pub
 28. The main self-service data preparation room now shows the enriched dataset.
 <br>![](/exercises/ex1/images/Ex01_Part04_28.png)
 
-```
 The enriched dataset now contains null records for the field 'DRUG_NAME_0' for the records in the claim dataset which the drug name did not exists in our reference.
+
 There are potential multiple reasons for that. Some might be spelling mistakes of drug names, some other might be drugs that are not taken into account by the insurance company, some could be that the drug name in our claim was null.
+
 You can now use this enriched dataset to isolate the data quality issues to further understand the data.
-```
 
 29. Click 'Actions'.
 <br>![](/exercises/ex1/images/Ex01_Part04_29.png)
