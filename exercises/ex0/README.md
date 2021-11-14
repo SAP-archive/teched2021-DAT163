@@ -53,7 +53,26 @@ SAP Data Intelligence Metadata Explorer enables to:
 
 ## SAP Data Intelligence Metadata Explorer - Main Capabilities
 
+SAP Data Intelligence three main capabilities are:
+* Data Governance and Discovery
+* Data Quality Monitoring
+* Data Preparation and Enrichment
 
+### Data Governance and Discovery
+
+Easily connect and browse data repository by searching and filtering across auto-discovered data assets.
+
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_05.png)
+
+Link data to information-rich business terms with common properties and definitions, leverage custom attributes to extend business terms and add value, define, maintain and explore relationships of terms and technical artifacts.
+
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_06.png)
+
+Profile data and get insights via the 'Fact Sheet' with overview from columns, metadata, lineage and reviews. 
+
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_07.png)
+
+### Data Quality Monitoring
 
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
