@@ -30,7 +30,15 @@ SAP Data Intelligence modeler enables to create complex, multistep, reusable dat
 
 ### Data Processing
 
+With SAP Data Intelligence, you can explore your data assets, create and validate your models, and orchestrate any mix of data processing engines, seamlessly within the data pipelines that feed them.
 
+SAP Data Intelligence Machine Learning Manager seamlessly accelerate machine learning models deployment and operation. This is a one single interface that allows you to see and orchestrate all data-driven applications and data flows across the organization with tools to help manage governance, auditability, and transparency.
+
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_03.png)
+
+It comes with an interactive development environment to work with notebooks, code, and data including text editors, terminals, data file viewers, and other custom components side by side with notebooks in a tabbed work area.
+
+You can harness the usage of Jupyter notebooks in data-driven applications by benefitting from the seamless integration of the JupyterLab environment and the pipeline modeler application.
 
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
