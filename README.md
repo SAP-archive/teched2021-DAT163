@@ -56,7 +56,7 @@ The requirements to follow the exercises in this repository are:
 - Some user interface elements may differ from the screenshot used in the exercise.
 
 ## Content
-- [Introduction](exercises/ex0/)
+- [Product Overview](exercises/ex0/)
     - [SAP Data Intelligence Overview](exercises/ex0#sap-data-intelligence---overview)
     - [SAP Data Intelligence Metadata Explorer - Main Capabilities](exercises/ex0#sap-data-intelligence-metadata-explorer---main-capabilities)
 - [Hands-on - Part 1](exercises/ex1/)
