@@ -4,9 +4,19 @@ As a Business Analyst or Data Steward, you need to understand and gain insight i
 
 In this exercise, you will discover and interact with various connected systems, upload a dataset, profile the data, rate dataset, create a relationship with data and a glossary term
 
-```
-Test: Note to the user to explain things.
-```
+## Dataset Overview
+
+You will interact with two different dataset:
+* A table stored in a SAP HANA Database.
+* A flat file (csv) which you will upload in a cloud data lake data repository
+
+The first dataset, the SAP HANA Table, contains information about pharmaceutic claims for an insurance company.
+It contains 8 fields (RECORD_ID,INSURANCE,PLAN,PATIENT_ID,OUTSTANDING,CO_PAY,VISIT,DRUG_NAME).
+
+The second dataset, the flat file you retrieved on the main page of this hands-on, contains a list of drugs which are supported by this insurance company.
+It contains 6 fields (ORIG_PRODUCT,DRUG_NAME,POTENCY,DOSAGE,ROUTE_ADMINISTERED,NOTES).
+
+This hands on will focus on discovering these data, find patterns and data quality issues, and fix them.
 
 ## Log Into SAP Data Intelligence
 
@@ -80,8 +90,16 @@ After completing these steps you will have discovered dataset stored in a databa
 12. Click 'View FactSheet' on the 'PHARMA_CLAIM_##' database table tile (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part03_12.png).
 
-13. This shows the factsheet (DETAILS).
+13. This shows the 'Fact Sheet'.
 <br>![](/exercises/ex1/images/Ex01_Part03_13.png)
+
+```
+The 'Fact Sheet' is the central place in SAP Data Intelligence Metatadata Explorer to find information about your data.
+You can easily profile the data and get access to metadata information.
+It also contains links and information about business terms and tags associated to the dataset or the columns.
+Users can describe, rate, and comment the data collaboratively.
+You can preparare the data for other downstream usage.
+```
 
 14. Click 'Start Profiling'.
 <br>![](/exercises/ex1/images/Ex01_Part03_14.png)
@@ -126,7 +144,7 @@ You have now discovered a table in a database, profiled the data and found some 
 
 ## Upload your Dataset
 
-After completing these steps you will have uploaded and published datasets in SAP Data Intelligence.
+After completing these steps you will have uploaded a dataset from a flat flat to a cloud data lake data repository using SAP Data Intelligence.
 
 1. Click on 'Browse Connections'.
 <br>![](/exercises/ex1/images/Ex01_Part02_01.png)
@@ -173,10 +191,13 @@ After completing these steps you will have uploaded and published datasets in SA
 15. The file is now uploaded and available in the data lake.
 <br>![](/exercises/ex1/images/Ex01_Part02_15.png)
 
+You have now uploaded a dataset from a local flat file to a cloud data lake data repository using SAP Data Intelligence..
+
 ## Enrich Dataset and Isolate Data Quality Issues
 
 After completing these steps you will have created a new dataset using self-service data preparation.
 This new dataset will help to easily isolate invalid claims.
+Additionally you will profile this dataset, add a rating and description and publish it in the catalog so it can be easily retrieved.
 
 1. Click 'More Actions'.
 <br>![](/exercises/ex1/images/Ex01_Part04_01.png)
@@ -261,6 +282,12 @@ This new dataset will help to easily isolate invalid claims.
 
 28. The main self-service data preparation room now shows the enriched dataset.
 <br>![](/exercises/ex1/images/Ex01_Part04_28.png)
+
+```
+The enriched dataset now contains null records for the field 'DRUG_NAME_0' for the records in the claim dataset which the drug name did not exists in our reference.
+There are potential multiple reasons for that. Some might be spelling mistakes of drug names, some other might be drugs that are not taken into account by the insurance company, some could be that the drug name in our claim was null.
+You can now use this enriched dataset to isolate the data quality issues to further understand the data.
+```
 
 29. Click 'Actions'.
 <br>![](/exercises/ex1/images/Ex01_Part04_29.png)
@@ -412,8 +439,11 @@ This new dataset will help to easily isolate invalid claims.
 78. You returned to the Metadata Explorer home page.
 <br>![](/exercises/ex1/images/Ex01_Part04_78.png)
 
+You have now created a new dataset using self-service data preparation. This new dataset helps to easily isolate invalid claims.
+You also profiled this dataset, added a rating and a description and published it in the catalog so it can be easily retrieved.
+
 ## Summary
 
-You've now ...
+You've now used Metadata Explorer to connect and interact with different data repositories (Databases, Cloud Data Lake, Local File System). You profiled and discovered data to identify data quality issues. You created a new enriched dataset to isolate these data quality issues. You published this dataset to the catalog.
 
 Continue to - [Hands-on - Part 2](../ex2/README.md)
