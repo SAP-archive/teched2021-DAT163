@@ -1,4 +1,4 @@
-# Hands-on - Part 2
+# Hands-on - Part 2 (Govern and Monitor Data Quality)
 
 In this exercise, you will continue to interact with the enriched dataset you created in the previous part.
 You will first modify the recipe you used to create that dataset, schedule a publication so it can take into account potential metadata changes in the future.
