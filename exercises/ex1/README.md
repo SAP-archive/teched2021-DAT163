@@ -1,4 +1,4 @@
-# Hands-on - Part 1
+# Hands-on - Part 1 (Discover, Prepare, and Enrich)
 
 As a Business Analyst or Data Steward, you need to understand and gain insight into your data. After accessing various data, profiling them and reviewing the profiling results you will be able to add a glossary term to a column in your dataset as well as provide a rating and comment on the dataset.
 
