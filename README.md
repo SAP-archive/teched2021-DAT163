@@ -58,7 +58,7 @@ The requirements to follow the exercises in this repository are:
 ## Content
 - [Introduction](exercises/ex0/)
     - [SAP Data Intelligence Overview](exercises/ex0#ex0#sap-data-intelligence---overview)
-- [Exercise 1 - Profile The Data](exercises/ex1/)
+- [Hands-on - Part 1](exercises/ex1/)
     - [Exercise 1.1 - Log Into SAP Data Intelligence](exercises/ex1#log-into-sap-data-intelligence)
     - [Exercise 1.2 - Browse data in a Connected System (Database)](exercises/ex1#browse-data-in-a-connected-system-database)
     - [Exercise 1.3 - Upload Your Dataset](exercises/ex1#upload-your-dataset)
