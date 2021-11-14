@@ -40,6 +40,12 @@ It comes with an interactive development environment to work with notebooks, cod
 
 You can harness the usage of Jupyter notebooks in data-driven applications by benefitting from the seamless integration of the JupyterLab environment and the pipeline modeler application.
 
+### Data Cataloging
+
+SAP Data Intelligence enables a unified data catalog to easily discover, organize, and curate your data.
+
+
+
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
 
