@@ -2,7 +2,7 @@
 
 In this part, you will learn about the main capabilities in SAP Data Intelligence Metadata Explorer, then you will get a preview about the dataset used in the hands-on.
 
-## SAP Data Intelligence
+## SAP Data Intelligence - Overview
 
 SAP Data Intelligence allows to connect, discover, enrich, and orchestrate disjointed data assets into actionable business insights at enterprise scale.
 
@@ -14,6 +14,19 @@ It's core capabilities are:
 <br>![](/exercises/ex0/images/Ex00_DataIntelligence_01.png)
 
 ### Data Integration
+
+With SAP Data Intelligence, you can integrate any kind of data (structured, unstructured or streaming), with any pattern (real-time, near-real-time, batch), enrich it, refine it and feed process it.
+
+SAP Data Intelligence Modeler is a flow-based application that allows to build powerful pipelines using drag-and-drop operators.
+There are over 250 operators (data integration, connectivity, processing, data quality, ML ...) that allows to combine and switch between integration styles (streaming, batch, replication, virtualization, migration, ...).
+The operators are extensible and the application supports custom and partner operators.
+The data pipelines also support data workflows for cross-system orchestration (trigger execution of SAP BW Process chains, execute remote SAP Data Services jobs, submit Spark jobs to Hadoop clusters, ...).
+
+SAP Data Intelligence modeler enables to create complex, multistep, reusable data pipelines and operators.
+
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_02.png)
+
+### Data Processing
 
 
 
