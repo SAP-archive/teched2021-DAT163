@@ -1,8 +1,8 @@
-# Level 1 Heading
+# Introduction
 
-In this exercise, you will...
+In this part, you will learn about the main capabilities in SAP Data Intelligence Metadata Explorer, then you will get a preview about the dataset used in the hands-on.
 
-## Level 2 Heading
+## SAP Data Intelligence
 
 After completing these steps you will have....
 
@@ -19,6 +19,10 @@ After completing these steps you will have....
     RETURN.
   ENDIF.
 ```
+
+## SAP Data Intelligence Metadata Explorer
+
+## Hands-on
 
 ## Summary
 
