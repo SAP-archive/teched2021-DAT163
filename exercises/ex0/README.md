@@ -76,6 +76,11 @@ Profile data and get insights via the 'Fact Sheet' with overview from columns, m
 
 Easily create, update, and manage data quality rules.
 
+Rules support one or more parameters and one or more conditions for each parameter. The parameter might be the name of a frequently used column in your dataset. A condition you set shows the criteria of what might cause the record to pass or fail.
+
+You can also specify logical expressions for your conditions.
+After the rule is created, you can test the rule with some sample data to see if the results meet your expectations.
+
 <br>![](/exercises/ex0/images/Ex00_DataIntelligence_08.png)
 
 Visualize data quality in easy-to-consume dashboards
