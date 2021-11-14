@@ -55,7 +55,9 @@ The requirements to follow the exercises in this repository are:
 - Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.
 - Some user interface elements may differ from the screenshot used in the exercise.
 
-## Exercises
+## Content
+- [Introduction](exercises/ex0/)
+    - [Exercise 1.1 - Log Into SAP Data Intelligence](exercises/ex0#log-into-sap-data-intelligence)
 - [Exercise 1 - Profile The Data](exercises/ex1/)
     - [Exercise 1.1 - Log Into SAP Data Intelligence](exercises/ex1#log-into-sap-data-intelligence)
     - [Exercise 1.2 - Browse data in a Connected System (Database)](exercises/ex1#browse-data-in-a-connected-system-database)
