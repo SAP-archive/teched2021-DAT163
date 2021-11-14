@@ -927,3 +927,9 @@ In this hands-on you:
 * Created a glossary and terms and associated them with your data
 * Assessed the quality of a dataset using rules and a rulebook
 * Improved the data qith data remediation and witness the results
+
+For more information about SAP Data Intelligence, you can have a look at the following ressources:
+* Product Home Page: https://www.sap.com/products/data-intelligence/features.html
+* Help Portal: https://help.sap.com/viewer/product/SAP_DATA_INTELLIGENCE/Cloud/en-US
+
+Thanks!
