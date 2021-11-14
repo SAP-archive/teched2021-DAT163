@@ -105,14 +105,7 @@ Use data preparation to find data quality issues, correct and standardize data, 
 
 Use the Data Preparation user interface to view a set of data and create a recipe of actions to shape the data. After processing the preparation, the transformed data is output into a target data set that other downstream applications can use.
 
-2.	Insert this code.
-```
-Test: Note to the user to explain things.
-```
-
-## Hands-on
-
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now that you have learned about SAP Data Intelligence and Metadata Explorer. 
+Continue to - [Hands-on - Part 1 - Exercise 1 Description](../ex1/README.md)
