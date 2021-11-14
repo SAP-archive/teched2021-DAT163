@@ -74,18 +74,26 @@ Profile data and get insights via the 'Fact Sheet' with overview from columns, m
 
 ### Data Quality Monitoring
 
+Easily create, update, and manage data quality rules.
+
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_08.png)
+
+Visualize data quality in easy-to-consume dashboards
+
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_09.png)
+
+### Data Preparation and Enrichment
+
+Prepare and cleanse data via self-service data preparation.
+
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_10.png)
+
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
 
 2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+```
+Test: Note to the user to explain things.
 ```
 
 ## SAP Data Intelligence Metadata Explorer
