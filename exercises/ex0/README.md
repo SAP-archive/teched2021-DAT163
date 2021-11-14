@@ -20,13 +20,13 @@ With SAP Data Intelligence, you can integrate any kind of data (structured, unst
 SAP Data Intelligence Modeler is a flow-based application that allows to build powerful pipelines using drag-and-drop operators.
 There are over 250 operators (data integration, connectivity, processing, data quality, ML ...) that allows to combine and switch between integration styles (streaming, batch, replication, virtualization, migration, ...).
 
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_02.png)
+
 The operators are extensible and the application supports custom and partner operators.
 
 The data pipelines also support data workflows for cross-system orchestration (trigger execution of SAP BW Process chains, execute remote SAP Data Services jobs, submit Spark jobs to Hadoop clusters, ...).
 
 SAP Data Intelligence modeler enables to create complex, multistep, reusable data pipelines and operators.
-
-<br>![](/exercises/ex0/images/Ex00_DataIntelligence_02.png)
 
 ### Data Processing
 
