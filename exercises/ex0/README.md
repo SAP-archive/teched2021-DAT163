@@ -44,6 +44,15 @@ You can harness the usage of Jupyter notebooks in data-driven applications by be
 
 SAP Data Intelligence enables a unified data catalog to easily discover, organize, and curate your data.
 
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_04.png)
+
+SAP Data Intelligence Metadata Explorer enables to:
+* Discover data (crawl, profile, organize, link, and enrich) and make data accessible (browse, search)
+* Classify and organize data (ML-driven auto-tag) and understand it (location, attributes, quality, lineage, sensitivity)
+* Enforce centralized authorization and security for data orchestration, and control data quality standards
+
+## SAP Data Intelligence Metadata Explorer - Main Capabilities
+
 
 
 1.	Click here.
