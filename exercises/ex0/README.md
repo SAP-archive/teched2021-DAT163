@@ -1,4 +1,4 @@
-# Introduction
+# Product Overview
 
 In this part, you will learn about the main capabilities in SAP Data Intelligence Metadata Explorer, then you will get a preview about the dataset used in the hands-on.
 
