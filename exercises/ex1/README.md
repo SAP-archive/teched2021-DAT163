@@ -416,4 +416,4 @@ This new dataset will help to easily isolate invalid claims.
 
 You've now ...
 
-Continue to - [Hands on Part - 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Hands-on - Part 2](../ex2/README.md)
