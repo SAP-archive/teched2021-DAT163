@@ -57,13 +57,14 @@ The requirements to follow the exercises in this repository are:
 
 ## Content
 - [Introduction](exercises/ex0/)
-    - [SAP Data Intelligence Overview](exercises/ex0#ex0#sap-data-intelligence---overview)
+    - [SAP Data Intelligence Overview](exercises/ex0#sap-data-intelligence---overview)
+    - [SAP Data Intelligence Metadata Explorer - Main Capabilities](exercises/ex0#sap-data-intelligence-metadata-explorer---main-capabilities)
 - [Hands-on - Part 1](exercises/ex1/)
     - [Exercise 1.1 - Log Into SAP Data Intelligence](exercises/ex1#log-into-sap-data-intelligence)
     - [Exercise 1.2 - Browse data in a Connected System (Database)](exercises/ex1#browse-data-in-a-connected-system-database)
     - [Exercise 1.3 - Upload Your Dataset](exercises/ex1#upload-your-dataset)
     - [Exercise 1.4 - Enrich a Dataset](exercises/ex1#enrich-dataset-and-isolate-data-quality-issues)
-- [Exercise 2 - Catalog, Terms](exercises/ex2/)
+- [Hands-on - Part 2](exercises/ex2/)
     - [Exercise 2.1 - Modify Preparation](exercises/ex2#modify-preparation)
     - [Exercise 2.2 - Business Glossary](exercises/ex2#business-glossary)
     - [Exercise 2.3 - Rules](exercises/ex2#rules)
