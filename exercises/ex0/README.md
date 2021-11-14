@@ -4,7 +4,14 @@ In this part, you will learn about the main capabilities in SAP Data Intelligenc
 
 ## SAP Data Intelligence
 
-After completing these steps you will have....
+SAP Data Intelligence allows to connect, discover, enrich, and orchestrate disjointed data assets into actionable business insights at enterprise scale.
+
+It's core capabilities are:
+* Data Integration
+* Data Processing
+* Data Cataloging
+
+
 
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
