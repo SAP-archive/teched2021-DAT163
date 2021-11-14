@@ -11,7 +11,7 @@ It's core capabilities are:
 * Data Processing
 * Data Cataloging
 
-
+<br>![](/exercises/ex0/images/Ex00_DataIntelligence_01.png)
 
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
