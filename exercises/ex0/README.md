@@ -108,4 +108,4 @@ Use the Data Preparation user interface to view a set of data and create a recip
 ## Summary
 
 Now that you have learned about SAP Data Intelligence and Metadata Explorer. 
-Continue to - [Hands-on - Part 1 - Exercise 1 Description](../ex1/README.md)
+Continue to - [Hands-on - Part 1](../ex1/README.md)
