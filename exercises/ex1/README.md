@@ -4,6 +4,10 @@ As a Business Analyst or Data Steward, you need to understand and gain insight i
 
 In this exercise, you will discover and interact with various connected systems, upload a dataset, profile the data, rate dataset, create a relationship with data and a glossary term
 
+```
+Test: Note to the user to explain things.
+```
+
 ## Log Into SAP Data Intelligence
 
 After completing these steps, you will have logged into SAP Data Intelligence.
@@ -412,4 +416,4 @@ This new dataset will help to easily isolate invalid claims.
 
 You've now ...
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Hands on Part - 2 - Exercise 2 Description](../ex2/README.md)
