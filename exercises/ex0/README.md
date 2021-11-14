@@ -95,19 +95,20 @@ Create a dashboard with custom tiles showing the results of the datasets, catego
 
 ### Data Preparation and Enrichment
 
-Prepare and cleanse data via self-service data preparation.
+Discover, prepare and cleanse, and share data with a visual, interactive interface intended for less complex tasks.
+
+Business users and data scientists can access, transform, and enrich datasets using a spreadsheet-like user interface in Metadata Explorer.
+
+Use data preparation to find data quality issues, correct and standardize data, and then output the data for analysis. This process improves efficiency and gains better business insights.
 
 <br>![](/exercises/ex0/images/Ex00_DataIntelligence_10.png)
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+Use the Data Preparation user interface to view a set of data and create a recipe of actions to shape the data. After processing the preparation, the transformed data is output into a target data set that other downstream applications can use.
 
 2.	Insert this code.
 ```
 Test: Note to the user to explain things.
 ```
-
-## SAP Data Intelligence Metadata Explorer
 
 ## Hands-on
 
