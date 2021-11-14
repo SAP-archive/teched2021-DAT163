@@ -1,4 +1,4 @@
-# Exercise 2 - Exercise 2 Description
+# Hands-on - Part 2
 
 In this exercise, we will create...
 
