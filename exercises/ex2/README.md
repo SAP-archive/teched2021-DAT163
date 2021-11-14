@@ -1,10 +1,14 @@
 # Hands-on - Part 2
 
-In this exercise, we will create...
+In this exercise, you will continue to interact with the enriched dataset you created in the previous part.
+You will first modify the recipe you used to create that dataset, schedule a publication so it can take into account potential metadata changes in the future.
+Then you will create rules and a rulebook to visually track the data quality issues that were found.
+Finally you will curate the data.
 
 ## Modify Preparation
 
-After completing these steps you will have created...
+After completing these steps you will have modified your data preparation recipe to further isolate the data quality issues on a specific column.
+Then you will schedule a publication of this dataset to take into account potantial metadata changes in the future.
 
 1. Click 'View Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_01.png)
@@ -135,7 +139,7 @@ After completing these steps you will have created...
 43. Click 'Disable'.
 <br>![](/exercises/ex2/images/Ex02_Part01_43.png)
 
-44. The aggregation action is now disabled. The data preparation room shows the data prior executing the aggregation. The filters that were defined were automatically removed (but are still embedded in the definition of the aggregation). At any point of time, we can come back to this data preparation recipe and reactive this action.
+44. The aggregation action is now disabled. The data preparation room shows the data prior executing the aggregation. The filters that were defined were automatically removed (but are still embedded in the definition of the aggregation). At any point of time, we can come back to this data preparation recipe and reactivate this action.
 <br>![](/exercises/ex2/images/Ex02_Part01_44.png)
 
 45. Click 'Actions'.
@@ -213,6 +217,9 @@ After completing these steps you will have created...
 69. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part01_69.png)
 
+Because you changed the structure of the dataset, you would also need to publish the dataset once again to the catalog.
+However, instead of repeating this operation, you can schedule the publication of the dataset instead of doing it manually every time the structure of the data changes.
+
 70. Click 'scheduled tasks' to create a new scheduled task.
 <br>![](/exercises/ex2/images/Ex02_Part01_70.png)
 
@@ -255,7 +262,12 @@ After completing these steps you will have created...
 83. You are back to the solution home page.
 <br>![](/exercises/ex2/images/Ex02_Part01_83.png)
 
+You have now modified your data preparation recipe to further isolate the data quality issues on a specific column.
+You also have scheduled a publication of this dataset to take into account potantial metadata changes in the future.
+
 ## Business Glossary
+
+After completing these steps you will have created a glossary and business terms and associated them to your enriched dataset.
 
 1. Click 'glossaries' to access or create a new glossary.
 <br>![](/exercises/ex2/images/Ex02_Part02_01.png)
@@ -392,7 +404,11 @@ After completing these steps you will have created...
 45. You are back to the Data Intellience Metadata Explorer Home page.
 <br>![](/exercises/ex2/images/Ex02_Part02_45.png)
 
+You have now created a glossary and business terms and associated them to your enriched dataset.
+
 ## Rules
+
+After completing these steps you will have created rules and a rulebook that is evaluating the data quality of your enriched dataset.
 
 1. Click 'rules' to access existing or create new rules.
 <br>![](/exercises/ex2/images/Ex02_Part03_01.png)
@@ -646,7 +662,11 @@ After completing these steps you will have created...
 84. You are back to the Data Intelligence Metadata Explorer home page.
 <br>![](/exercises/ex2/images/Ex02_Part03_84.png)
 
+You have now created rules and a rulebook that is evaluating the data quality of your enriched dataset.
+
 ## Data Remediation
+
+After completing these steps you will have fixed data quality issues using the data remediation preparation.
 
 1. Click 'View Preparations'.
 <br>![](/exercises/ex2/images/Ex02_Part04_01.png)
@@ -695,6 +715,10 @@ After completing these steps you will have created...
 
 16. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part04_16.png)
+
+You fixed data quality issues using the data preparation recipe that was automatically generated with the execution of the rulebook.
+In a normal process, the output dataset resulting of that data remediation process would be used in order to update the original table that contains the data quality issues using workflow and approovals.
+For this hands-on, you can use the data preparation recipe you created to simulate the update process of the data and see the results in the rulebook.
 
 17. Click 'View Preparations'.
 <br>![](/exercises/ex2/images/Ex02_Part04_17.png)
@@ -891,8 +915,15 @@ After completing these steps you will have created...
 81. You are back to the home page of the Metadata Explorer.
 <br>![](/exercises/ex2/images/Ex02_Part04_81.png)
 
-## Summary
+You have now fixed data quality issues using the data remediation preparation.
 
-You've now ...
+## Conclusion
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+In this hands-on you:
+* Accessed and discovered several data repositories (Database, Cloud Data Lake, Local File System)
+* Profiled and published dataset to the catalog
+* Found data quality issues
+* Created your own enriched dataset
+* Created a glossary and terms and associated them with your data
+* Assessed the quality of a dataset using rules and a rulebook
+* Improved the data qith data remediation and witness the results
