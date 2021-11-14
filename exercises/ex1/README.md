@@ -11,10 +11,26 @@ You will interact with two different dataset:
 * A flat file (csv) which you will upload in a cloud data lake data repository
 
 The first dataset, the SAP HANA Table, contains information about pharmaceutic claims for an insurance company.
-It contains 8 fields (RECORD_ID,INSURANCE,PLAN,PATIENT_ID,OUTSTANDING,CO_PAY,VISIT,DRUG_NAME).
+
+It contains 8 fields:
+* RECORD_ID (Unique Identifier associated to a claim)
+* INSURANCE (Name of the insurance company)
+* PLAN (Plan associated at the insurance company)
+* PATIENT_ID (Unique Identifier of the patient this claim is for)
+* OUTSTANDING (Amount for the drug)
+* CO_PAY (Amount of co pay, if any)
+* VISIT (Date of the visit associated to this claim)
+* DRUG_NAME (Drug name for the claim)
 
 The second dataset, the flat file you retrieved on the main page of this hands-on, contains a list of drugs which are supported by this insurance company.
-It contains 6 fields (ORIG_PRODUCT,DRUG_NAME,POTENCY,DOSAGE,ROUTE_ADMINISTERED,NOTES).
+
+It contains 6 fields:
+* ORIG_PRODUCT (Non split entry)
+* DRUG_NAME (Drug name)
+* POTENCY (Potency associated to the drug)
+* DOSAGE (Dosage for the drug)
+* ROUTE_ADMINISTERED (How the drug is administered)
+* NOTES (Additional notes, if any)
 
 This hands on will focus on discovering these data, find patterns and data quality issues, and fix them.
 
