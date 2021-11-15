@@ -341,7 +341,7 @@ After completing these steps you will have created a glossary and business terms
 23. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part02_23.png)
 
-24. Search 'CLAIMS_*_##' *(where ## is your user number).
+24. Search 'DAT163_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part02_24.png)
 
 25. Check your dataset (for example PHARMA_CLAIMS_ENRICHED_01 if your user number is 01).
