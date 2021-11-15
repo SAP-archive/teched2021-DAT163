@@ -308,7 +308,7 @@ After completing these steps you will have created a glossary and business terms
 12. Type 'Potency' in the 'Name' text field.
 <br>![](/exercises/ex2/images/Ex02_Part02_12.png)
 
-13. Type the following definition for the term: 'Measure of drug activity expressed in terms of the amount required to produce an effect of given intensity.
+13. Type the following definition for the term: 'Measure of drug activity expressed in terms of the amount required to produce an effect of given intensity'.
 <br>![](/exercises/ex2/images/Ex02_Part02_13.png)
 
 14. Click 'Save'.
