@@ -795,7 +795,7 @@ For this hands-on, you can use the data preparation recipe you created to simula
 40. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part04_40.png)
 
-41. Click '<' to come back to the list of actions related to recipe.
+41. Click '<' to come back to the 'Run Preparation' menu.
 <br>![](/exercises/ex2/images/Ex02_Part04_41.png)
 
 42. You can now run your preparation to create a new curated dataset.
