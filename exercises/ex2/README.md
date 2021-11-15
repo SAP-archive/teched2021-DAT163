@@ -590,7 +590,7 @@ After completing these steps you will have created rules and a rulebook that is 
 59. Click 'Create Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part03_59.png)
 
-60. The first rule is now mapped to a dataset.
+60. Click 'Close'.
 <br>![](/exercises/ex2/images/Ex02_Part03_60.png)
 
 61. Click '>' to create a binding for the second rule.
