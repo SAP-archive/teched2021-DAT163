@@ -203,7 +203,7 @@ After completing these steps you will have uploaded a dataset from a flat flat t
 15. The file is now uploaded and available in the data lake.
 <br>![](/exercises/ex1/images/Ex01_Part02_15.png)
 
-You have now uploaded a dataset from a local flat file to a cloud data lake data repository using SAP Data Intelligence..
+You have now uploaded a dataset from a flat file on your local folder to a cloud data lake data repository using SAP Data Intelligence.
 
 ## Enrich Dataset and Isolate Data Quality Issues
 
