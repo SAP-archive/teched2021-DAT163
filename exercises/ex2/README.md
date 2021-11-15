@@ -596,10 +596,10 @@ After completing these steps you will have created rules and a rulebook that is 
 61. You created the binding for the first rule. Expand the second rule to create it's binding.
 <br>![](/exercises/ex2/images/Ex02_Part03_61.png)
 
-62. The binding window shows up.
+62. Click 'Create Rule Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part03_62.png)
 
-63. Click '+' to create a new binding.
+63. Click 'Step 2'.
 <br>![](/exercises/ex2/images/Ex02_Part03_63.png)
 
 64. Click 'Select a dataset'.
