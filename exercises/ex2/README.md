@@ -614,7 +614,7 @@ After completing these steps you will have created rules and a rulebook that is 
 67. Select 'DRUG_NAME'.
 <br>![](/exercises/ex2/images/Ex02_Part03_67.png)
 
-68. Click 'Create Mapping'.
+68. Click 'Create Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part03_68.png)
 
 69. Click 'Close'.
