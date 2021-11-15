@@ -317,7 +317,7 @@ After completing these steps you will have created a glossary and business terms
 15. Click the 'Go back to term list' icon.
 <br>![](/exercises/ex2/images/Ex02_Part02_15.png)
 
-16. The term is created and part of the glossary definitions. Click 'Potency'.
+16. The 'Term' is created and part of the glossary definitions. Click 'Potency'.
 <br>![](/exercises/ex2/images/Ex02_Part02_16.png)
 
 17. the term window shows up.
@@ -488,7 +488,7 @@ After completing these steps you will have created rules and a rulebook that is 
 25. Click the 'Save' icon.
 <br>![](/exercises/ex2/images/Ex02_Part03_25.png)
 
-26. Click '+'.
+26. Click '+' on the 'Conditions'.
 <br>![](/exercises/ex2/images/Ex02_Part03_26.png)
 
 27. Type 'DRUG_NAME_VALID' for the 'Condition Name', select 'DRUG_NAME_VALID' for the 'Parameter Name', select 'equals' for the 'Operator', and Type 'YES' for the 'Value or Format'.
@@ -497,7 +497,7 @@ After completing these steps you will have created rules and a rulebook that is 
 28. Click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part03_28.png)
 
-29. Click '<' to navigate back to the list of rules categories.
+29. Click '<' to navigate back to the list of rule categories.
 <br>![](/exercises/ex2/images/Ex02_Part03_29.png)
 
 30. You have created two different rules, now you can create a rulebook and associate these rules with a dataset.
@@ -929,7 +929,7 @@ In this hands-on you:
 * Created your own enriched dataset
 * Created a glossary and terms and associated them with your data
 * Assessed the quality of a dataset using rules and a rulebook
-* Improved the data qith data remediation and witness the results
+* Improved the data with data remediation and witness the results
 
 For more information about SAP Data Intelligence, you can have a look at the following ressources:
 * Product Home Page: https://www.sap.com/products/data-intelligence/features.html
