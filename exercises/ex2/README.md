@@ -554,7 +554,7 @@ After completing these steps you will have created rules and a rulebook that is 
 47. Click 'Create Rule Binding' to bind the rule with a dataset.
 <br>![](/exercises/ex2/images/Ex02_Part03_47.png)
 
-48. Click '+' to create a new binding.
+48. Click 'Step 2'.
 <br>![](/exercises/ex2/images/Ex02_Part03_48.png)
 
 49. the dataset bindings window shows up.
