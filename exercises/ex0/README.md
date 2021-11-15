@@ -85,7 +85,7 @@ After the rule is created, you can test the rule with some sample data to see if
 
 Visualize data quality in easy-to-consume rulebooks and dashboards
 
-Rulebooks contain a group of rules. Rather than running a single rule, you run a rulebook that can contain many rules. These rules can come from one or more rule category, and the rules may be bound to one or more datasets.
+Rulebooks contain a group of rules. Rather than running a single rule, you run a rulebook that can contain many rules. These rules can come from one or more rule categories, and the rules may be bound to one or more datasets.
 
 Grouping the rules into a rulebook helps to gain an understanding of the individual rules that have passed or failed within a larger context.
 
