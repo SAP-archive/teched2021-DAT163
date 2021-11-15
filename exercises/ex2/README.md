@@ -587,7 +587,7 @@ After completing these steps you will have created rules and a rulebook that is 
 58. Select 'VALID_DRUG'.
 <br>![](/exercises/ex2/images/Ex02_Part03_58.png)
 
-59. Click 'Save'.
+59. Click 'Create Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part03_59.png)
 
 60. The first rule is now mapped to a dataset.
