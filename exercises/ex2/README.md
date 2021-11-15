@@ -551,7 +551,7 @@ After completing these steps you will have created rules and a rulebook that is 
 46. The rules are now imported, you need to associate them with a dataset to be run against.
 <br>![](/exercises/ex2/images/Ex02_Part03_46.png)
  
-47. Click '>' to bind the rule with a dataset.
+47. Click 'Create Rule Binding' to bind the rule with a dataset.
 <br>![](/exercises/ex2/images/Ex02_Part03_47.png)
 
 48. Click '+' to create a new binding.
