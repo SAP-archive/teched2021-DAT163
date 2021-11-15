@@ -329,10 +329,10 @@ After completing these steps you will have created a glossary and business terms
 19. Click 'Relationships'.
 <br>![](/exercises/ex2/images/Ex02_Part02_19.png)
 
-20. Click 'Edit Related Objects'.
+20. Click 'Manage Relationships'.
 <br>![](/exercises/ex2/images/Ex02_Part02_20.png)
 
-21. Click 'Datasets/Columns'.
+21. Click 'Datasets or Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part02_21.png)
 
 22. Click 'DI_DATA_LAKE'.
