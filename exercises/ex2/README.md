@@ -822,73 +822,73 @@ For this hands-on, you can use the data preparation recipe you created to simula
 49. Expand both 'Accuracy' and 'Completeness' set of rules.
 <br>![](/exercises/ex2/images/Ex02_Part04_49.png)
 
-50. Click '>' to expand the rules binding associated to the first rule: 'DRUG_NAME_VALID_##' (where ## is your user number).
+50. Edit the rules binding associated to the first rule: 'DRUG_NAME_VALID_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_50.png)
 
 51. Delete the rule binding.
 <br>![](/exercises/ex2/images/Ex02_Part04_51.png)
 
-52. Click 'Yes'.
+52. Click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part04_52.png)
 
-53. Click '+' to create a new rule binding.
+53. Click 'Close'.
 <br>![](/exercises/ex2/images/Ex02_Part04_53.png)
 
-54. Click 'Select a dataset'.
+54. Expand 'Accuracy'.
 <br>![](/exercises/ex2/images/Ex02_Part04_54.png)
 
-55. Click 'Browse'.
+55. Click 'Create Rule Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part04_55.png)
 
-56. Select 'DI_DATA_LAKE' for the connection.
+56. Click 'Step 2'.
 <br>![](/exercises/ex2/images/Ex02_Part04_56.png)
 
-57. Click 'shared'.
+57. Click 'Browse'.
 <br>![](/exercises/ex2/images/Ex02_Part04_57.png)
 
-58. Type 'TechEd_DAT163_##' in the 'Filter items', then click your folder (where ## is your user number).
+58. Select 'DI_DATA_LAKE' for the 'Connection'.
 <br>![](/exercises/ex2/images/Ex02_Part04_58.png)
 
-59. Click 'PHARMA_CLAIMS_CURATED_##' (where ## is your user number).
+59. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part04_59.png)
 
-60. Click 'OK'.
+60. Filter 'TechEd_DAT163_##' and select your folder (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_60.png)
 
-61. Select a new mapping.
+61. Select 'PHARMA_CLAIMS_CURATED_##' (where ## is your user number). Then click 'Step 3'.
 <br>![](/exercises/ex2/images/Ex02_Part04_61.png)
 
-62. Select 'VALID_DRUG_NAME'.
+62. Select 'VALID_DRUG' for the mapping. Then click 'Create Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part04_62.png)
 
-63. Click 'Save'.
+63. Click 'Close'.
 <br>![](/exercises/ex2/images/Ex02_Part04_63.png)
 
-64. Select the second rule binding, then delete it.
+64. Expand 'Completeness', then edit the rule binding.
 <br>![](/exercises/ex2/images/Ex02_Part04_64.png)
 
-65. Click 'Yes'.
+65. Delete the column mapping for 'DRUG_NAME'. Then click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part04_65.png)
 
-66. Click '+' to add a new rule binding.
+66. Click 'Close'.
 <br>![](/exercises/ex2/images/Ex02_Part04_66.png)
 
-67. Click 'Select a dataset'.
+67. Expand 'Completeness', then click 'Create Rule Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part04_67.png)
 
-68. Select the 'PHARMA_CLAIMS_CURATED_##' existing binding (where ## is your user number).
+68. Click 'Step 2'.
 <br>![](/exercises/ex2/images/Ex02_Part04_68.png)
 
-69. Click 'Ok'.
+69. Select the existing 'Connection ID' for 'PHARMA_CLAIMS_CURATED_##', then click 'Step 3' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_69.png)
 
-70. Click 'Save'.
+70. Click 'Create Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part04_70.png)
 
-71. Click 'Run All'.
+71. Click 'Close'.
 <br>![](/exercises/ex2/images/Ex02_Part04_71.png)
 
-72. Select 'Replace' for the 'Output Results Mode'.
+72. Click 'Run All'.
 <br>![](/exercises/ex2/images/Ex02_Part04_72.png)
 
 73. Click 'Run'.
