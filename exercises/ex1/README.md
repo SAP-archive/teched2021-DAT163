@@ -331,7 +331,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 38. Click 'Remove'.
 <br>![](/exercises/ex1/images/Ex01_Part04_38.png)
 
-39. The column 'DRUG_NAME_0' is now deleted.
+39. The column 'DRUG_NAME_0' has been deleted.
 <br>![](/exercises/ex1/images/Ex01_Part04_39.png)
 
 40. Click '<' to navigate back to the 'Actions' menu.
