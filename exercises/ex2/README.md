@@ -704,10 +704,10 @@ After completing these steps you will have fixed data quality issues using the d
 11. The value 'Acetaminofen' was replaced by 'Acetaminophen'.
 <br>![](/exercises/ex2/images/Ex02_Part04_11.png)
 
-12. Click '<' to go back to the main actions associated to the recipe.
+12. Click '<' to go back to the 'Rulebook Dataset Results'.
 <br>![](/exercises/ex2/images/Ex02_Part04_12.png)
 
-13. Click 'Run Preparation'.
+13. Click '<' to go back to the 'Run Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part04_13.png)
 
 14. Type 'REMEDIATED_DATA_##' for the 'Dataset Name' (where ## is your user number).
