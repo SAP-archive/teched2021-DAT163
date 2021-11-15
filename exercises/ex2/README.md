@@ -557,10 +557,10 @@ After completing these steps you will have created rules and a rulebook that is 
 48. Click 'Step 2'.
 <br>![](/exercises/ex2/images/Ex02_Part03_48.png)
 
-49. the dataset bindings window shows up.
+49. Click 'Select a Connection'.
 <br>![](/exercises/ex2/images/Ex02_Part03_49.png)
 
-50. Click 'Select a Dataset'.
+50. Select 'DI_DATA_LAKE'.
 <br>![](/exercises/ex2/images/Ex02_Part03_50.png)
 
 51. Select 'DI_DATA_LAKE' for the 'Connections'.
