@@ -527,7 +527,7 @@ After completing these steps you will have created rules and a rulebook that is 
 38. The empty rule book is created.
 <br>![](/exercises/ex2/images/Ex02_Part03_38.png)
 
-39. Click the 'Import' icon.
+39. Click 'Add Rule'.
 <br>![](/exercises/ex2/images/Ex02_Part03_39.png)
 
 40. Expand 'Accuracy'.
