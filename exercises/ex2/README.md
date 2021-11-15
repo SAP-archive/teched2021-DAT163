@@ -593,7 +593,7 @@ After completing these steps you will have created rules and a rulebook that is 
 60. Click 'Close'.
 <br>![](/exercises/ex2/images/Ex02_Part03_60.png)
 
-61. Click '>' to create a binding for the second rule.
+61. You created the binding for the first rule. Expand the second rule to create it's binding.
 <br>![](/exercises/ex2/images/Ex02_Part03_61.png)
 
 62. The binding window shows up.
