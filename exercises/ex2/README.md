@@ -578,7 +578,7 @@ After completing these steps you will have created rules and a rulebook that is 
 55. The dataset is selected.
 <br>![](/exercises/ex2/images/Ex02_Part03_55.png)
 
-56. Click 'OK'.
+56. Click 'Step 3'.
 <br>![](/exercises/ex2/images/Ex02_Part03_56.png)
 
 57. Select a new associated mapping.
