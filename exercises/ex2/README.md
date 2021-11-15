@@ -281,7 +281,7 @@ After completing these steps you will have created a glossary and business terms
 3. Click '+'.
 <br>![](/exercises/ex2/images/Ex02_Part02_03.png)
 
-4. Type 'DRUGS_GLOSSARY_01' in the 'Name' text field.
+4. Type 'DRUGS_GLOSSARY_##' in the 'Name' text field (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part02_04.png)
 
 5. Select the 'GLOSSARY' Template.
