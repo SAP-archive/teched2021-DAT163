@@ -277,7 +277,7 @@ Additionally you will profile this dataset, add a rating and description and pub
 22. Select 'Left Join'.
 <br>![](/exercises/ex1/images/Ex01_Part04_22.png)
 
-23. Scroll down the list of output columns and uncheck 'ORIG_PRODUCT', 'POTENCY', 'DOSAGE', 'ROUTE_ADMINISTERED', NOTES.
+23. Scroll down the list of output columns and uncheck 'ORIG_PRODUCT', 'POTENCY', 'DOSAGE', 'ROUTE_ADMINISTERED', 'NOTES'.
 <br>![](/exercises/ex1/images/Ex01_Part04_23.png)
 
 24. Click Apply.
