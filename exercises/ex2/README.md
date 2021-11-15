@@ -97,7 +97,7 @@ Then you will schedule a publication of this dataset to take into account potant
 29. This shows only the claims with unknown drugs which are not null.
 <br>![](/exercises/ex2/images/Ex02_Part01_29.png)
 
-30. Click '<' to come back to the list of available actions.
+30. Click '<' to come back to the 'Run Preparation' menu.
 <br>![](/exercises/ex2/images/Ex02_Part01_30.png)
 
 30. Click once again '<' to come back to the list of available actions.
