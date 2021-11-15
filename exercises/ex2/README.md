@@ -602,10 +602,10 @@ After completing these steps you will have created rules and a rulebook that is 
 63. Click 'Step 2'.
 <br>![](/exercises/ex2/images/Ex02_Part03_63.png)
 
-64. Click 'Select a dataset'.
+64. Select 'DI_DATA_LAKE'.
 <br>![](/exercises/ex2/images/Ex02_Part03_64.png)
 
-65. Select 'DI_DATA_LAKE'.
+65. Click 'Step 3'.
 <br>![](/exercises/ex2/images/Ex02_Part03_65.png)
 
 66. Click 'OK'.
