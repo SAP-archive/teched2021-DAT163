@@ -314,7 +314,7 @@ After completing these steps you will have created a glossary and business terms
 14. Click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part02_14.png)
 
-15. Click '<' to come back to the list of terms.
+15. Click the 'Go back to term list' icon.
 <br>![](/exercises/ex2/images/Ex02_Part02_15.png)
 
 16. The term is created and part of the glossary definitions. Click 'Potency'.
