@@ -608,16 +608,16 @@ After completing these steps you will have created rules and a rulebook that is 
 65. Click 'Step 3'.
 <br>![](/exercises/ex2/images/Ex02_Part03_65.png)
 
-66. Click 'OK'.
+66. Select a new associated mapping.
 <br>![](/exercises/ex2/images/Ex02_Part03_66.png)
 
-67. Select a new associated mapping.
+67. Select 'DRUG_NAME'.
 <br>![](/exercises/ex2/images/Ex02_Part03_67.png)
 
-68. Select 'DRUG_NAME'.
+68. Click 'Create Mapping'.
 <br>![](/exercises/ex2/images/Ex02_Part03_68.png)
 
-69. Click 'Save'.
+69. Click 'Close'.
 <br>![](/exercises/ex2/images/Ex02_Part03_69.png)
 
 70. Both rules are now bound to a dataset. Click 'Run All'.
