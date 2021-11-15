@@ -100,6 +100,9 @@ Then you will schedule a publication of this dataset to take into account potant
 30. Click '<' to come back to the list of available actions.
 <br>![](/exercises/ex2/images/Ex02_Part01_30.png)
 
+30. Click once again '<' to come back to the list of available actions.
+<br>![](/exercises/ex2/images/Ex02_Part01_30b.png)
+
 31. Click 'Aggregate Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_31.png)
 
