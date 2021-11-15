@@ -563,7 +563,7 @@ After completing these steps you will have created rules and a rulebook that is 
 50. Select 'DI_DATA_LAKE'.
 <br>![](/exercises/ex2/images/Ex02_Part03_50.png)
 
-51. Select 'DI_DATA_LAKE' for the 'Connections'.
+51. The 'DI_DATA_LAKE' connection is selected.
 <br>![](/exercises/ex2/images/Ex02_Part03_51.png)
  
 52. Click 'shared'.
