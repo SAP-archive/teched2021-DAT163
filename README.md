@@ -19,16 +19,16 @@ The requirements to follow the exercises in this repository are:
 
 ## User Registration
 
-1. [Register](https://github.com/SAP-samples/teched2021-DAT163) to obtain your username and password
+1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/dat163-2) to obtain your username and password
 
 2. Select the workshop entry for the session.
-<br>![](/exercises/ex0/images/Ex00_Registration_01.png)
+<br>![](/exercises/ex0/images/Ex00_Registration_01b.png)
 
 3. Type your name.
-<br>![](/exercises/ex0/images/Ex00_Registration_02.png)
+<br>![](/exercises/ex0/images/Ex00_Registration_02b.png)
 
 4. Click 'Submit'.
-<br>![](/exercises/ex0/images/Ex00_Registration_03.png)
+<br>![](/exercises/ex0/images/Ex00_Registration_03b.png)
 
 ## Pre-Requisites
 
