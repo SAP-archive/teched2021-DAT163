@@ -19,7 +19,7 @@ The requirements to follow the exercises in this repository are:
 
 ## User Registration
 
-1. Register to obtain your username and password
+1. [Register](https://github.com/SAP-samples/teched2021-DAT163) to obtain your username and password
 
 2. Select the workshop entry for the session.
 <br>![](/exercises/ex0/images/Ex00_Registration_01.png)
