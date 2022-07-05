@@ -467,7 +467,7 @@ After completing these steps you will have created rules and a rulebook that is 
 18. Click 'More Actions' to create a new 'Accuracy' rule.
 <br>![](/exercises/ex2/images/Ex02_Part03_18.png)
 
-19. Click 'Create Rules'.
+19. Click 'Create Rule'.
 <br>![](/exercises/ex2/images/Ex02_Part03_19.png)
 
 20. Type 'DRUG_NAME_VALID_##' for both the 'Rule ID' and the 'Name' (where ## is your user id).
