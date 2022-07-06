@@ -38,7 +38,7 @@ This hands on will focus on discovering these data, find patterns and data quali
 
 After completing these steps, you will have logged into SAP Data Intelligence.
 
-1. Open Chrome and go to the SAP Data Intelligence url you were provided.
+1. Open Chrome and go to the SAP Data Intelligence url you were provided. You might need to use the URL and credentials from Getting started guide
 <br>![](/exercises/ex1/images/Ex01_Part01_01.png)
 
 2. Enter 'dat163-1' or 'dat163-2' for Tenant Name depending on your session and click 'Proceed'.
@@ -82,7 +82,7 @@ After completing these steps you will have discovered dataset stored in a databa
 4. This allows to show the list of connections as a list.
 <br>![](/exercises/ex1/images/Ex01_Part03_04.png)
 
-5. Select 'View Capabilities' for the 'HANA_DEMO' connection.
+5. Select 'View Capabilities' for the 'HANA_DEMO' or 'HANA_LOCALHOST' connection.
 <br>![](/exercises/ex1/images/Ex01_Part03_05.png)
 
 6. This lists all the features supported for a given connected system.
@@ -91,16 +91,16 @@ After completing these steps you will have discovered dataset stored in a databa
 7. Click 'Grid View' to come back to tiles.
 <br>![](/exercises/ex1/images/Ex01_Part03_07.png)
 
-8. Click on the 'HANA_DEMO' tile.
+8. Click on the 'HANA_DEMO' or 'HANA_LOCALHOST' tile.
 <br>![](/exercises/ex1/images/Ex01_Part03_08.png)
 
-9. Select 'TECHED_DAT163'.
+9. Select 'TECHED_DAT163' or 'TECHED'.
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
-10. The list of all available tables within the schema shows up.
+10. The list of all available tables within the schema shows up.  You might have 'PHARMA_CLAIMS' and 'QMTICKET' tables instead. 
 <br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
-11. Type 'PHARMA_CLAIMS_##' in the 'Filter items' text field (where ## is your user number, for example if your user number is 01, then type 'PHARMA_CLAIMS_01').
+11. Type 'PHARMA_CLAIMS_##' in the 'Filter items' text field (where ## is your user number, for example if your user number is 01, then type 'PHARMA_CLAIMS_01'). You might use 'PHARMA_CLAIMS' table instead. 
 <br>![](/exercises/ex1/images/Ex01_Part03_11.png)
 
 12. Click 'View FactSheet' on the 'PHARMA_CLAIM_##' database table tile (where ## is your user number).
