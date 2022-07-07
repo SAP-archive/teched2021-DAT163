@@ -97,10 +97,10 @@ After completing these steps you will have discovered dataset stored in a databa
 9. Select 'TECHED_DAT163' or 'TECHED'.
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
-10. The list of all available tables within the schema shows up.  You might have 'PHARMA_CLAIMS' and 'QMTICKET' tables instead. 
+10. The list of all available tables within the schema shows up.  Or you might have 'PHARMA_CLAIMS' and 'QMTICKET' tables instead. 
 <br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
-11. Type 'PHARMA_CLAIMS_##' in the 'Filter items' text field (where ## is your user number, for example if your user number is 01, then type 'PHARMA_CLAIMS_01'). You might use 'PHARMA_CLAIMS' table instead. 
+11. Type 'PHARMA_CLAIMS_##' in the 'Filter items' text field (where ## is your user number, for example if your user number is 01, then type 'PHARMA_CLAIMS_01'). Or you might need use 'PHARMA_CLAIMS' table instead. 
 <br>![](/exercises/ex1/images/Ex01_Part03_11.png)
 
 12. Click 'View FactSheet' on the 'PHARMA_CLAIM_##' database table tile (where ## is your user number).
